@@ -1,0 +1,87 @@
+to move;	bouger, se déplacer
+a gesture	;un geste
+to nod (assent)	;faire oui de la tête
+to beckon to so;	faire signe à qqn
+to shake hands with so;	serrer la main à qqn
+to wave good-bye	;agiter la main en signe d'adieu
+strength	;la force
+study, lusty;	robuste, vigoureux
+skill;	adresse, habileté
+skilful, clever;	adroit, habile
+to shake hands with so; serrer la main de qqn
+a handshake; une poignée de main
+clumsy	;maladroit
+awkward	;gauche
+disabled;	invalide
+a cripple	;un estropié, infirme
+to limp;	boîter
+a hunchback	;un bossu
+weak;	faible
+weakness;	faiblesse
+motionless, still;	immobile
+to lie, to be lying	;être allongé
+to be standing;	être debout
+to be kneeling;	être agenouillé
+to be sitting;	être assis
+to lean on;	s'appuyer
+gait;	la démarche
+pace;	l'allure
+to saunter, to loiter;	flâner, s'attarder
+to shuffle	;traîner des pieds
+to hang about	;rôder, traîner
+to stride;	marcher à grand pas
+a stride;	une enjambée
+to stalk	;marcher d'un pas majestueux
+on tiptoe	;sur la pointe des pieds
+to wander, to roam about;	errer, vagabonder
+to crawl;	ramper, se traîner
+on all fours;	à quatre pattes
+to stagger;	tituber
+to stumble;	trébucher
+to trip so up	;faire un croc-en-jambe à qqn
+to keep one's balance	;garder l'équilibre
+to pick up sthg;	ramasser qqchose
+to drop	;jeter à terre
+to turn round;	faire demi-tour
+to jump, to leap;	sauter
+to play leapfrog;jouer à saute-mouton (saute-grenouille littéralement)
+to take to one's heels;	prendre ses jambes à son cou
+to bow;	saluer, s'incliner
+a bow;	un salut, une révérence
+to stoop;	se baisser
+to fold one's arms;	se croiser les bras
+to bend	;courber, se baisser
+to scramble	;s'aider des pieds et des mains
+to seize sthg;	saisir qqch
+to carry sthg;	porter qqch
+to grab sthg;	saisir vivement qqch
+to clutch (at) sthg;	s'agripper à qqch
+to clasp so, to give so a hug;	étreindre qqn
+to wring sthg	;tordre qqch avec force
+to twist sthg;	retourner qqch
+to wrench	;arracher de force
+to deal a blow;	donner un coup
+to strike so, sthg;	frapper qqn, qqch
+to clench;	serrer (poings, dents)
+to stretch;	allonger, tendre
+to stroke;	caresser
+to make for;	gagner, se diriger vers
+to head for the open sea ; gagner le large	
+to fight one's way through;	se frayer un chemin
+to trample;	fouler aux pieds, écraser.
+to push;	pousser
+to pull;	tirer
+to draw sthg;	tirer, trainer qqch
+to raise sthg;	soulever qqch
+to drag sthg along ("Drag my mattress to the yard!");	trainer avec peine ("Drag my mattress to the yard!")
+to thrust	;enfoncer, fourrer
+to throw to so;	lancer à qqn pour qu'il l'attrape
+to throw at so;	lancer à qqn pour le blesser
+to fling, flang, flung;	lancer, jeter avec violence
+to fling open	;ouvrir en "grand"
+tired-out, exhausted;	épuisé
+weary	;las
+to rest, have a rest;	se reposer
+fatigue	;la fatigue
+lively, restless;	vif, remuant
+to keep still, quiet	;rester tranquille

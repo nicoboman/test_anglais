@@ -1,0 +1,118 @@
+the Army	;	l'armée de terre
+the Navy	;	la marine de guerre
+the Air Force	;	l'armée de l'air
+a platoon	;	une section
+a section	;	un groupe de combat
+a squad	;	un escadron
+a soldier	;	un soldat
+a private	;	un simple soldat
+a tommy	;	un soldat anglais
+a captain	;	un capitaine
+headquarters, HQ	;	le quartier général, le QG
+a volunteer	;	un volontaire
+to put so on fatigues, on fatigue duty	;	désigner qqn pour une ou des corvées
+a march past	;	un défilé
+to be on duty	;	être de service
+to stand on watch	;	être de garde
+a sentry	;	une sentinelle
+a sentry-box	;	une guérite
+to go on leave	;	aller en permission
+a uniform	;	un uniforme
+in battledress	;	en tenue de combat
+a helmet	;	un casque
+a stripe	;	un galon
+a medal	;	une médaille
+a rifle	;	un fusil
+the butt	;	la crosse
+the barrel	;	le canon
+a firearm	;	une arme à feu
+a cartridge	;	une cartouche
+a bullet	;	une balle
+a pistol	;	un pistolet
+a shot	;	un coup de feu
+a sword	;	une épée
+the blade	;	la lame
+a canon-ball	;	un boulet de canon
+to burst	;	exploser
+a weapon	;	une arme
+a nuclear warhead	;	une ogive nucléaire
+a rocket	;	une fusée
+to bomb	;	bombarder
+a bomb	;	une bombe
+the Admiralty	;	l'Amirauté
+an admiral	;	une amiral
+a squadron	;	une escadre
+a warship	;	un navire de guerre
+a battleship	;	un cuirassé
+a cruiser	;	un croiseur
+a destroyeur	;	un contre-torpilleur
+a frigate	;	une frégate
+an aircraft carrier	;	un porte-avion
+a minesweeper	;	un dragueur de mines
+a landing craft	;	un chaland de débarquement
+to fly over	;	survoler
+a shelter	;	un abri
+to bale out	;	sauter en parachute
+In-flight refueling	;	le ravitaillement en vol
+to escape detection	;	échapper aux radars
+a troop carrier	;	un transport de troupes
+a parachute	;	un parachute
+a parachutist	;	un parachutiste
+a glider	;	un planeur
+warlike	;	guerrier, belliqueux
+hostile	;	hostile
+to declare war upon	;	déclarer la guerre à
+war breaks out (NPC: school (or meeting) breaks UP)	;	la guerre éclate (NPC: school (or meeting) breaks UP)
+to invade	;	envahir
+to conquer	;	conquérir
+to be at war with	;	être en guerre avec
+the vanguard	;	L'avant-garde
+the rearguard	;	L'arrière-garde
+a hand-to-hand fight	;	un corps à corps
+a victory	;	une victoire
+a defeat	;	une défaite
+vanquished	;	vaincu
+to yield ground	;	céder du terrain
+to carry the day	;	remporter la victoire
+to lose the day	;	perdre la bataille
+to retreat	;	battre en retraite
+to withdraw	;	se retirer
+to chase, to pursue so	;	poursuivre qqn
+to resist so	;	résister à qqn
+to rout	;	mettre en déroute
+to crush	;	écraser
+panic-striken	;	pris de panique
+a pursuit	;	une poursuite
+a disaster	;	un désastre
+reinforcements	;	des renforts
+a stronghold	;	une forteresse
+a siege	;	un siege
+to besiege a town	;	assiéger une ville
+an assault	;	un assaut
+to take by storm	;	prendre d'assaut
+to storm a building	;	prendre un bâtiment d'assaut
+to plunder	;	piller
+to destroy	;	détruire
+to flee	;	s'enfuir
+to escape sthg	;	échapper à qqch
+to have a narrow escape	;	s'échapper de justesse
+trench warfare	;	la guerre de tranchée
+the front line	;	la première ligne
+barbed wire	;	les barbelés
+a patrol	;	une patrouille
+to harass	;	harceler
+to push back	;	repousser
+casualties	;	des pertes en vies humaines
+wounded	;	blessé
+unhurt	;	indemne
+safe and sound	;	sain et sauf
+to encircle	;	encercler
+to be taken prisoner	;	être fait prisonnier
+to set free	;	libérer (Set me free!)
+a ransom	;	une rançon
+a spy	;	un espion
+a mole	;	une taupe
+MI 5 (Military Intelligence 5)	;	le contre-espionnage (anglais)
+a truce	;	une trève
+to pull the trigger ; appuyer sur la gâchette
+

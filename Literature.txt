@@ -1,0 +1,119 @@
+a playwright	;	un auteur dramatique
+a drama	;	un drame
+a three-act play	;	une pièce en trois actes
+the plot	;	l'intrigue
+to write for the stage	;	écrire pour le théâtre
+stage directions	;	des indications scéniques
+characters	;	les personnages
+the director	;	le metteur en scène
+the hero, heroine	;	le héros, l'héroine
+the cast	;	la distribution
+to perform a play	;	jouer une pièce
+an actor, actress	;	un acteur, actrice
+a monologue	;	un monologue
+a soliloquy	;	un soliloque
+to know one's line	;	savoir son texte
+my mind went blank, I dried up	;	j'ai eu un trou de mémoire
+a tragedy / tragic / tragical	;	une tragédie / tragique / tragique
+melodrama	;	mélodrame
+a comedy of manners	;	une comédie de moeurs
+a skit	;	une parodie
+opera	;	l'opéra
+operetta	;	l'opérette
+the denouement	;	le dénouement
+catharsis	;	la catharsis
+a novelist / a novel	;	un romancier / un roman
+a fairy tale	;	un conte de fée
+a tale	;	un conte
+once upon a time	;	il était une fois
+a cloak-and-dagger story	;	un roman de cape et d'épée
+to unravel a mystery	;	élucider un mystère
+a serial story / a serial	;	un roman-feuilleton / un feuilleton (tv)
+to be awarded a prize	;	recevoir un prix littéraire
+the point of view	;	le point de vue
+to depict / to describe	;	dépeindre / décrire
+a poet / a poetess	;	un poète / une poétesse
+a line	;	un vers
+unrhymed / in rhyming verse	;	non-rimé / en vers rimés
+an iamb	;	un iambe
+manner and matter	;	la forme et le fond
+a ballad	;	une ballade (chanson)
+an essay	;	un essai
+to commit oneself / commited / uncommited	;	s'engager / engagé / non-engagé
+classicism / romanticism / realism / naturalism	;	le classicisme / le romantisme / le réalisme / le naturalisme
+surrealism / surrealistic	;	le surréalisme /surréaliste
+detailed	;	détaillé
+lively	;	vivant
+realistic	;	réaliste
+logical	;	logique
+hackneyed	;	rebattu, galvaudé
+to jump from one subject to antoher	;	passer du coq à l'âne
+odd, peculiar	;	étrange, singulier
+nonsense	;	l'absurdité
+to rephrase	;	reformuler
+irksome	;	ennuyeux, ingrat
+monotonous	;	monotone
+down-to-earth	;	terre à terre
+repetitive	;	répétitif
+ groundless assertions	;	des affirmations sans fondements
+inaccurate	;	inexact
+the author's design	;	le dessein de l'auteur
+the point of view, the view point	;	le point de vue
+to quote sthg, so / to quote from / a quotation from	;	citer qqch / faire des citations de / une citation de
+to point out that	;	signaler, faire remarquer
+a detailed account of	;	un compte-rendu détaillé
+an explanation	;	une explication
+a comment  / a commentary	;	un commentaire / un commentaire (composé)
+the ideas are clearly set out	;	les idées sont clairement exposées
+to tackle a problem	;	s'attaquer à un problème
+to avoid an issue	;	éviter un sujet
+to sum up, to summarize	;	résumer
+to put it in a nutshell	;	pour le dire en 2 mots, pour faire court
+terse	;	laconique
+accurate	;	précis, exact
+appropriate	;	juste, propre
+a satire	;	une satire
+wit / a wit / witty	;	l'esprit / un bel esprit / spirituel
+a quip	;	un quolibet
+to make fun of 	;	se moquer de
+irony / ironical	;	l'ironie / ironique
+an oxymoron	;	un oxymore
+a parable	;	une parabole
+a fable	;	une fable
+in contrast to	;	par contraste avec
+to contrast one thing with another	;	mettre qqchose en contraste avec qqch
+far-fetched	;	capilotracté (tiré par les cheveux)
+comma	;	virgule (,)
+colon	;	deux-points :
+semi-colon	;	point-virgule
+full stop	;	point (.)
+question mark	;	point d'interrogation (?)
+exclamation mark	;	point d'exclamation (!)
+quote	;	ouvrez les guillemets
+unquote	;	fermez les guillemets
+brackets	;	parenthèses
+dash	;	tiret (-)
+hyphen	;	trait d'union
+a sentence	;	une phrase
+language	;	la langue
+vocabulary	;	le vocabulaire
+a keyword	;	un mot-clé
+a commonplace	;	un lieu commun
+hackneyed	;	rebattu
+stress	;	l'accentuation
+rythm	;	le rythme
+a criticism	;	une critique
+a critic	;	un critique (métier)
+to review a book	;	faire la critique d'un livre
+to run the gauntlet of criticism	;	essuyer le feu de la critique
+to quote from a book	;	faire des citations d'un livre
+to plagiarize / plagiarism	;	plagier / le plagiat
+to take sthg into account	;	prendre qqch en compte
+impartial	;	impartial
+to praise a book	;	faire l'éloge d'un livre
+this reads well / badly	;	ceci se lit facilement / mal
+harsh on so, sthg	;	dur pour qqn, qqch
+pejorative	;	péjoratif
+to omit	;	omettre
+to neglect	;	négliger
+to direct	;	mettre en scène

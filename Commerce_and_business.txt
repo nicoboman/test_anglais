@@ -1,0 +1,100 @@
+goods, wares ; les marchandises 
+the producer ; le producteur 
+the consumer ; le consommateur 
+to sell ; vendre 
+to buy, to purchase ; acheter 
+sale ; la vente 
+purchase ; l'achat 
+a wholesaler, a wholesale dealer ; un grossiste 
+a middleman ; un intermédiaire 
+a retailer ; un détaillant 
+to order sthg ; commander qqch 
+to store sthg ; stocker, entreposer 
+a warehouse ; un entrepôt 
+a stall ; un étal 
+to run errands ; faire les commissions 
+a (department) store ; un grand magasin 
+a commodity ; une denrée 
+a department ; un rayon 
+customers ; les clients 
+patrons ; les clients habituels 
+shoplifting ; le vol à l'étalage 
+a shoplifter ; un voleur à l'étalage 
+a label ; une étiquette 
+how much is this worth ? ; combien ceci vaut-il ? 
+to bargain for sthg ; marchander qqch 
+dear, expensive ; coûteux, cher 
+I can't afford this ; Je n'ai pas les moyens de m'acheter ceci 
+the sales are on ; c'est la saison des soldes 
+a cheap item ; un article bon marché 
+a bargain ; une affaire 
+the flea market ; le marché aux puces 
+to sell on credit ; vendre à crédit 
+to pay cash ; payer comptant 
+to wrap ; envelopper 
+to have sth charged on one's credit card ; faire débiter qqch sur sa carte de crédit 
+brown paper ; du papier d'emballage 
+to tie ; attacher 
+cardboard ; du carton 
+sellotape ; du ruban adhésif 
+to deliver ; livrer 
+delivery ; la livraison 
+free ; gratuit, gratuitement 
+a receipt (this is your receipt) ; un reçu 
+to pack ; emballer 
+canvas ; de la toile 
+a self-service store ; un libre-service 
+a range ; une gamme, un choix 
+foodstuffs ; les produits alimentaires 
+fresh ; frais 
+frozen ; surgelés 
+groceries ; des articles d'épicerie 
+a tin ; une boîte de conserves 
+a brand ; une marque déposée 
+a trolley ; un chariot 
+the check-out ; la caisse 
+the bakery stand ; le rayon de la boulangerie 
+the meat counter ; le rayon de la boucherie 
+a multinational ; une multinationale 
+a subsidiary ; une filiale 
+CEO Chief Executive Officer ; PDG 
+to manage a company ; diriger une société 
+the board of directors ; le conseil d'administration 
+a share ; une action 
+a shareholder ; un actionnaire 
+the employers ; le patronat 
+a firm ; une entreprise 
+the staff ; le personnel 
+an employee ; un employé 
+to resign ; demissionner 
+resignation ; la démission 
+part-time jobs ; les emplois à temps partiel 
+to retire ; partir à la retraite 
+a clerk ; un employé 
+an invoice ; une facture 
+an accountant ; un comptable 
+a shorthand typist ; une sténodactylo 
+the office ; le bureau 
+bookkeeping ; la comptabilité 
+an errand boy ; un garçon de courses 
+an order ; une commande 
+trustworthy, reliable ; sûr, digne de confiance 
+to rely on sthg, so ; compter sur qqch, qqn 
+Mail-order business ; vente par correspondance 
+cash on delivery ; livraison contre remboursement 
+to deliver sthg ; livrer qqch 
+advertising ; la publicité 
+to export ; exporter 
+to import ; importer 
+smuggling ; la contrebande 
+keen competition ; une concurrence très vive 
+a fair ; une foire 
+a fun fair ; une fête foraine 
+a folder ; une dépliant, un prospectus 
+a booklet, a pamphlet ; un livret, une brochure 
+to boost sales ; faire monter les ventes 
+the consumer society ; la société de consommation 
+software ; le logiciel 
+hardware ; l'ordinateur (machine) 
+a floppy disc ; une disquette 
+to print out ; imprimer 

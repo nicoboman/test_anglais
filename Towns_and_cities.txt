@@ -1,0 +1,138 @@
+a capital;	une capitale
+slums	;des bas quartiers, des taudis
+squalid	;sordide
+unhealthy	;insalubre
+an unsafe lane;	une ruelle peu sûre
+filthy;	sale, infect
+overcrowded;	bondé, surpeuplé
+dilapidated;	délabré
+rehabilitation;	la rénovation
+to pull down;	démolir (volontairement)
+a prefab;	une maison préfabriquée
+shortage;	pénurie
+an outlying suburb;	un faubourg éloigné
+quiet	;calme, tranquille
+safe;	sûr
+to commute;	faire la navette pour aller travailler
+a flat;	un appartement
+Sound-proof	;insonorisé
+green areas;	les espaces verts
+council flats;	HLM
+a dormitory town;	une ville dortoire
+commuting	;le transport du domicile au travail
+a house of one's own	;une maison particulière
+a detached house;	un pavillon
+accomodation;	logement
+a semi-detached houses;	des maisons mitoyennes
+a sigle-storey house;	une maison à un étage
+the ground floor	;le RDC
+a row of houses;	une rangée de maisons
+a thoroughfare;	une artère
+a maze of lanes	;un dédalle de ruelle
+Cobble-stones;	des pavés
+to tar;	goudronner
+a pedestrian;	un piéton
+the pavement;	le trottoir
+kerb	;le bord du trottoir
+the gutter;	la gouttière
+passers-by;	les passants
+at rush hours	;aux heures de pointe
+congested	;embouteillé (roads are congested)
+trafic jam;	un embouteillage
+a crossroad	;un carrefour
+traffic lights	;les feux de signalisation
+a roundabout;	un rond-point
+to stop	;s'arrêter
+to start;	démarrer
+a pedestrian-crossing, a zebra-crossing	;un passage pour piétons
+to knock so down;	renverser qqn
+to run over so	;écraser qqn
+to swarm with people;	regorger de monde
+-> a swarm of bees;	un essaim d'abeilles
+to queue up	;faire la queue
+a mob	;une cohue, un attroupement
+a square;	une place
+railings;	des grilles
+a war memorial	;un monument aux morts
+litter;	des détritus
+dustmen;	éboueurs
+a rubbish bin;	une poubelle
+to be on duty	;être de service (agent de police)
+to be off duty;	ne pas être de service
+to ask one's way	;demander son chemin
+a policeman on the beat	;un agent qui fait sa ronde
+to put out a fire;	éteindre un incendie
+a fire extinguisher	;un extincteur
+an emergency exit;	une issue de secours
+a hose;	un tuyau
+a ladder;	une échelle
+to set sthg on fire ; mettre le feu à qqch
+a double-decker	;une bus à 2 étages
+a van;	une camionnette
+a cart;	une charrette
+a horse-drawn cart	;une charrette à cheval
+a handcart	;une charrette à bras
+the uproar, the din	;le tumulte, le vacarme
+to rattle along;	gronder, rouler avec fracas
+to sound the horn, to hoot;	klaxonner
+a subway	;un passage sous-terrain
+to deliver the mail;	distribuer le courrier
+to collect;	lever
+a clerk	;un employé
+to sort letters;	trier les lettres
+to sell stamps;	vendre des timbres
+over the counter;	au guichet
+a (slot)machine	;un distributeur automatique
+to stick a stamp;	coller un timber
+postage rates	;les tarifs postaux
+the postmark;	le cachet de la poste
+to fill in a form	; remplir un formulaire
+a callbox	;une cabine téléphonique
+to ring up, to call;	appeler
+to ring back	;rappeler
+the directory	;l'annuaire
+to dial a number;	composer un numéro
+a reversed charge call;	un appel en PCV
+to put through to so	; passer la communication au téléphone "Can you put him through to me ?"
+an answering machine;	un répondeur
+to put on a show;	monter un spectacle
+to perform a play	;jouer une pièce
+the players	; les acteurs
+an actor / an actress	;un acteur / une actrice
+a performance	;une représentation
+to rehearse;	répéter
+a rehearsal;	une répétition
+a director;	un metteur en scène
+to direct;	mettre en scène
+the audience;	le public
+to clap, to applaud	;applaudir
+to encore	;bisser
+applause;	les applaudissements
+to hiss so;	siffler qqn
+to boo so	;huer qqn
+to drop the curtain;	baisser le rideau "When the curtain rises,..."	
+spotlights;	des projecteurs
+the prompter;	le souffleur
+the cloakroom	;le vestiaire
+to book	;réserver
+to queue up;	faire la queue
+what films are on showing ?	;quels films sont au programme ? (cinéma)
+a documentary film ;	un documentaire
+a cartoon	;un dessin animé
+a trailer	;une bande annonce
+a preview	;une projection privée, une avant-première
+a conjurer;	un prestidigitateur
+a tamer;	un dompteur
+tame;	apprivoisé (l'animal)
+dodgems	;les auto-tamponneuses
+fireworks	;les feux d'artifice
+an accomodation;	un logement
+to put up at a hotel;	descendre dans un hôtel
+full board;	pension complète
+a restaurant;	un restaurant
+a waiter;	un serveur
+a waitress;	une serveuse
+to order	;commander
+a tip	;un pourboire
+take-away food;	la nourriture à emporter
+a glass of beer	;une verre de bière

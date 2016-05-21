@@ -1,0 +1,43 @@
+to abide;	abode, abode byrester fidèle à
+to bleed; bled, bled saigner
+to cling;	clung, clung s'accrocher, se cramponner
+to creep;	crept, crept ramper
+to dig;	dug, dug creuser
+to flee;	fled, fled s'enfuir
+to get;	got, gotten obtenir
+to hang;	hung, hung pendre, suspendre
+to knit;	knit, knit tricoter
+to lay;	laid, laid poser, coucher
+to lean;	leant, leant s'appuyer
+to leap;	leapt, leapt sauter, bondir
+to mow;	mowed, mown tondre
+to overhang;	hung, hung surplomber
+to sell;	sold, sold vendre
+to shear;	shore, shorn tondre (laine)
+to shed;	shed, shed perdre (ses feuilles)
+to shoe;	shod, shod chausser, ferrer
+to shut;	shut, shut fermer
+to sit;	sat, sat être assis
+to sew;	sewed, sewn coudre
+to slide;	slid, slid glisser
+to spell;	spelt, spelt épeller
+to sow;	sowed, sown semer
+to spin;	spun, spun filer (la laine)
+to spit;	spat, spat cracher
+to split;	split, split fendre
+to spoil;	spoilt, spoilt gâter
+to spread;	spread, spread (s')étendre
+to spring;	sprang, sprung bondir
+to steal;	stole, stolen voler, dérober
+to stride;	strode, stridden marcher à grand pas
+to swear;	swore,sworn jurer
+to thrive;	throve, thriven prospérer
+to thrust;	thrust,thrust enfoncer, fourrer
+to upset;	upset, upset chavirer
+to weave;	wove, woven tisser
+to weep;	wept, wept pleurer
+to wind;	wound, wound serpenter
+to withdraw;	withdrew, withdrawn se retirer
+to withstand;	withstood, withstood résister
+to wring;	wrung, wrung tordre, arracher
+to write;	wrote, written écrire

@@ -1,0 +1,102 @@
+landowner	; proprietaire_foncier
+farmer;	fermier
+tenant_farmer	;metayer
+farming	;agriculture
+farmstead;	ferme_et_ses_dépendances
+outbuildings;	dépendances
+a goat;	une chèvre
+shed;	hangar
+farmyard;	la_cour_de_la_ferme
+filthy;	malpropre
+ramshackle_dilapidated	;délabré,_en_ruine
+well;	puît
+pump;	pompe
+livestock;	cheptel
+horned_animals;	bêtes_à_cornes
+to_breed	;élever
+breed	;une_race
+herd;	troupeau_de_bovins
+pasture;	pâturage
+to_graze;	brouter, faire paître
+fodder;	fourrage
+bull;	taureau
+fierce	;sauvage_violent
+harmless;	inoffensif
+ox_oxen	;boeuf
+yoke;	le_joug
+drAughthorse;	cheval_de_trait
+cow;	vache
+cowshed	;étable
+litter;	litière
+straw	;paille
+dung;	fumier animal
+calf (pl: calves)	;veau
+to moo;	meugler
+to milk a cow	;traire une vache
+milking machine	;trayeuse
+dairy;	laiterie
+dairy produce	;produits laitiers
+horse	;cheval
+tail;	queue de cheval
+mane	;crinière
+mare;	jument
+colt;	poulain
+filly;	pouliche
+to neigh;	hennir
+racehorse	;cheval de course
+stable;	écurie
+to crack one's whip	;faire claquer un fouet
+drinking trough	;abreuvoir
+sheep	;mouton
+to shear;	tondre
+fleece;	toison
+to tend a flock	;garder un troupeau
+sheperd	;berger
+sheepdog	;chien de berger
+stray;	égaré
+ewe;	brebis
+lamb;	agneau
+gentle;	doux, paisible
+goat;	chèvre
+pig	;cochon
+pigsty[aï];	porcherie
+to grunt;	grogner
+piglet;	porcelet
+a mule;	une mule
+wilful, stubborn	;têtu, volontaire
+a pet	;un animal de compagnie
+the paw	;la patte
+mouse (mice);	souris
+a rat	;un rat
+to gnaw at sthg	;ronger
+to nibble at sthg	;grignoter
+a kitten;	chaton
+to mew;	miauler
+to purr;	ronronner
+to stroke;	caresser
+watchdog;	chien de garde
+kennel;	niche
+to let loose;	se détacher
+to bark	;aboyer
+mad dog	;chien enragé
+rabies;	rage
+poultry;	la volaille
+henhouse;	poulailler
+chicken-run;	poulailler (en-clos)
+fowl;	volaille (gibier à plumes)
+to feed	;nourrir
+a cock;	un coq
+the comb;	la crête
+to crow	;faire cocorico
+chicken;	poulet
+hen;	poule
+to lay an egg;	pondre un oeuf
+to brood, to sit on	;couver
+chick	;poussin
+to hatch;	éclore
+to cackle;	caqueter
+pigeon;	pigeon
+drake, duck;	canard
+the pond;	la mare
+turkey;	dinde
+guinea fowl;	pintade

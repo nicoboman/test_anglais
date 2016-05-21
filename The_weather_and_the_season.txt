@@ -1,0 +1,95 @@
+climate	;le climat
+temperate;	tempéré
+rainy, wet	;pluvieux
+a bright interval	;une éclaircie
+changeable, unsettled;	variable, incertain
+what's the weather like?;	quel temps fait-il?
+the weather forecast	;les prévisions météorologiques
+a weather vane, a weather cock;	une girouette
+thermometer	;le thermomètre
+barometer;	baromètre
+it looks like rain	;le temps est à la pluie  , on dirait qu'il va pleuvoir
+it pours;	il pleut à verse
+it rains cats and dogs;	il pleut des hallebardes, des cordes
+a cloud;	un nuage
+cloudy;	nuageux
+it pours ; il pleut à verse
+to be wet through	;être trempé
+to be drenched, to be soaked to the skin;	être trempé jusqu'à l'os
+it hails;	il grêle
+a hailstone	;un grêlon
+a raindrop;	une goutte de pluie
+it drizzles	;il bruine
+a rainbow;	un arc-en-ciel
+the glass is rising	;le baromètre monte
+the glass is falling	;le baromètre descend
+the glass points to set fair;	le baromètre est au beau fixe
+to shine;	briller
+to glare;	briller d'un éclat éblouissant
+cloudless;	sans nuage, limpide
+bright;	brillant
+the dog days;	la canicule
+a heat wave	;une vague de chaleur
+scorching	;torride
+stifling;	étouffant
+sultry;	suffocant
+a haze	;une brume de chaleur
+a thunderstorm is brewing	;un orage se prépare
+the rumbling of storm	;le grondement du tonnerre
+a flash of lightening	;un éclair
+to dazzle	;éblouir, aveugler
+a clap of thunder	;un coup de tonnerre
+to run for shelter;	courir se mettre à l'abri
+lightning strikes	;la foudre tombe
+dry	;sec
+drought;	sécheresse
+warmth;	la chaleur
+cool	;frais, agréable
+dew	;la rosée
+damp;	humide
+dull;	gris, triste
+overcast;	couvert
+to whirl;	tourbillonner
+a mist;	une brume
+a fog	;un brouillard
+a pea-souper;	une purée de pois
+the fog is lifting;	le brouillard se lève
+it clears up;	le temps s'éclaircit
+mild;	doux
+icy	;glacé
+bleak	;triste et froid
+to feel chilly, to shiver;frissonner
+to freeze;	geler
+frost;	gel, gelée
+ice	;la glace
+an icicle	;un glaçon
+to snow	;neiger
+snowflakes;	flocon de neige
+thaw	;le dégel
+to melt, to thaw ;  	fondre
+a gust of wind;	un coup de vent
+a gale;	un grand vent
+to do damage;	causer des avaries
+to foam;	écumer
+foam;	écume
+to roar;	gronder
+a shipwreck;	un naufrage
+a typhoon	;un typhon
+to abate;	diminuer
+to die away	;diminuer
+a flood;	une inondation
+to overflow;	déborder
+to whirl;	tourbillonner
+lava;	la lave
+to gush	;jaillir
+a volcano;	un volcan
+ashes;	cendres
+an earthquake;	un tremblement de terre
+an earthtremor;	une secousse sismique (moins fort qu'un tremblement de terre)
+to quake;	trembler
+a landslip, a landslide;	un glissement de terrain
+a blizzard;	une tempête de neige
+a snowdrift	;une congère
+an avalanche;	une avalanche
+icy	;glacé
+black ice	;le verglas

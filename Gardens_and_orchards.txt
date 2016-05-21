@@ -1,0 +1,113 @@
+gardener;	jardinier
+lawn;	pelouse
+to mow;	tondre
+to roll;	rouler
+gravel;	gravier
+a path, a walk;	une allée
+weeds;	mauvaises herbes
+to weed	;désherber
+weed-killer;	herbicide
+stone slab;	dalle de pierre
+flower-bed;	plate-bande
+daffodil	;jonquille
+tulip	;tulipe
+hyacinthe;	jacinthe
+lily	;lis
+lily of the valley;	muguet
+water-lily	;nénuphar
+forget-me-not;	myosotis
+beekeeper;	apiculteur
+beekeeping;	l'apiculture
+marigold;	souci
+daisy	;paquêrette
+bud	;bouton, bourgeon
+to prune;	tailler
+thorn	;épine (-> hawTHORN = aubEPINE)
+bunch of flower (posy);	bouquet de fleurs
+honeysuckle	;chèvrefeuille
+greenhouse;	une serre -> greenhouse effect = effet de serre
+orchard;	verger
+to graft;	greffer
+in full bloom;	en pleine floraison
+pips;	pépins
+peel, skin, rind;	la peau, la pelure
+to peel;	peler
+unripe;	pas mûr, vert
+sour	;acide, aigre
+to spoil;	gâter
+rotten;	pourri
+a cherry	;une cerise
+apricot	;abricot
+peach	;pêche
+plum;	prune
+pear;	poire
+juicy	;juteux
+mellow	;fondant
+berry	;baie
+strawberries	;fraises
+raspberries;	framboises
+red, white currant;	groseille
+black currant;	cassis
+the kitchen garden;	le potager
+market gardener;	maraîcher
+cabbage	;choux
+cauliflower;	choux fleur
+carrot;	carotte
+bean;	haricot
+pea	;pois
+early	;precoce
+late;	tardif
+bug	; petit insecte
+to hum, to buzz;	bourdonner
+fly;	mouche
+gnat;	moucheron
+mosquito	;moustique
+beetle;	un scarabée
+to flutter;	voltiger
+moth	;papillon de nuit
+caterpillar;	chenille
+pest;	insecte nuisible
+to spray;	vaporiser, pulvériser
+harmful	;nuisible
+slug	;limace
+snail;	escargot
+worm;	ver
+glow-worm	;ver-luisant
+spider	;araignée
+ant;	fourmi
+wasp;	guêpe
+bee	;abeille
+swarm	;essaim
+beehive	;ruche
+wax;	cire
+honey	;miel
+to sting	;piquer
+blackbird	;merle
+nightingale	;rossignol
+robin	;rouge-gorge
+sparrow	;moineau
+to hop;	sautiller
+to twitter;	gazouiller
+feather;	plume
+tail;	la queue de l'oiseau
+bill	;le bec de l'oiseau
+beak;	le bec (d'un rapace)
+nest;	le nid
+toolshed;	remise à outils (shed = hangar, cowshed = étable)
+tool;	outil
+rake;	râteau
+to rake up;	râtisser
+wheelbarrow	;brouette
+a spade;	une bêche
+a pick;	une pIoche
+a shovel;	une pelle
+to dig;	creuser
+the handle;	le manche
+ladder;	échelle
+to water;	arroser
+watering-can;	arrosoir
+hose	;tuyau
+lawn-mower	;tondeuse à gazon
+hedge clippers;	taille haie
+chain saw	;tronçonneuse
+cultivator;	motoculteur

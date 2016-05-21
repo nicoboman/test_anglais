@@ -1,0 +1,132 @@
+school attendance;	la fréquentation scolaire
+compulsory;	obligatoire
+to attend school;	fréquenter l'école
+nursery school, kindergarten (Allemand);	l'école maternelle
+tuition fees;	les frais de scolarité
+a schoolboy;	un écolier
+a schoolgirl;	une écolière
+a boys' school;	une école de garçons
+a girls' school;	une école de filles
+CHALK spells with an A;	CHALK s'écrie avec un A
+school breaks up;	l'école est finie
+coeducational	;mixte
+the pupils;	les élèves
+the staff	;le corps enseignant
+a schoolmaster;	un instituteur
+a schoolmistress;	une institutrice
+the meeting breaks up;	la réunion est finie
+the headmaster;	le directeur
+the headmistress;	la directrice
+a teacher	;un professeur
+a gown;	une toge, une blouse
+a boarding school	;un internat
+a schoolfellow;	un camarade de classe
+a pal	;un copain
+the desk;	le bureau
+the blackboard;	le tableau noir
+chalk	;la craie
+to wipe	;essuyer
+a duster;	un chiffon
+a sponge;	une éponge
+a slide projector	;un projecteur à diapositives
+an overhead projector;	un rétro projecteur
+cardboard;	du carton
+the cover	;la couverture
+a sheet;	une feuille
+to paste;	coller
+paste, glue;	de la colle
+a notebook;	un carnet, un cahier
+to look up a word in a dictionary	;rechercher un mot dans un dictionnaire
+to jot down	;noter qqch
+a ruler;	une règle
+a rubber, an eraser	;une gomme
+to rub out, to erase;	gommer
+shool breaks up (a meeting breaks up)	;la classe se termine
+the playground	;la cour de récréation
+a term	;un trimestre scolaire
+the summer holidays, the vacation	;les grandes vacances
+the timetable	;l'emploi du temps
+to teach a subject	;enseigner un sujet
+reading	;la lecture
+writing	;l'écriture
+arithmetic;	le calcul
+to explain sthg	;expliquer qqch
+to mean	;signifier, vouloir dire
+meaning	;le sens
+to learn by heart	;apprendre par coeur
+to repeat sthg ;	répéter qqch
+to recite a lesson;	réciter une leçon
+to spell a word	;épeler un mot
+spelling	;l'orthographe
+a dictation	;une dictée
+a mistake;	une faute
+grammar	;la grammaire
+a tense;	un temps
+to count	;compter
+odd	;impair
+even;	pair
+to add up;	additionner
+to subtract;	soustraire
+to multiply	;multiplier
+to divide;	diviser
+a pocket calculator;	une calculatrice
+easy;	facile
+stiff, tough;	difficile
+right;	juste, exact
+wrong;	faux, inexact
+handicraft;	les travaux manuels
+physical education	;l'éducation physique
+homework	;le travail à faire à la maison
+a test ;	un devoir, un contrôle
+modern languages;	les langues vivantes
+classical languages	;les langues mortes
+gifted;	doué
+memory;	la mémoire
+clever, intelligent;	intelligent
+to understand	;comprendre
+sharp;	vif, pénétrant
+bright;	brillant
+proficient IN sthg;	fort en qqch
+good AT sthg;	bon en qqch
+a fool;	un sot
+a blockhead	;un imbécile
+silly, foolish;	sot, stupide
+ridiculous;	ridicule
+to talk nonsense;	dire des bêtises
+a dunce;	un cancre, un âne
+painstaking, industrious;	travailleur, appliqué
+to take pains;	se donner du mal
+lazy, idle;	oisif, fainéant
+idleness;	l'oisiveté, la paresse
+thoughtless;	irréfléchi, étourdi
+absent-minded	;distrait
+care	;le soin
+careless;	négligent, sans soin
+carelessness;	la négligence
+quiet, silent	;silencieux
+still	;calme, tranquille
+restless;	remuant
+talkative;	bavard
+to punish	;punir
+to cheat;	tricher, copier
+to be late;	arriver en retard
+to play truant;	faire l'école buissonnière
+truancy	;l'absentéïsme
+to bully;	brutaliser, tyranniser
+to be kept in	;être gardé en retenue
+to cane	;corriger avec une cane
+to thrash	;donner une correction
+to expel a pupil from school;	mettre un élève à la porte
+to drop out of school	;renoncer à ses études
+25 out of 50;	25 sur 50
+the average;	la moyenne
+a report	;un bulletin
+behaviour	;la conduite
+proficiency	;la force, le niveau
+to reward so;	récompenser qqn
+to congratulate so	; féliciter qqn
+to pass, to get through an exam;	réussir, être reçu
+to fail, to get ploughed, to flunk;	échouer, se faire recaler
+a graduate;	un diplômé
+to do research in, on	;faire de la recherche sur
+R and D	;la recherche et le développement

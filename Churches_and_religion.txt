@@ -1,0 +1,73 @@
+a church	;	une église
+a catheral	;	une cathédrale
+an abbey church	;	une abbatiale
+the porch	;	le porche
+the nave	;	la nef
+the vault	;	la voute
+lofty	;	élevé
+a pillar	;	une pilier
+a column	;	une colonne
+a rose-window	;	une rosace
+stained glass windows	;	des vitraux
+a pew	;	une banc d'église
+the congregration	;	les fidèles
+the bells	;	les cloches
+the steeple	;	le clocher
+a spire	;	une flèche
+to believe	;	croire
+a belief	;	une croyance
+to worship	;	adorer
+a worship	;	le culte
+an idol	;	une idole
+a pagan	;	un païen
+the heathens	;	les païens
+a god	;	un dieu
+a goddess	;	une déesse
+a Jew	;	un Juif
+Jewish	;	juif
+a creed	;	une croyance, une foi
+faith	;	la foi
+faithful	;	fidèle
+fanaticism	;	le fanatisme
+a Christian	;	un chrétien
+the Lord	;	le Seigneur
+the Almighty	;	le Tout-puissant
+Christ	;	le Christ
+Christianity	;	le Christianisme
+Christendom	;	la Chrétienté
+a martyr	;	un martyr
+martyrdom	;	le martyre
+a pilgrim	;	un pélerin
+to pray	;	prier
+doomsday	;	le jour du jugement dernier
+pious	;	pieux
+to bless	;	bénir
+to curse	;	maudire
+hell	;	l'enfer
+an atheist	;	un(une) athé(e)
+the seven deadly sins	;	les 7 péchés capitaux
+an archbishop	;	un archevêque
+a bishop	;	une évêque
+a parson	;	un pasteur
+to ordain	;	ordonner
+a parish	;	une paroisse
+the vicar	;	le curé
+the curate	;	le vicaire
+a psalm	;	un psaume
+to preach a sermon	;	prêcher un sermon
+collection	;	la quête
+the Salvation Army	;	l'Armée du Salut
+the Pope	;	le Pape
+to say mass	;	dire la messe
+to go to mass	;	aller à la messe
+to confess so, sthg	;	confesser qqn, qqch
+a monk, a friar	;	un moine, un frère
+a convent	;	un couvent
+an abbey	;	une abbaye
+an abbot	;	un abbé
+communion	;	la communion
+a Freemason	;	un Franc-maçon
+freemasonry	;	la franc-maçonnerie
+a free-thinker	;	un libre penseur
+an agnostic	;	un agnostique
+the crisis of belief	;	la crise de la foi
