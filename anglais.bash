@@ -3,22 +3,22 @@
 #################################
 # Positionnement des constantes #
 #################################
-C_CHECK_NBLIGNES_HISTO_TRADUC=0
-C_CHECK_NBLIGNES_HISTO_EXEC=1
-C_LANCER_TEST=2
+readonly C_CHECK_NBLIGNES_HISTO_TRADUC=0
+readonly C_CHECK_NBLIGNES_HISTO_EXEC=1
+readonly C_LANCER_TEST=2
 
-REPERTOIRE_DONNEES="/home/nicolas/MetI/Donnees/"
-REPERTOIRE_HISTO="/home/nicolas/MetI/Histo/"
-FICHIER_HISTO_TRADUC="histo_traduc.txt"
-FICHIER_HISTO_EXEC="histo_exec.txt"
+readonly REPERTOIRE_DONNEES="/home/nicolas/MetI/Donnees/"
+readonly REPERTOIRE_HISTO="/home/nicolas/MetI/Histo/"
+readonly FICHIER_HISTO_TRADUC="histo_traduc.txt"
+readonly FICHIER_HISTO_EXEC="histo_exec.txt"
 
-C_NB_FICHIERS=46
-C_AFFICH_HISTO_EXEC_START=10
-C_AFFICH_HISTO_EXEC_AFTER_TEST=5
-PS3="Votre choix: "
-C_VERBES_IRREGULIERS=45
+readonly C_NB_FICHIERS=46
+readonly C_AFFICH_HISTO_EXEC_START=10
+readonly C_AFFICH_HISTO_EXEC_AFTER_TEST=5
+readonly PS3="Votre choix: "
+readonly C_VERBES_IRREGULIERS=45
 
-LISTE_FICHIERS="
+readonly LISTE_FICHIERS="
 The_House.txt
 Home_Life.txt
 The_Familly.txt
