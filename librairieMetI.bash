@@ -38,21 +38,21 @@ else
 	v_libelle_raz_ok="RAZ du fichier d'histo des executions: OK\n"
 fi
 
-if [[ `cat "${v_fichier}" | wc -l` -gt "${v_seuil_lignes}" ]]
+if [[ $(cat "${v_fichier}" | wc -l) -gt "${v_seuil_lignes}" ]]
 then
 	echo -e "${v_libelle_info}"
  	read
     	if [[ "${REPLY}" = "o" ]]
     	then
 	rm "${v_fichier}"
-		if [[ $? -ne 0 ]]
+		if [[ "${?}" -ne 0 ]]
 		then
 		echo -e "${v_libelle_raz_ko}"
 		exit 1
 		fi
 		
 	touch "${v_fichier}"
-		if [[ $? -ne 0 ]]
+		if [[ "${?}" -ne 0 ]]
 		then
 		echo -e "${v_libelle_raz_ko}"
 		exit 1
@@ -72,7 +72,7 @@ v_sujet="${3}"
 
 echo -e '\n\t\t\033[4;34;47m **********          Debut test: "${v_sujet}"          **********\033[0m\n'
 
-v_nb_mots=`wc -l "$REPERTOIRE_DONNEES""$v_sujet" | sed -e 's/ .*//g'`
+v_nb_mots=$(wc -l "$REPERTOIRE_DONNEES""$v_sujet" | sed -e 's/ .*//g')
 
 echo -e "Le fichier comprend ${v_nb_mots} elements."
 echo -e "Entrez le nombre d occurences souhaite:[Nombre total d elements]"
@@ -80,17 +80,16 @@ read v_nb_occurences
 
 if [[ "${v_nb_occurences}" == "" ]]
   then
-    v_nb_occurences=$v_nb_mots
+    v_nb_occurences="${v_nb_mots}"
 fi
 
-# Constitution du tableau d indices aleatoires:
+# Constitution du tableau d'indices aléatoires:
 #----------------------------------------------
 i=0
 compteurNbMotsTraduits=0
 
 while ((i<v_nb_occurences))
 do
-
 	index_aleatoire=$((RANDOM%$v_nb_mots))
 	((index_aleatoire+=1))
 
@@ -123,7 +122,7 @@ do
 		sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f1 | sed 's/^[	 ]*//'
 	fi
 	
-  	echo -e "`expr $i + 1`/$v_nb_occurences - 't' pour traduction - 'q' pour quitter:"
+  	echo -e "$(expr $i + 1)/$v_nb_occurences - 't' pour traduction - 'q' pour quitter:"
   	read
     	if [[ "${REPLY}" = "q" ]]
     	then
@@ -136,9 +135,9 @@ do
 
 	if [[ $v_type_test == "THEME" ]]
 	then
-		v_mot_traduit=`sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f1 | sed 's/^[	 ]*//'`
+		v_mot_traduit=$(sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f1 | sed 's/^[	 ]*//')
 	else
-		v_mot_traduit=`sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f2 | sed 's/^[	 ]*//'`
+		v_mot_traduit=$(sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f2 | sed 's/^[	 ]*//')
 	fi
 
 	echo -e "\n\033[1;31;47m${v_mot_traduit}\033[0m"
