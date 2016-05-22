@@ -75,8 +75,8 @@ local i=0
 
 for fichier in $LISTE_FICHIERS
 do
-	tabNbreMots[i]=`wc -l "${REPERTOIRE_DONNEES}""${fichier}" | sed -e 's/ .*$//'`
-	tabNomSujet[i]=`echo -e "${fichier}" | sed -e 's/.txt//g' | sed -e 's/_/ /g'`
+	tabNbreMots[i]=$(wc -l "${REPERTOIRE_DONNEES}""${fichier}" | sed -e 's/ .*$//')
+	tabNomSujet[i]=$(echo -e "${fichier}" | sed -e 's/.txt//g' | sed -e 's/_/ /g')
 
 	((i+=1))
 done
@@ -126,12 +126,12 @@ fi
 #################################
 ssp_quitterTest() {
 
-  local nbLignesHistoTraduc_final=`wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ \/.*//'`
+  local nbLignesHistoTraduc_final=$(wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ \/.*//')
 
   if [[ $nbLignesHistoTraduc_final -gt $nbLignesHistoTraduc_initial ]]
   then
     echo -e '\n\n\t\t\033[4;34;47m **********          REVISION DES MOTS TRADUITS          **********\033[0m\n'
-    nbMotsTraduits=`expr $nbLignesHistoTraduc_final - $nbLignesHistoTraduc_initial`
+    nbMotsTraduits=$(expr $nbLignesHistoTraduc_final - $nbLignesHistoTraduc_initial)
     tail -$nbMotsTraduits "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}"
     echo -e "\n------------------------------\n"
   fi
@@ -145,8 +145,8 @@ ssp_quitterTest() {
 ssp_lanceTest() {
 
 	# Lancement du test
-	bash ${HOME}/bin/librairieMetI.bash "${C_LANCER_TEST}" $v_type_test $titre
-	local cr_erreur=$?
+	bash ${HOME}/bin/librairieMetI.bash "${C_LANCER_TEST}" "${v_type_test}" "${titre}"
+	local cr_erreur="${?}"
 	
 	# Si execution ok, alors on historise le test dans le fichier des executions
 	if [[ "${cr_erreur}" -eq 0 ]]
@@ -170,10 +170,10 @@ ssp_nextTest() {
 
 if (( v_next_topic_number <= "${C_NB_FICHIERS}" ))
 then
-  v_next_topic_subject=`echo ${tabNomSujet[$REPLY]} | sed -e 's/ /_/g'`".txt"
-  v_nb_elements=$(wc -l `find "${REPERTOIRE_DONNEES}"* -name "${v_next_topic_subject}" | grep -v "~"`)
-  v_nb_elements=`echo -e "${v_nb_elements}" | sed -e 's/ \/.*//'`
-  echo -e "\nProposition pour l'execution suivante [Nombre total d'elements]: "${v_next_topic_number}" `echo "${v_next_topic_subject}" | sed -e 's/_/ /g' | sed -e 's/.txt//g'` [${v_nb_elements}]\n"
+  v_next_topic_subject=$(echo ${tabNomSujet[$REPLY]} | sed -e 's/ /_/g')".txt"
+  v_nb_elements=$(wc -l $(find "${REPERTOIRE_DONNEES}"* -name "${v_next_topic_subject}" | grep -v "~"))
+  v_nb_elements=$(echo -e "${v_nb_elements}" | sed -e 's/ \/.*//')
+  echo -e "\nProposition pour l'execution suivante [Nombre total d'elements]: "${v_next_topic_number}" $(echo "${v_next_topic_subject}" | sed -e 's/_/ /g' | sed -e 's/.txt//g') [${v_nb_elements}]\n"
     
 else
     echo -e "\nLa fin du menu est atteinte => pas de proposition.\n"
@@ -195,7 +195,7 @@ echo -e '\n\n\t\t\033[4;34;47m **********          PRECEDENTS THEMES CHOISIS    
 
 tail -"${C_AFFICH_HISTO_EXEC_START}" "${REPERTOIRE_HISTO}""${FICHIER_HISTO_EXEC}"
 
-nbLignesHistoTraduc_initial=`wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ \/.*//'`
+nbLignesHistoTraduc_initial=$(wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ \/.*//')
 
 echo -e '\n\n\t\t\033[4;34;47m **********          MENU - MOT et IDEE          **********\033[0m'
 echo -e '\t\t\033[4;34;47m **********          Faites votre choix          **********\033[0m\n'
