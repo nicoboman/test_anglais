@@ -3,16 +3,16 @@
 ################################
 # Positionnement des variables #
 ################################
-C_CHECK_NBLIGNES_HISTO_TRADUC=0
-C_CHECK_NBLIGNES_HISTO_EXEC=1
-C_LANCER_TEST=2
+readonly C_CHECK_NBLIGNES_HISTO_TRADUC=0
+readonly C_CHECK_NBLIGNES_HISTO_EXEC=1
+readonly C_LANCER_TEST=2
 
-C_NB_MAX_LIGNES_TRADUC=500
-C_NB_MAX_LIGNES_EXEC=200
+readonly C_NB_MAX_LIGNES_TRADUC=500
+readonly C_NB_MAX_LIGNES_EXEC=200
 
-FICHIER_HISTO_TRADUC="/home/nicolas/MetI/Histo/histo_traduc.txt"
-FICHIER_HISTO_EXEC="/home/nicolas/MetI/Histo/histo_exec.txt"
-REPERTOIRE_DONNEES="/home/nicolas/MetI/Donnees/"
+readonly FICHIER_HISTO_TRADUC="/home/nicolas/MetI/Histo/histo_traduc.txt"
+readonly FICHIER_HISTO_EXEC="/home/nicolas/MetI/Histo/histo_exec.txt"
+readonly REPERTOIRE_DONNEES="/home/nicolas/MetI/Donnees/"
 
 #######################
 # Demarrage du script #
