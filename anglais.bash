@@ -6,18 +6,15 @@
 readonly C_CHECK_NBLIGNES_HISTO_TRADUC=0
 readonly C_CHECK_NBLIGNES_HISTO_EXEC=1
 readonly C_LANCER_TEST=2
-
-readonly REPERTOIRE_DONNEES="/home/nicolas/MetI/Donnees/"
-readonly REPERTOIRE_HISTO="/home/nicolas/MetI/Histo/"
+readonly REPERTOIRE_DONNEES="./"
+readonly REPERTOIRE_HISTO="./"
 readonly FICHIER_HISTO_TRADUC="histo_traduc.txt"
 readonly FICHIER_HISTO_EXEC="histo_exec.txt"
-
 readonly C_NB_FICHIERS=46
 readonly C_AFFICH_HISTO_EXEC_START=10
 readonly C_AFFICH_HISTO_EXEC_AFTER_TEST=5
 readonly PS3="Votre choix: "
 readonly C_VERBES_IRREGULIERS=45
-
 readonly LISTE_FICHIERS="
 The_House.txt
 Home_Life.txt
@@ -126,7 +123,7 @@ fi
 #################################
 ssp_quitterTest() {
 
-  local nbLignesHistoTraduc_final=$(wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ \/.*//')
+  local nbLignesHistoTraduc_final=$(wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ .\/.*//')
 
   if [[ $nbLignesHistoTraduc_final -gt $nbLignesHistoTraduc_initial ]]
   then
@@ -145,7 +142,7 @@ ssp_quitterTest() {
 ssp_lanceTest() {
 
 	# Lancement du test
-	bash ${HOME}/bin/librairieMetI.bash "${C_LANCER_TEST}" "${v_type_test}" "${titre}"
+	bash "${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_LANCER_TEST}" "${v_type_test}" "${titre}"
 	local cr_erreur="${?}"
 	
 	# Si execution ok, alors on historise le test dans le fichier des executions
@@ -170,7 +167,7 @@ ssp_nextTest() {
 
 if (( v_next_topic_number <= "${C_NB_FICHIERS}" ))
 then
-  v_next_topic_subject=$(echo ${tabNomSujet[$REPLY]} | sed -e 's/ /_/g')".txt"
+  v_next_topic_subject=$(echo "${tabNomSujet[$REPLY]}" | sed -e 's/ /_/g')".txt"
   v_nb_elements=$(wc -l $(find "${REPERTOIRE_DONNEES}"* -name "${v_next_topic_subject}" | grep -v "~"))
   v_nb_elements=$(echo -e "${v_nb_elements}" | sed -e 's/ \/.*//')
   echo -e "\nProposition pour l'execution suivante [Nombre total d'elements]: "${v_next_topic_number}" $(echo "${v_next_topic_subject}" | sed -e 's/_/ /g' | sed -e 's/.txt//g') [${v_nb_elements}]\n"
@@ -184,10 +181,26 @@ fi
 ######################################
 # Algorithme principal: anglais.bash #
 ######################################
+# Creation des fichiers d'historisation s'ils n'existent pas
+#-----------------------------------------------------------
+if [ ! -f "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_TRADUC}" ]
+then
+	echo -e "\n\033[1;31;47mCreation du fichier "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_TRADUC}"\033[0m"
+	touch "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_TRADUC}"
+fi
+#-----------------------------------------------------------
+if [ ! -f "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_EXEC}" ]
+then
+	echo -e "\n\033[1;31;47mCreation du fichier "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_EXEC}"\033[0m"
+	touch "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_EXEC}"
+fi
+#-----------------------------------------------------------
 
-bash ${HOME}/bin/librairieMetI.bash "${C_CHECK_NBLIGNES_HISTO_TRADUC}"
+#bash ${HOME}/bin/librairieMetI.bash "${C_CHECK_NBLIGNES_HISTO_TRADUC}"
+bash "${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_CHECK_NBLIGNES_HISTO_TRADUC}"
 
-bash ${HOME}/bin/librairieMetI.bash "${C_CHECK_NBLIGNES_HISTO_EXEC}"
+#bash ${HOME}/bin/librairieMetI.bash "${C_CHECK_NBLIGNES_HISTO_EXEC}"
+bash "${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_CHECK_NBLIGNES_HISTO_TRADUC}"
 
 ssp_calculNombreMots
 
@@ -195,7 +208,9 @@ echo -e '\n\n\t\t\033[4;34;47m **********          PRECEDENTS THEMES CHOISIS    
 
 tail -"${C_AFFICH_HISTO_EXEC_START}" "${REPERTOIRE_HISTO}""${FICHIER_HISTO_EXEC}"
 
-nbLignesHistoTraduc_initial=$(wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ \/.*//')
+#nbLignesHistoTraduc_initial=$(wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ \/.*//')
+nbLignesHistoTraduc_initial=$(wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ .\/.*//')
+
 
 echo -e '\n\n\t\t\033[4;34;47m **********          MENU - MOT et IDEE          **********\033[0m'
 echo -e '\t\t\033[4;34;47m **********          Faites votre choix          **********\033[0m\n'
