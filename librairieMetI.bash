@@ -6,13 +6,11 @@
 readonly C_CHECK_NBLIGNES_HISTO_TRADUC=0
 readonly C_CHECK_NBLIGNES_HISTO_EXEC=1
 readonly C_LANCER_TEST=2
-
 readonly C_NB_MAX_LIGNES_TRADUC=500
 readonly C_NB_MAX_LIGNES_EXEC=200
-
-readonly FICHIER_HISTO_TRADUC="/home/nicolas/MetI/Histo/histo_traduc.txt"
-readonly FICHIER_HISTO_EXEC="/home/nicolas/MetI/Histo/histo_exec.txt"
-readonly REPERTOIRE_DONNEES="/home/nicolas/MetI/Donnees/"
+readonly FICHIER_HISTO_TRADUC="./histo_traduc.txt"
+readonly FICHIER_HISTO_EXEC="./histo_exec.txt"
+readonly REPERTOIRE_DONNEES="./"
 
 #######################
 # Demarrage du script #
@@ -70,7 +68,7 @@ fi
 v_type_test="${2}"
 v_sujet="${3}"
 
-echo -e '\n\t\t\033[4;34;47m **********          Debut test: "${v_sujet}"          **********\033[0m\n'
+echo -e "\n\t\t\033[4;34;47m **********          Debut test: "${v_sujet}"          **********\033[0m\n"
 
 v_nb_mots=$(wc -l "$REPERTOIRE_DONNEES""$v_sujet" | sed -e 's/ .*//g')
 
@@ -117,9 +115,11 @@ do
 	
 	if [[ $v_type_test == "THEME" ]]
 	then
-		sed -n ''$index_aleatoire'p' REPERTOIRE_DONNEES$v_sujet | cut -d";" -f2 | sed 's/^[	 ]*//'
+		#sed -n ''$index_aleatoire'p' REPERTOIRE_DONNEES$v_sujet | cut -d";" -f2 | sed 's/^[	 ]*//'
+		sed -n ''$index_aleatoire'p' "${REPERTOIRE_DONNEES}""${v_sujet}" | cut -d";" -f2 | sed 's/^[	 ]*//'
 	else
-		sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f1 | sed 's/^[	 ]*//'
+		#sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f1 | sed 's/^[	 ]*//'
+		sed -n ''$index_aleatoire'p' "${REPERTOIRE_DONNEES}""${v_sujet}" | cut -d";" -f1 | sed 's/^[	 ]*//'
 	fi
 	
   	echo -e "$(expr $i + 1)/$v_nb_occurences - 't' pour traduction - 'q' pour quitter:"
