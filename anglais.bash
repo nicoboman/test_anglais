@@ -3,13 +3,7 @@
 #################################
 # Positionnement des constantes #
 #################################
-readonly C_CHECK_NBLIGNES_HISTO_TRADUC=0
-readonly C_CHECK_NBLIGNES_HISTO_EXEC=1
-readonly C_LANCER_TEST=2
-readonly REPERTOIRE_DONNEES="./"
-readonly REPERTOIRE_HISTO="./"
-readonly FICHIER_HISTO_TRADUC="histo_traduc.txt"
-readonly FICHIER_HISTO_EXEC="histo_exec.txt"
+. ./commun.bash
 readonly C_NB_FICHIERS=46
 readonly C_AFFICH_HISTO_EXEC_START=10
 readonly C_AFFICH_HISTO_EXEC_AFTER_TEST=5
