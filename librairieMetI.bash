@@ -3,14 +3,9 @@
 ################################
 # Positionnement des variables #
 ################################
-readonly C_CHECK_NBLIGNES_HISTO_TRADUC=0
-readonly C_CHECK_NBLIGNES_HISTO_EXEC=1
-readonly C_LANCER_TEST=2
+. ./commun.bash
 readonly C_NB_MAX_LIGNES_TRADUC=500
 readonly C_NB_MAX_LIGNES_EXEC=200
-readonly FICHIER_HISTO_TRADUC="./histo_traduc.txt"
-readonly FICHIER_HISTO_EXEC="./histo_exec.txt"
-readonly REPERTOIRE_DONNEES="./"
 
 #######################
 # Demarrage du script #
@@ -23,16 +18,18 @@ case "${1}" in
 "${C_CHECK_NBLIGNES_HISTO_TRADUC}" | "${C_CHECK_NBLIGNES_HISTO_EXEC}")
 if [[ "${1}" = "${C_CHECK_NBLIGNES_HISTO_TRADUC}" ]]
 then
-	v_fichier="${FICHIER_HISTO_TRADUC}"
+	#v_fichier="${FICHIER_HISTO_TRADUC}"
+	v_fichier="${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}"
 	v_seuil_lignes="${C_NB_MAX_LIGNES_TRADUC}"
 	v_libelle_info="\nINFO: le fichier d'histo des traductions comporte plus de 500 lignes.\nSouhaitez-vous faire une RAZ de ce fichier? (o/n)\n"
-	v_libelle_raz_ko="Pb lors de la mise a  jour du fichier d'histo des traductions.\nArret du script.\n"
+	v_libelle_raz_ko="Pb lors de la mise aÂ  jour du fichier d'histo des traductions.\nArret du script.\n"
 	v_libelle_raz_ok="RAZ du fichier d'histo des traductions: OK\n"
 else
-	v_fichier="${FICHIER_HISTO_EXEC}"
+	#v_fichier="${FICHIER_HISTO_EXEC}"
+	v_fichier="${REPERTOIRE_HISTO}""${FICHIER_HISTO_EXEC}"
 	v_seuil_lignes="${C_NB_MAX_LIGNES_EXEC}"
 	v_libelle_info="\nINFO: le fichier d'histo des executions comporte plus de 200 lignes.\nSouhaitez-vous faire une RAZ de ce fichier? (o/n)\n"
-	v_libelle_raz_ko="Pb lors de la mise a  jour du fichier d'histo des executions.\nArret du script.\n"
+	v_libelle_raz_ko="Pb lors de la mise aÂ  jour du fichier d'histo des executions.\nArret du script.\n"
 	v_libelle_raz_ok="RAZ du fichier d'histo des executions: OK\n"
 fi
 
@@ -81,7 +78,7 @@ if [[ "${v_nb_occurences}" == "" ]]
     v_nb_occurences="${v_nb_mots}"
 fi
 
-# Constitution du tableau d'indices aléatoires:
+# Constitution du tableau d'indices alÃ©atoires:
 #----------------------------------------------
 i=0
 compteurNbMotsTraduits=0
@@ -144,7 +141,8 @@ do
 
 	v_traduc_anglais=$(sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f2 | sed 's/^[	 ]*//'| sed 's/ /_/g' | sed 's/_$//g')
 	v_traduc_francais=$(sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f1 | sed 's/^[	 ]*//'| sed 's/ /_/g' | sed 's/_$//g')
-	printf "%-30s-----%30s\n" $v_traduc_anglais $v_traduc_francais>>"${FICHIER_HISTO_TRADUC}"
+	#printf "%-30s-----%30s\n" $v_traduc_anglais $v_traduc_francais>>"${FICHIER_HISTO_TRADUC}"
+	printf "%-30s-----%30s\n" $v_traduc_anglais $v_traduc_francais>>"${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}"
 
 	((compteurNbMotsTraduits+=1))
 
@@ -165,7 +163,8 @@ read
 	if [[ "${REPLY}" != "n" ]]
 	then
 	echo -e "\n------------------------------\n"
-	tail -"${compteurNbMotsTraduits}" "${FICHIER_HISTO_TRADUC}"
+	#tail -"${compteurNbMotsTraduits}" "${FICHIER_HISTO_TRADUC}"
+	tail -"${compteurNbMotsTraduits}" "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}"
 	echo -e "\n------------------------------\n"
 	fi
 fi
