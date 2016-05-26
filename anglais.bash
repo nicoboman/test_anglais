@@ -136,7 +136,8 @@ ssp_quitterTest() {
 ssp_lanceTest() {
 
 	# Lancement du test
-	bash "${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_LANCER_TEST}" "${v_type_test}" "${titre}"
+	#bash "${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_LANCER_TEST}" "${v_type_test}" "${titre}"
+	"${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_LANCER_TEST}" "${v_type_test}" "${titre}"
 	local cr_erreur="${?}"
 	
 	# Si execution ok, alors on historise le test dans le fichier des executions
@@ -172,9 +173,32 @@ fi
 
 }
 
+##################
+# Fonction Usage #
+##################
+function usage() {
+  echo -e "\t\tObjet: ce script permet de reviser du vocabulaire anglais, classe par theme."
+  echo -e "\t\tLancement du test: lancer le script anglais.bash avec l'option -t"
+}
+
+
 ######################################
 # Algorithme principal: anglais.bash #
 ######################################
+# Verification des arguments du script
+while true
+do
+    case "${1}" in
+      -t)
+      break
+      ;;
+      *) usage
+      exit 1
+      ;;
+    esac
+done
+
+#########################################################################
 # Creation des fichiers d'historisation s'ils n'existent pas
 #-----------------------------------------------------------
 if [ ! -f "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_TRADUC}" ]
@@ -190,11 +214,9 @@ then
 fi
 #-----------------------------------------------------------
 
-#bash ${HOME}/bin/librairieMetI.bash "${C_CHECK_NBLIGNES_HISTO_TRADUC}"
-bash "${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_CHECK_NBLIGNES_HISTO_TRADUC}"
+"${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_CHECK_NBLIGNES_HISTO_TRADUC}"
 
-#bash ${HOME}/bin/librairieMetI.bash "${C_CHECK_NBLIGNES_HISTO_EXEC}"
-bash "${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_CHECK_NBLIGNES_HISTO_TRADUC}"
+"${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_CHECK_NBLIGNES_HISTO_TRADUC}"
 
 ssp_calculNombreMots
 
@@ -202,9 +224,7 @@ echo -e '\n\n\t\t\033[4;34;47m **********          PRECEDENTS THEMES CHOISIS    
 
 tail -"${C_AFFICH_HISTO_EXEC_START}" "${REPERTOIRE_HISTO}""${FICHIER_HISTO_EXEC}"
 
-#nbLignesHistoTraduc_initial=$(wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ \/.*//')
 nbLignesHistoTraduc_initial=$(wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ .\/.*//')
-
 
 echo -e '\n\n\t\t\033[4;34;47m **********          MENU - MOT et IDEE          **********\033[0m'
 echo -e '\t\t\033[4;34;47m **********          Faites votre choix          **********\033[0m\n'
