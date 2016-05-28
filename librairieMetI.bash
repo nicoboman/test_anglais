@@ -110,10 +110,8 @@ do
 	
 	if [[ $v_type_test == "THEME" ]]
 	then
-		#sed -n ''$index_aleatoire'p' REPERTOIRE_DONNEES$v_sujet | cut -d";" -f2 | sed 's/^[	 ]*//'
 		sed -n ''$index_aleatoire'p' "${REPERTOIRE_DONNEES}""${v_sujet}" | cut -d";" -f2 | sed 's/^[	 ]*//'
 	else
-		#sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f1 | sed 's/^[	 ]*//'
 		sed -n ''$index_aleatoire'p' "${REPERTOIRE_DONNEES}""${v_sujet}" | cut -d";" -f1 | sed 's/^[	 ]*//'
 	fi
 	
@@ -139,7 +137,6 @@ do
 
 	v_traduc_anglais=$(sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f2 | sed 's/^[	 ]*//'| sed 's/ /_/g' | sed 's/_$//g')
 	v_traduc_francais=$(sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f1 | sed 's/^[	 ]*//'| sed 's/ /_/g' | sed 's/_$//g')
-	#printf "%-30s-----%30s\n" $v_traduc_anglais $v_traduc_francais>>"${FICHIER_HISTO_TRADUC}"
 	printf "%-30s-----%30s\n" $v_traduc_anglais $v_traduc_francais>>"${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}"
 
 	((compteurNbMotsTraduits+=1))
@@ -161,7 +158,6 @@ read
 	if [[ "${REPLY}" != "n" ]]
 	then
 	echo -e "\n------------------------------\n"
-	#tail -"${compteurNbMotsTraduits}" "${FICHIER_HISTO_TRADUC}"
 	tail -"${compteurNbMotsTraduits}" "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}"
 	echo -e "\n------------------------------\n"
 	fi
