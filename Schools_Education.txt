@@ -1,20 +1,33 @@
-school attendance;	la fréquentation scolaire
+school attendance;	la frÃ©quentation scolaire
+to repeat a year; redoubler
+teaching; l'enseignement
+schooling; la scolaritÃ©
+tuition fees; les frais de scolaritÃ©
+a class (a french class); un cours (un cours de franÃ§ais)
+a fountain pen; un stylo Ã  plumes
+a ballpoint; un stylo Ã  bille
+the canteen; la cantine
+the dormitory; le dortoir
+optional; facultatif
+the syllabus; le programme (d'une matiÃ¨re)
+is it on syllabus?; est-ce au programme?
+to take an exam/pass an exam/fail an exam; passer un examen/rÃ©ussir un examen/Ã©chouer Ã  un examen
 compulsory;	obligatoire
-to attend school;	fréquenter l'école
-nursery school, kindergarten (Allemand);	l'école maternelle
-tuition fees;	les frais de scolarité
-a schoolboy;	un écolier
-a schoolgirl;	une écolière
-a boys' school;	une école de garçons
-a girls' school;	une école de filles
-CHALK spells with an A;	CHALK s'écrie avec un A
-school breaks up;	l'école est finie
+to attend school;	frÃ©quenter l'Ã©cole
+nursery school, kindergarten (Allemand);	l'Ã©cole maternelle
+tuition fees;	les frais de scolaritÃ©
+a schoolboy;	un Ã©colier
+a schoolgirl;	une Ã©coliÃ¨re
+a boys' school;	une Ã©cole de garÃ§ons
+a girls' school;	une Ã©cole de filles
+CHALK spells with an A;	CHALK s'Ã©crie avec un A
+school breaks up;	l'Ã©cole est finie
 coeducational	;mixte
-the pupils;	les élèves
+the pupils;	les Ã©lÃ¨ves
 the staff	;le corps enseignant
 a schoolmaster;	un instituteur
 a schoolmistress;	une institutrice
-the meeting breaks up;	la réunion est finie
+the meeting breaks up;	la rÃ©union est finie
 the headmaster;	le directeur
 the headmistress;	la directrice
 a teacher	;un professeur
@@ -27,9 +40,9 @@ the blackboard;	le tableau noir
 chalk	;la craie
 to wipe	;essuyer
 a duster;	un chiffon
-a sponge;	une éponge
-a slide projector	;un projecteur à diapositives
-an overhead projector;	un rétro projecteur
+a sponge;	une Ã©ponge
+a slide projector	;un projecteur Ã  diapositives
+an overhead projector;	un rÃ©tro projecteur
 cardboard;	du carton
 the cover	;la couverture
 a sheet;	une feuille
@@ -38,27 +51,27 @@ paste, glue;	de la colle
 a notebook;	un carnet, un cahier
 to look up a word in a dictionary	;rechercher un mot dans un dictionnaire
 to jot down	;noter qqch
-a ruler;	une règle
+a ruler;	une rÃ¨gle
 a rubber, an eraser	;une gomme
 to rub out, to erase;	gommer
 shool breaks up (a meeting breaks up)	;la classe se termine
-the playground	;la cour de récréation
+the playground	;la cour de rÃ©crÃ©ation
 a term	;un trimestre scolaire
 the summer holidays, the vacation	;les grandes vacances
 the timetable	;l'emploi du temps
 to teach a subject	;enseigner un sujet
 reading	;la lecture
-writing	;l'écriture
+writing	;l'Ã©criture
 arithmetic;	le calcul
 to explain sthg	;expliquer qqch
 to mean	;signifier, vouloir dire
 meaning	;le sens
 to learn by heart	;apprendre par coeur
-to repeat sthg ;	répéter qqch
-to recite a lesson;	réciter une leçon
-to spell a word	;épeler un mot
+to repeat sthg ;	rÃ©pÃ©ter qqch
+to recite a lesson;	rÃ©citer une leÃ§on
+to spell a word	;Ã©peler un mot
 spelling	;l'orthographe
-a dictation	;une dictée
+a dictation	;une dictÃ©e
 a mistake;	une faute
 grammar	;la grammaire
 a tense;	un temps
@@ -75,34 +88,34 @@ stiff, tough;	difficile
 right;	juste, exact
 wrong;	faux, inexact
 handicraft;	les travaux manuels
-physical education	;l'éducation physique
-homework	;le travail à faire à la maison
-a test ;	un devoir, un contrôle
+physical education	;l'Ã©ducation physique
+homework	;le travail Ã  faire Ã  la maison
+a testÂ ;	un devoir, un contrÃ´le
 modern languages;	les langues vivantes
 classical languages	;les langues mortes
-gifted;	doué
-memory;	la mémoire
+gifted;	douÃ©
+memory;	la mÃ©moire
 clever, intelligent;	intelligent
 to understand	;comprendre
-sharp;	vif, pénétrant
+sharp;	vif, pÃ©nÃ©trant
 bright;	brillant
 proficient IN sthg;	fort en qqch
 good AT sthg;	bon en qqch
 a fool;	un sot
-a blockhead	;un imbécile
+a blockhead	;un imbÃ©cile
 silly, foolish;	sot, stupide
 ridiculous;	ridicule
-to talk nonsense;	dire des bêtises
-a dunce;	un cancre, un âne
-painstaking, industrious;	travailleur, appliqué
+to talk nonsense;	dire des bÃªtises
+a dunce;	un cancre, un Ã¢ne
+painstaking, industrious;	travailleur, appliquÃ©
 to take pains;	se donner du mal
-lazy, idle;	oisif, fainéant
-idleness;	l'oisiveté, la paresse
-thoughtless;	irréfléchi, étourdi
+lazy, idle;	oisif, fainÃ©ant
+idleness;	l'oisivetÃ©, la paresse
+thoughtless;	irrÃ©flÃ©chi, Ã©tourdi
 absent-minded	;distrait
 care	;le soin
-careless;	négligent, sans soin
-carelessness;	la négligence
+careless;	nÃ©gligent, sans soin
+carelessness;	la nÃ©gligence
 quiet, silent	;silencieux
 still	;calme, tranquille
 restless;	remuant
@@ -110,23 +123,23 @@ talkative;	bavard
 to punish	;punir
 to cheat;	tricher, copier
 to be late;	arriver en retard
-to play truant;	faire l'école buissonnière
-truancy	;l'absentéïsme
+to play truant;	faire l'Ã©cole buissonniÃ¨re
+truancy	;l'absentÃ©Ã¯sme
 to bully;	brutaliser, tyranniser
-to be kept in	;être gardé en retenue
+to be kept in	;Ãªtre gardÃ© en retenue
 to cane	;corriger avec une cane
 to thrash	;donner une correction
-to expel a pupil from school;	mettre un élève à la porte
-to drop out of school	;renoncer à ses études
+to expel a pupil from school;	mettre un Ã©lÃ¨ve Ã  la porte
+to drop out of school	;renoncer Ã  ses Ã©tudes
 25 out of 50;	25 sur 50
 the average;	la moyenne
 a report	;un bulletin
 behaviour	;la conduite
 proficiency	;la force, le niveau
-to reward so;	récompenser qqn
-to congratulate so	; féliciter qqn
-to pass, to get through an exam;	réussir, être reçu
-to fail, to get ploughed, to flunk;	échouer, se faire recaler
-a graduate;	un diplômé
+to reward so;	rÃ©compenser qqn
+to congratulate so	; fÃ©liciter qqn
+to pass, to get through an exam;	rÃ©ussir, Ãªtre reÃ§u
+to fail, to get ploughed, to flunk;	Ã©chouer, se faire recaler
+a graduate;	un diplÃ´mÃ©
 to do research in, on	;faire de la recherche sur
-R and D	;la recherche et le développement
+R and D	;la recherche et le dÃ©veloppement
