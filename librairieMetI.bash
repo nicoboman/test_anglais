@@ -1,8 +1,8 @@
 #! /bin/bash
 
-################################
-# Positionnement des variables #
-################################
+#################################
+# Positionnement des constantes #
+#################################
 . ./commun.bash
 readonly C_NB_MAX_LIGNES_TRADUC=500
 readonly C_NB_MAX_LIGNES_EXEC=200
