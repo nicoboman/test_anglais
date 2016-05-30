@@ -3,22 +3,13 @@
 #################################
 # Positionnement des constantes #
 #################################
-C_CHECK_NBLIGNES_HISTO_TRADUC=0
-C_CHECK_NBLIGNES_HISTO_EXEC=1
-C_LANCER_TEST=2
-
-REPERTOIRE_DONNEES="/home/nicolas/MetI/Donnees/"
-REPERTOIRE_HISTO="/home/nicolas/MetI/Histo/"
-FICHIER_HISTO_TRADUC="histo_traduc.txt"
-FICHIER_HISTO_EXEC="histo_exec.txt"
-
-C_NB_FICHIERS=46
-C_AFFICH_HISTO_EXEC_START=10
-C_AFFICH_HISTO_EXEC_AFTER_TEST=5
-PS3="Votre choix: "
-C_VERBES_IRREGULIERS=45
-
-LISTE_FICHIERS="
+. ./commun.bash
+readonly C_NB_FICHIERS=46
+readonly C_AFFICH_HISTO_EXEC_START=10
+readonly C_AFFICH_HISTO_EXEC_AFTER_TEST=5
+readonly PS3="Votre choix: "
+readonly C_VERBES_IRREGULIERS=45
+readonly LISTE_FICHIERS="
 The_House.txt
 Home_Life.txt
 The_Familly.txt
@@ -67,25 +58,25 @@ Verbes_irreguliers.txt
 Notes.txt
 "
 
-#########################################################################
-# Sous-programme de calcul du nombre de mots dans le fichier de donnees #
-#########################################################################
-ssp_calculNombreMots() {
+###################################################################
+# Fonction de calcul du nombre de mots dans un fichier de donnees #
+###################################################################
+function calculerNombreMots() {
 local i=0
 
 for fichier in $LISTE_FICHIERS
 do
-	tabNbreMots[i]=`wc -l "${REPERTOIRE_DONNEES}""${fichier}" | sed -e 's/ .*$//'`
-	tabNomSujet[i]=`echo -e "${fichier}" | sed -e 's/.txt//g' | sed -e 's/_/ /g'`
+	tabNbreMots[i]=$(wc -l "${REPERTOIRE_DONNEES}""${fichier}" | sed -e 's/ .*$//')
+	tabNomSujet[i]=$(echo -e "${fichier}" | sed -e 's/.txt//g' | sed -e 's/_/ /g')
 
 	((i+=1))
 done
 }
 
-#################################################
-# Sous-programme de choix du type de traduction #
-#################################################
-ssp_choixTypeTraduc() {
+###########################################
+# Fonction de choix du type de traduction #
+###########################################
+function choisirTypeTraduction() {
 
 local v_sujet_choisi="${1}"
 
@@ -121,17 +112,17 @@ else
 fi
 }
 
-#################################
-# Sous-programme de fin de test #
-#################################
-ssp_quitterTest() {
+###########################
+# Fonction de fin de test #
+###########################
+function quitterTest() {
 
-  local nbLignesHistoTraduc_final=`wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ \/.*//'`
+  local nbLignesHistoTraduc_final=$(wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ .\/.*//')
 
   if [[ $nbLignesHistoTraduc_final -gt $nbLignesHistoTraduc_initial ]]
   then
     echo -e '\n\n\t\t\033[4;34;47m **********          REVISION DES MOTS TRADUITS          **********\033[0m\n'
-    nbMotsTraduits=`expr $nbLignesHistoTraduc_final - $nbLignesHistoTraduc_initial`
+    nbMotsTraduits=$(expr $nbLignesHistoTraduc_final - $nbLignesHistoTraduc_initial)
     tail -$nbMotsTraduits "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}"
     echo -e "\n------------------------------\n"
   fi
@@ -139,14 +130,15 @@ ssp_quitterTest() {
   exit 0
 }
 
-#######################################
-# Sous-programme de lancement du test #
-#######################################
-ssp_lanceTest() {
+#################################
+# Fonction de lancement du test #
+#################################
+function lancerTest() {
 
 	# Lancement du test
-	bash ${HOME}/bin/librairieMetI.bash "${C_LANCER_TEST}" $v_type_test $titre
-	local cr_erreur=$?
+	#bash "${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_LANCER_TEST}" "${v_type_test}" "${titre}"
+	"${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_LANCER_TEST}" "${v_type_test}" "${titre}"
+	local cr_erreur="${?}"
 	
 	# Si execution ok, alors on historise le test dans le fichier des executions
 	if [[ "${cr_erreur}" -eq 0 ]]
@@ -158,22 +150,22 @@ ssp_lanceTest() {
 	tail -"${C_AFFICH_HISTO_EXEC_AFTER_TEST}" "${REPERTOIRE_HISTO}""${FICHIER_HISTO_EXEC}" 
 	
 	# Proposition de sujet pour le test suivant
-	ssp_nextTest
+	proposerTestSuivant
 }
 
-#################################################
-# Sous-programme de proposition du test suivant #
-#################################################
-ssp_nextTest() {
+###########################################
+# Fonction de proposition du test suivant #
+###########################################
+function proposerTestSuivant() {
 
 (( v_next_topic_number = REPLY+1 ))
 
 if (( v_next_topic_number <= "${C_NB_FICHIERS}" ))
 then
-  v_next_topic_subject=`echo ${tabNomSujet[$REPLY]} | sed -e 's/ /_/g'`".txt"
-  v_nb_elements=$(wc -l `find "${REPERTOIRE_DONNEES}"* -name "${v_next_topic_subject}" | grep -v "~"`)
-  v_nb_elements=`echo -e "${v_nb_elements}" | sed -e 's/ \/.*//'`
-  echo -e "\nProposition pour l'execution suivante [Nombre total d'elements]: "${v_next_topic_number}" `echo "${v_next_topic_subject}" | sed -e 's/_/ /g' | sed -e 's/.txt//g'` [${v_nb_elements}]\n"
+  v_next_topic_subject=$(echo "${tabNomSujet[$REPLY]}" | sed -e 's/ /_/g')".txt"
+  v_nb_elements=$(wc -l $(find "${REPERTOIRE_DONNEES}"* -name "${v_next_topic_subject}" | grep -v "~"))
+  v_nb_elements=$(echo -e "${v_nb_elements}" | sed -e 's/ \/.*//')
+  echo -e "\nProposition pour l'execution suivante [Nombre total d'elements]: "${v_next_topic_number}" $(echo "${v_next_topic_subject}" | sed -e 's/_/ /g' | sed -e 's/.txt//g') [${v_nb_elements}]\n"
     
 else
     echo -e "\nLa fin du menu est atteinte => pas de proposition.\n"
@@ -181,21 +173,60 @@ fi
 
 }
 
+##################
+# Fonction Usage #
+##################
+function usage() {
+  echo -e "\t\tObjet: ce script permet de reviser du vocabulaire anglais, classe par theme."
+  echo -e "\t\tLancement du test: lancer le script anglais.bash avec l'option courte -t ou l'option longue --test"
+}
+
 ######################################
 # Algorithme principal: anglais.bash #
 ######################################
+# Verification des arguments du script
+while true
+do
+    case "${1}" in
+      -t)
+      break
+      ;;
+      --test)
+      break
+      ;;
+      *) usage
+      exit 1
+      ;;
+    esac
+done
 
-bash ${HOME}/bin/librairieMetI.bash "${C_CHECK_NBLIGNES_HISTO_TRADUC}"
+#########################################################################
+# Creation des fichiers d'historisation s'ils n'existent pas
+#-----------------------------------------------------------
+if [ ! -f "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_TRADUC}" ]
+then
+	echo -e "\n\033[1;31;47mCreation du fichier "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_TRADUC}"\033[0m"
+	touch "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_TRADUC}"
+fi
+#-----------------------------------------------------------
+if [ ! -f "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_EXEC}" ]
+then
+	echo -e "\n\033[1;31;47mCreation du fichier "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_EXEC}"\033[0m"
+	touch "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_EXEC}"
+fi
 
-bash ${HOME}/bin/librairieMetI.bash "${C_CHECK_NBLIGNES_HISTO_EXEC}"
+# Controle du nombre de lignes des fichiers d'historisation
+#----------------------------------------------------------
+"${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_CHECK_NBLIGNES_HISTO_TRADUC}"
+"${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_CHECK_NBLIGNES_HISTO_TRADUC}"
 
-ssp_calculNombreMots
+calculerNombreMots
 
 echo -e '\n\n\t\t\033[4;34;47m **********          PRECEDENTS THEMES CHOISIS          **********\033[0m\n'
 
 tail -"${C_AFFICH_HISTO_EXEC_START}" "${REPERTOIRE_HISTO}""${FICHIER_HISTO_EXEC}"
 
-nbLignesHistoTraduc_initial=`wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ \/.*//'`
+nbLignesHistoTraduc_initial=$(wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}" | sed -e 's/ .\/.*//')
 
 echo -e '\n\n\t\t\033[4;34;47m **********          MENU - MOT et IDEE          **********\033[0m'
 echo -e '\t\t\033[4;34;47m **********          Faites votre choix          **********\033[0m\n'
@@ -213,7 +244,7 @@ then
       if [ "${REPLY}" -le "${C_NB_FICHIERS}" ]
       then
         echo -e "\nVous avez choisi le menu "${REPLY}".\n"
-        ssp_choixTypeTraduc "${REPLY}"
+        choisirTypeTraduction "${REPLY}"
       fi
     fi
   fi	
@@ -222,98 +253,98 @@ fi
 case "${REPLY}" in
     
     1) titre="The_House.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     2) titre="Home_Life.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     3) titre="The_Familly.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     4) titre="Food_The_Meals.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     5) titre="Games_and_Past_times.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     6) titre="Schools_Education.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     7) titre="Science_literature_art.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     8) titre="The_human_body.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     9) titre="Health.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     10) titre="The_5_senses_and_speech.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     11) titre="Bodily_activity.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     12) titre="Games_and_sports.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     13) titre="Clothes_dress.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     14) titre="The_sky_and_the_earth.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     15)  titre="Seas_and_rivers.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     16)  titre="The_weather_and_the_season.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     17) titre="Time_The_calendar.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     18) titre="The_country_the_village.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     19) titre="Gardens_and_orchards.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     20) titre="The_farm_Farm_animals.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     21) titre="Agricultural_work.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     22) titre="Trees_and_forest.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     23) titre="Countries_far_and_near.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     24) titre="Towns_and_cities.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     25) titre="Callings_and_trades.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     26) titre="Industry.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     27) titre="Commerce_and_business.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     28) titre="Finance_and_Economy.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     29) titre="Travelling.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     30) titre="The_United_Kingdom.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     31) titre="The_Armed_Forces.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     32) titre="Churches_and_religion.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     33) titre="Feelings_Part_1.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     34) titre="Feelings_Part_2.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     35) titre="Human_behaviour.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     36) titre="Moral_standards.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     37) titre="Human_relations.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     38) titre="The_mind.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     39) titre="Action.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     40) titre="Will,freedom_and_habit.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     41) titre="Abstract_relations.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     42) titre="Importance_and_degree.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     43) titre="Change.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     44) titre="Literature.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     45) titre="Verbes_irreguliers.txt"
-	ssp_lanceTest;;
+	lancerTest;;
     46) titre="Notes.txt"
-	ssp_lanceTest;;
-    q) ssp_quitterTest;;
+	lancerTest;;
+    q) quitterTest;;
     *) echo -e "Choix non valide.";;
 esac
 
