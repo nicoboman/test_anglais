@@ -55,8 +55,7 @@ Importance_and_degree.txt
 Change.txt
 Literature.txt
 Verbes_irreguliers.txt
-Notes.txt
-"
+Notes.txt"
 
 ###################################################################
 # Fonction de calcul du nombre de mots dans un fichier de donnees #
@@ -136,7 +135,6 @@ function quitterTest() {
 function lancerTest() {
 
 	# Lancement du test
-	#bash "${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_LANCER_TEST}" "${v_type_test}" "${titre}"
 	"${REPERTOIRE_DONNEES}""librairieMetI.bash" "${C_LANCER_TEST}" "${v_type_test}" "${titre}"
 	local cr_erreur="${?}"
 	
@@ -146,7 +144,6 @@ function lancerTest() {
 		printf "%-10s%-30s%-10s\\n" "${v_type_test}" `echo "${titre}" | sed 's/.txt//g'` `date +%d/%m/%Y` >>"${REPERTOIRE_HISTO}""${FICHIER_HISTO_EXEC}"
 	fi
 
-	
 	tail -"${C_AFFICH_HISTO_EXEC_AFTER_TEST}" "${REPERTOIRE_HISTO}""${FICHIER_HISTO_EXEC}" 
 	
 	# Proposition de sujet pour le test suivant
@@ -177,8 +174,8 @@ fi
 # Fonction Usage #
 ##################
 function usage() {
-  echo -e "\t\tObjet: ce script permet de reviser du vocabulaire anglais, classe par theme."
-  echo -e "\t\tLancement du test: lancer le script anglais.bash avec l'option courte -t ou l'option longue --test"
+  echo -e "\tObjet: ce script permet de reviser du vocabulaire anglais, classe par theme."
+  echo -e "\tLancement du test: lancer le script anglais.bash avec l'option courte -t ou l'option longue --test"
 }
 
 ######################################
