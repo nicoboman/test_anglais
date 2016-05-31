@@ -1,4 +1,15 @@
 goods, wares ; les marchandises 
+an item; un article
+a range of goods; une gamme de produits
+to go window-shopping; faire du lÃ¨che-vitrine
+an invoice; une facture
+it's good value; c'est un bon rapport qualitÃ©-prix
+it's a real bargain; c'est une bonne affaire
+a corner shop; un commerce de proximitÃ©
+you must apply to the after-sale service; il faut vous adresser au service aprÃ¨s-vente
+a fishmonger's; une poissonnerie
+a delicatessen; une Ã©picerie fine
+a florist; un fleuriste
 the producer ; le producteur 
 the consumer ; le consommateur 
 to sell ; vendre 
@@ -6,51 +17,51 @@ to buy, to purchase ; acheter
 sale ; la vente 
 purchase ; l'achat 
 a wholesaler, a wholesale dealer ; un grossiste 
-a middleman ; un intermédiaire 
-a retailer ; un détaillant 
+a middleman ; un intermÃ©diaire 
+a retailer ; un dÃ©taillant 
 to order sthg ; commander qqch 
 to store sthg ; stocker, entreposer 
-a warehouse ; un entrepôt 
-a stall ; un étal 
+a warehouse ; un entrepÃ´t 
+a stall ; un Ã©tal 
 to run errands ; faire les commissions 
 a (department) store ; un grand magasin 
-a commodity ; une denrée 
+a commodity ; une denrÃ©e 
 a department ; un rayon 
 customers ; les clients 
 patrons ; les clients habituels 
-shoplifting ; le vol à l'étalage 
-a shoplifter ; un voleur à l'étalage 
-a label ; une étiquette 
+shoplifting ; le vol Ã  l'Ã©talage 
+a shoplifter ; un voleur Ã  l'Ã©talage 
+a label ; une Ã©tiquette 
 how much is this worth ? ; combien ceci vaut-il ? 
 to bargain for sthg ; marchander qqch 
-dear, expensive ; coûteux, cher 
+dear, expensive ; coÃ»teux, cher 
 I can't afford this ; Je n'ai pas les moyens de m'acheter ceci 
 the sales are on ; c'est la saison des soldes 
-a cheap item ; un article bon marché 
+a cheap item ; un article bon marchÃ© 
 a bargain ; une affaire 
-the flea market ; le marché aux puces 
-to sell on credit ; vendre à crédit 
+the flea market ; le marchÃ© aux puces 
+to sell on credit ; vendre Ã  crÃ©dit 
 to pay cash ; payer comptant 
 to wrap ; envelopper 
-to have sth charged on one's credit card ; faire débiter qqch sur sa carte de crédit 
+to have sth charged on one's credit card ; faire dÃ©biter qqch sur sa carte de crÃ©dit 
 brown paper ; du papier d'emballage 
 to tie ; attacher 
 cardboard ; du carton 
-sellotape ; du ruban adhésif 
+sellotape ; du ruban adhÃ©sif 
 to deliver ; livrer 
 delivery ; la livraison 
 free ; gratuit, gratuitement 
-a receipt (this is your receipt) ; un reçu 
+a receipt (this is your receipt) ; un reÃ§u 
 to pack ; emballer 
 canvas ; de la toile 
 a self-service store ; un libre-service 
 a range ; une gamme, un choix 
 foodstuffs ; les produits alimentaires 
 fresh ; frais 
-frozen ; surgelés 
-groceries ; des articles d'épicerie 
-a tin ; une boîte de conserves 
-a brand ; une marque déposée 
+frozen ; surgelÃ©s 
+groceries ; des articles d'Ã©picerie 
+a tin ; une boÃ®te de conserves 
+a brand ; une marque dÃ©posÃ©e 
 a trolley ; un chariot 
 the check-out ; la caisse 
 the bakery stand ; le rayon de la boulangerie 
@@ -58,42 +69,42 @@ the meat counter ; le rayon de la boucherie
 a multinational ; une multinationale 
 a subsidiary ; une filiale 
 CEO Chief Executive Officer ; PDG 
-to manage a company ; diriger une société 
+to manage a company ; diriger une sociÃ©tÃ© 
 the board of directors ; le conseil d'administration 
 a share ; une action 
 a shareholder ; un actionnaire 
 the employers ; le patronat 
 a firm ; une entreprise 
 the staff ; le personnel 
-an employee ; un employé 
+an employee ; un employÃ© 
 to resign ; demissionner 
-resignation ; la démission 
-part-time jobs ; les emplois à temps partiel 
-to retire ; partir à la retraite 
-a clerk ; un employé 
+resignation ; la dÃ©mission 
+part-time jobs ; les emplois Ã  temps partiel 
+to retire ; partir Ã  la retraite 
+a clerk ; un employÃ© 
 an invoice ; une facture 
 an accountant ; un comptable 
-a shorthand typist ; une sténodactylo 
+a shorthand typist ; une stÃ©nodactylo 
 the office ; le bureau 
-bookkeeping ; la comptabilité 
-an errand boy ; un garçon de courses 
+bookkeeping ; la comptabilitÃ© 
+an errand boy ; un garÃ§on de courses 
 an order ; une commande 
-trustworthy, reliable ; sûr, digne de confiance 
+trustworthy, reliable ; sÃ»r, digne de confiance 
 to rely on sthg, so ; compter sur qqch, qqn 
 Mail-order business ; vente par correspondance 
 cash on delivery ; livraison contre remboursement 
 to deliver sthg ; livrer qqch 
-advertising ; la publicité 
+advertising ; la publicitÃ© 
 to export ; exporter 
 to import ; importer 
 smuggling ; la contrebande 
-keen competition ; une concurrence très vive 
+keen competition ; une concurrence trÃ¨s vive 
 a fair ; une foire 
-a fun fair ; une fête foraine 
-a folder ; une dépliant, un prospectus 
+a fun fair ; une fÃªte foraine 
+a folder ; une dÃ©pliant, un prospectus 
 a booklet, a pamphlet ; un livret, une brochure 
 to boost sales ; faire monter les ventes 
-the consumer society ; la société de consommation 
+the consumer society ; la sociÃ©tÃ© de consommation 
 software ; le logiciel 
 hardware ; l'ordinateur (machine) 
 a floppy disc ; une disquette 
