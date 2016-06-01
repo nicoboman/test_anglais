@@ -1,4 +1,15 @@
-mathematics	;la mathÈmatique
+mathematics	;la math√©matique
+data processing; le traitement des donn√©es
+a computer scientist; un informaticien
+to computerize; informatiser
+a laptop; un ordinateur portable
+a byte; un octet
+to log on/off; se connecter, d√©connecter
+a home page; une page d'accueil
+a search engine; un moteur de recherches
+to hang up; raccrocher
+who's speaking?; qui est √† l'appareil?
+a parcel; un colis
 an angle;	un angle
 a surface;	une surface
 a volume;	un volume
@@ -7,7 +18,7 @@ curved;	courbe
 acute	;aigu
 obtuse;	obtus
 a triangle;un triangle
-a square	;un carrÈ
+a square	;un carr√©
 a rectangle	;un rectangle
 a circle;	un cercle
 a cube;	un cube
@@ -15,13 +26,13 @@ a sphere;	une sphere
 physics	;la physique
 chemistry	;la chimie
 biology	;la biologie
-to carry out an experiment;	faire une expÈrience
-a test-tube	;une Èprouvette
+to carry out an experiment;	faire une exp√©rience
+a test-tube	;une √©prouvette
 a magnet;	un aimant
 to magnetize	;aimanter
 a lens	;une lentille
 to magnify;	grossir
-a unit;	une unitÈ
+a unit;	une unit√©
 an ounce;	une once (28,35g)
 a pound	;une livre (453,60g)
 a stone	;6,348kg
@@ -29,17 +40,17 @@ a ton	;une tonne
 to weigh;	peser
 to sell by weight;	vendre au poids
 heavy	;lourd
-light;	lÈger
+light;	l√©ger
 length;	longueur
 an inch;	un pouce (2,54cm)
 a foot, feet (30,48cm);	un pied
-a yard;	un yard†(91,44cm)
+a yard;	un yard¬†(91,44cm)
 a mile;	un mille (1609m)
-a rule;	une rËgle graduÈe
+a rule;	une r√®gle gradu√©e
 to measure;	mesurer
 short	;court
 long;	long
-high;	haut, ÈlevÈ
+high;	haut, √©lev√©
 deep;	profond
 depth	;la profondeur
 wide, broad	;large
@@ -48,24 +59,24 @@ size;	la taille
 tall;	de grande taille
 low;bas
 shallow;	peu profond
-narrow;	Ètroit
-thick;	Èpais
+narrow;	√©troit
+thick;	√©pais
 thin;	mince
-the metric system;	le systËme mÈtrique
-literature;	la littÈrature
-a poem, a piece of poetry	;un poËme
-to rhyme [aÔ]	;rimer
+the metric system;	le syst√®me m√©trique
+literature;	la litt√©rature
+a poem, a piece of poetry	;un po√®me
+to rhyme [a√Ø]	;rimer
 a line;	un vers
-poetry;	la poÈsie
-a poet;	un poËte
-epic;	Èpique
+poetry;	la po√©sie
+a poet;	un po√®te
+epic;	√©pique
 lyrical;	lyrique
-an epic	;une ÈpopÈe
+an epic	;une √©pop√©e
 an author;	un auteur
-a play	;une piËce de thÈ‚tre
+a play	;une pi√®ce de th√©√¢tre
 a playwright;	un auteur dramatique
-a comedy;	une comÈdie
-a tragedy	;une tragÈdie
+a comedy;	une com√©die
+a tragedy	;une trag√©die
 a drama	;un drame
 the plot;	l'intrigue
 an act;	un acte
@@ -73,13 +84,13 @@ a soliloquy;	un monologue
 to quote;	citer
 history	;l'histoire
 a sovereign	;un souverain
-a statesman	;un homme d'Ètat
+a statesman	;un homme d'√©tat
 a warrior;	un guerrier
-climax;	l'apogÈe
-decay	;le dÈclin
+climax;	l'apog√©e
+decay	;le d√©clin
 downfall;	la chute
-a riot;	une Èmeute
-a rebellion;	une rÈvolte
+a riot;	une √©meute
+a rebellion;	une r√©volte
 a plot;	un complot
 the Middle Ages	;le Moyen Age
 a crusade	;une croisade
@@ -87,15 +98,15 @@ a tournament;	un tournoi
 a knight;	un chevalier
 a coat of mail;	une cotte de mailles
 chivalry;	la chevalerie
-medieval;	moyen‚geux
-a castle;	un ch‚teu fort
+medieval;	moyen√¢geux
+a castle;	un ch√¢teu fort
 a tower	;une tour
 the keep;	le donjon
-the battlements	;les crÈneaux
+the battlements	;les cr√©neaux
 a drawbridge;	un pont-levis
 World War I	;la Grande Guerre
 Wolrd War II;	la Guerre 39-45
-world-wide;	‡ l'Èchelle mondiale
+world-wide;	√† l'√©chelle mondiale
 fascism	;le fascisme
 capitalism;	le capitalisme
 communism	;le communisme
@@ -107,24 +118,24 @@ to paint;	peindre
 a painting;	une peinture
 a painter	;un peintre
 a masterpiece	;un chef-d'oeuvre
-a museum	;un musÈe
+a museum	;un mus√©e
 a gallery	;une galerie
-oil painting;	la peinture ‡ l'huile
+oil painting;	la peinture √† l'huile
 watercolour	;l'aquarelle
 abstract;	abstrait
 figurative;	figuratif
 a canvas;	une toile
 an easel	;un chevalet
-to mix colours;	mÈlanger des couleurs
+to mix colours;	m√©langer des couleurs
 a brush	;un pinceau
 a hue, a tint	;une teinte, une nuance
-to suit so's taste;	plaire ‡ qqn
+to suit so's taste;	plaire √† qqn
 a portrait;	un portrait
 to sit for so;	poser pour qqn
-the sitter;	le modËle
+the sitter;	le mod√®le
 a still-life;	une nature morte
 the foreground;	le premier plan
-the background;	l'arriËre-plan
+the background;	l'arri√®re-plan
 a drawing	;un dessin
 to draw	;dessiner
 a sketch;	une esquisse
@@ -138,8 +149,8 @@ marble;	le marbre
 clay	;l'argile
 bronze	;le bronze
 a mould	;un moule
-to erect, to set up;	Èriger
-plastics;	les matiËres plastiques
+to erect, to set up;	√©riger
+plastics;	les mati√®res plastiques
 rough wood	;le bois brut
 a musician;	un musicien
 to practise	;s'exercer
@@ -155,14 +166,14 @@ to pluck;	pincer les cordes
 to strike	;frapper, toucher les touches
 a composer;	un compositeur
 the conductor	;le chef d'orchestre
-to keep time;	suivre la cadence, Ítre en mesure
+to keep time;	suivre la cadence, √™tre en mesure
 to beat time;	battre la mesure
 a chord	;un accord
 the strings;	les cordes
 a cello	;un violoncelle
 the brass	;les cuivres
-the wind instruments;	les instruments ‡ vent
-a flute	;une fl˚te
+the wind instruments;	les instruments √† vent
+a flute	;une fl√ªte
 a clarinet;	une clarinette
 an oboe	;un hautbois
 a trumpet	;une trompette
