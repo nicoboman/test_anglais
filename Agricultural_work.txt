@@ -1,5 +1,6 @@
 agricultural;	agricole
 to_till_the_land;	cultiver_la_terre
+GMO; OGM
 a wine grower; un viticulteur
 200 head of cattle; 200 têtes de bétail
 soil;	sol
