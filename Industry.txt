@@ -1,25 +1,29 @@
 a factory	;	une usine
+the steel industry; la sidÃ©rurgie
+the oil industry; l'industrie pÃ©troliÃ¨re
+raw materials; les matiÃ¨res premiÃ¨res
+chemistry/a chemist/chemical; la chimie/un chimiste/chimique
 an industrialist	;	un industriel
 a textile mill owner	;	un industriel du textile
 to enter into partnership	;	s'associer
-a partner	;	un associé
+a partner	;	un associÃ©
 to run a concern	;	diriger une entreprise
-raw materials	;	les matières premières
-manufactured goods	;	les produits manufacturés
+raw materials	;	les matiÃ¨res premiÃ¨res
+manufactured goods	;	les produits manufacturÃ©s
 genuine	;	authentique, garanti
-adulterated	;	falsifié
+adulterated	;	falsifiÃ©
 shoddy goods, trumpery goods	;	de la camelote
-an engineer	;	un ingénieur
+an engineer	;	un ingÃ©nieur
 a workman	;	un ouvrier
-a gang	;	une équipe
+a gang	;	une Ã©quipe
 a technician	;	un technicien
-a foreman	;	un contremaître
-skilled, qualified	;	qualifié
-unskilled	;	Non-qualifié
+a foreman	;	un contremaÃ®tre
+skilled, qualified	;	qualifiÃ©
+unskilled	;	Non-qualifiÃ©
 wages	;	les salaires
 to ask for a rise	;	demander une augmentation
 income	;	les revenus
-to go on strike	;	se mettre en grève
+to go on strike	;	se mettre en grÃ¨ve
 a trade union	;	un syndicat
 a craftsman	;	un artisan
 a workshop	;	un atelier
@@ -32,14 +36,14 @@ to work a seam	;	exploiter un filon
 firedamp	;	le grisou
 to hew	;	tailler
 yield (to yield any returns)	;	le rendement
-production cost	;	le coût de production
-to become worked-out, exhausted	;	s'épuiser
+production cost	;	le coÃ»t de production
+to become worked-out, exhausted	;	s'Ã©puiser
 Cost-effective, profitable	;	rentable
 to dig out ore	;	extraire du minerai
 to smelt ore	;	fondre du minerai
 to grind, ground, ground	;	moudre
 an alloy	;	un alliage
-to mix	;	mélanger
+to mix	;	mÃ©langer
 iron	;	le fer
 molten	;	en fusion
 to moisten	;	humidifier
@@ -50,50 +54,50 @@ a cotton mill	;	une filature de cotton
 to spin	;	filer
 to weave	;	tisser
 to knit	;	tricoter
-a handloom	;	un métier à main
-a power loom	;	un métier mécanique
+a handloom	;	un mÃ©tier Ã  main
+a power loom	;	un mÃ©tier mÃ©canique
 to rot	;	pourrir
 to rust	;	rouiller
 car factory	;	une usine d'automobiles
-the assembly line	;	la chaîne d'assemblage
+the assembly line	;	la chaÃ®ne d'assemblage
 an oven	;	un four
 a thermal power station	;	une station thermique
-an hydroelectric power station	;	une centrale hydro-électrique
+an hydroelectric power station	;	une centrale hydro-Ã©lectrique
 a dam	;	un barrage
-a nuclear power plant	;	une centrale nucléaire
-alternative energies	;	les énergies de remplacement
-fossil fuels are running out	;	les combustibles fossiles s'épuisent
+a nuclear power plant	;	une centrale nuclÃ©aire
+alternative energies	;	les Ã©nergies de remplacement
+fossil fuels are running out	;	les combustibles fossiles s'Ã©puisent
 to maintain	;	entretenir
-to overhaul	;	réviser
+to overhaul	;	rÃ©viser
 a bolt	;	un boulon
-a nut	;	un écrou
+a nut	;	un Ã©crou
 to loosen, to come loose	;	se desserrer
-to tighten a nut	;	serrer un écrou
+to tighten a nut	;	serrer un Ã©crou
 to sharpen	;	aiguiser
-to solder a part	;	souder une pièce
-to be out of order	;	être détraqué, ne pas fonctionner
-to repair	;	réparer
-to take to pieces	;	démonter
+to solder a part	;	souder une piÃ¨ce
+to be out of order	;	Ãªtre dÃ©traquÃ©, ne pas fonctionner
+to repair	;	rÃ©parer
+to take to pieces	;	dÃ©monter
 to put together again	;	remonter
 a plant	;	une usine
-repairs	;	les réparations
-spare parts	;	des pièces de rechange
+repairs	;	les rÃ©parations
+spare parts	;	des piÃ¨ces de rechange
 a belt	;	une courroie
 a drilling machine	;	une forreuse
 a robot	;	un robot
-elaborate, sophisticated	;	compliqué, perfectionné
+elaborate, sophisticated	;	compliquÃ©, perfectionnÃ©
 know-how	;	le savoir-faire
-an apliance	;	un appareil (cf. « domestic appliances »)
+an apliance	;	un appareil (cf. Â«Â domestic appliancesÂ Â»)
 to devise	;	inventer, imaginer
 to develop	;	mettre au point
 to process	;	traiter, informer
 air pollution	;	la pollution de l'air
-noxious fumes	;	des fumées délétères
+noxious fumes	;	des fumÃ©es dÃ©lÃ©tÃ¨res
 the greenhouse effect	;	l'effet de serre
 acid rain	;	les pluies acides
 unleaded, lead-free	;	sans plomb
 the ozone layer	;	la couche d'ozone
-radioactive waste	;	les déchets radioactifs
-environmentalists	;	les écologistes
+radioactive waste	;	les dÃ©chets radioactifs
+environmentalists	;	les Ã©cologistes
 outlook			;	perspectives
 outburst		;	explosion
