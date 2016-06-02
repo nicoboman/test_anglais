@@ -1,5 +1,8 @@
 #! /bin/bash
 
+#---------- S'arrêter dès la première erreur ----------
+set -e
+
 #################################
 # Positionnement des constantes #
 #################################
