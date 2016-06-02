@@ -1,5 +1,7 @@
 agricultural;	agricole
 to_till_the_land;	cultiver_la_terre
+a wine grower; un viticulteur
+200 head of cattle; 200 têtes de bétail
 soil;	sol
 to_yield;	produire_rendre
 returns;	rendement
