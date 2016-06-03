@@ -1,67 +1,74 @@
-Eire ; la République d'Irlande 
+Eire ; la RÃ©publique d'Irlande 
+the throne; le trÃ´ne
+a coronation; le couronnement
+civil rights; les droits civiques
+an uprising; un soulÃ¨vement
+a spokesperson; un porte-parole
+a bill; un projet de loi
+a ballot; un scrutin
 Ulster, Norther Ireland ; l'Ulster, l'Irlande du Nord 
 a dialect ; un dialect 
 the English ; (tous) les Anglais 
 an Englishman ; un Anglais 
 the national anthem ; l'hymne national 
-the mother country ; la mère patrie 
-to settle ; s'établir 
+the mother country ; la mÃ¨re patrie 
+to settle ; s'Ã©tablir 
 self-government ; l'autonomie 
-self-governing republic ; une république autonome 
-MP (Member of Parliament) ; un député 
-to elect, to return so ; élire, réélire qqn 
+self-governing republic ; une rÃ©publique autonome 
+MP (Member of Parliament) ; un dÃ©putÃ© 
+to elect, to return so ; Ã©lire, rÃ©Ã©lire qqn 
 to vote ; voter 
-polling ; les élections 
+polling ; les Ã©lections 
 to go to the polls ; se rendre aux urnes 
 a polling station ; un bureau de vote 
 a vote ; une voix 
-a survey ; une enquête 
-a population sample ; une échantillon 
-the Speaker ; le Président de la Chambre 
+a survey ; une enquÃªte 
+a population sample ; une Ã©chantillon 
+the Speaker ; le PrÃ©sident de la Chambre 
 the Labour Party ; le parti travailliste 
-the Liberal Party ; les Libéraux 
-a seat ; un siège 
+the Liberal Party ; les LibÃ©raux 
+a seat ; un siÃ¨ge 
 a taxpayer ; un contribuable 
 tax evasion ; la fraude fiscale 
 politics ; la politique 
 a policy ; une (ligne) politique 
-Wage-earners ; les salariés 
+Wage-earners ; les salariÃ©s 
 the middle class(es) ; la classe moyenne 
 income ; le revenu 
 the rich, the wealthy ; les riches 
 luxury ; le luxe 
-to be well-off, comfortably off ; être à l'aise 
+to be well-off, comfortably off ; Ãªtre Ã  l'aise 
 substantial ; cossu 
 poor ; pauvre 
-badly off, hard up ; dans la gêne 
-poverty ; la pauvreté 
-to be in reduced circumstances ; être dans la gêne 
+badly off, hard up ; dans la gÃªne 
+poverty ; la pauvretÃ© 
+to be in reduced circumstances ; Ãªtre dans la gÃªne 
 to live in need ; vivre dans le besoin 
 a beggar ; un mendiant 
 to beg ; mendier 
-alms ; l'aumône 
+alms ; l'aumÃ´ne 
 a social worker ; une assistante sociale 
-the welfare state ; L'état-providence 
+the welfare state ; L'Ã©tat-providence 
 family allowances ; les allocations familiales 
-the NHS (National Health Service) ; la Sécurité Sociale 
-a county ; un comté 
+the NHS (National Health Service) ; la SÃ©curitÃ© Sociale 
+a county ; un comtÃ© 
 a parish ; une paroisse 
 the mayor ; le maire 
-to hold a meeting ; tenir séance 
-the town-hall ; l'hôtel de ville 
-a nurse ; une infirmière 
+to hold a meeting ; tenir sÃ©ance 
+the town-hall ; l'hÃ´tel de ville 
+a nurse ; une infirmiÃ¨re 
 an ambulance ; une ambulance 
 blood transfusion ; la transfusion sanguine 
 First-aid ; les premiers secours 
 a policeman on the beat ; un agent de police qui fait sa ronde 
 a patrol car ; une voiture de patrouille 
-a juvenile deliquent ; un délinquant juvénile 
-a first offender ; un délinquant primaire 
-a second offender ; un récidiviste 
-to be caught red-handed ; être pris la main dans le sac 
+a juvenile deliquent ; un dÃ©linquant juvÃ©nile 
+a first offender ; un dÃ©linquant primaire 
+a second offender ; un rÃ©cidiviste 
+to be caught red-handed ; Ãªtre pris la main dans le sac 
 a murderer ; un meurtrier 
-to be (found) guilty ; être (reconnu) coupable 
-with malice aforethought ; avec préméditation 
+to be (found) guilty ; Ãªtre (reconnu) coupable 
+with malice aforethought ; avec prÃ©mÃ©ditation 
 manslaughter ; l'homocide involontaire 
 assault and battery ; coups et blessures 
 bribery ; la corruption 
@@ -69,28 +76,28 @@ a bribe ; un pot-de-vin
 blackmail ; le chantage 
 to forge ; contrefaire 
 forgery ; faux et usage de faux 
-to release on bail ; relâcher sous caution 
+to release on bail ; relÃ¢cher sous caution 
 thief (pluriel : thieves) ; un voleur 
 theft ; le vol 
-to steal sthg from so ; voler qqch à qqn 
-to rob so of sthg ; dérober qqch à qqn 
-a robber ; un voleur à main armée 
-robbery ; un vol qualifié 
+to steal sthg from so ; voler qqch Ã  qqn 
+to rob so of sthg ; dÃ©rober qqch Ã  qqn 
+a robber ; un voleur Ã  main armÃ©e 
+robbery ; un vol qualifiÃ© 
 to break into a house ; entrer par effraction dans une maison 
 vandalism ; le vandalisme 
 to vandalize ; saccager 
-an inquiry ; une enquête 
-a witness ; un témoin 
-to make a statement ; faire une déclaration 
-to give a testimony ; faire une déposition 
-to confess a crime ; avouer un délit 
+an inquiry ; une enquÃªte 
+a witness ; un tÃ©moin 
+to make a statement ; faire une dÃ©claration 
+to give a testimony ; faire une dÃ©position 
+to confess a crime ; avouer un dÃ©lit 
 to charge so with sthg ; accuser qqn de qqch 
 to plead guilty ; plaider coupable 
 a wig ; une perruque 
 a gown ; une toge 
-to take the oath ; prêter serment 
-to sue so for damages ; poursuivre qqn en dommages-intérêts 
+to take the oath ; prÃªter serment 
+to sue so for damages ; poursuivre qqn en dommages-intÃ©rÃªts 
 a plea ; une plaidoirie 
 a fine ; une amende 
-compensation ; dédommagement 
-restitution ; une indemnité 
+compensation ; dÃ©dommagement 
+restitution ; une indemnitÃ© 
