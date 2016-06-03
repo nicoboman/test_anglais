@@ -1,6 +1,13 @@
-the Army	;	l'armée de terre
+the Army	;	l'armÃ©e de terre
+a truce; une trÃ¨ve
+nuclear deterrence; la dissuasion nuclÃ©aire
+to retaliate againts; user de reprÃ©sailles contre
+a battlefield; un champ de bataille
+an ambush; une embuscade
+a curfew; un couvre-feu
+
 the Navy	;	la marine de guerre
-the Air Force	;	l'armée de l'air
+the Air Force	;	l'armÃ©e de l'air
 a platoon	;	une section
 a section	;	un groupe de combat
 a squad	;	un escadron
@@ -8,111 +15,111 @@ a soldier	;	un soldat
 a private	;	un simple soldat
 a tommy	;	un soldat anglais
 a captain	;	un capitaine
-headquarters, HQ	;	le quartier général, le QG
+headquarters, HQ	;	le quartier gÃ©nÃ©ral, le QG
 a volunteer	;	un volontaire
-to put so on fatigues, on fatigue duty	;	désigner qqn pour une ou des corvées
-a march past	;	un défilé
-to be on duty	;	être de service
-to stand on watch	;	être de garde
+to put so on fatigues, on fatigue duty	;	dÃ©signer qqn pour une ou des corvÃ©es
+a march past	;	un dÃ©filÃ©
+to be on duty	;	Ãªtre de service
+to stand on watch	;	Ãªtre de garde
 a sentry	;	une sentinelle
-a sentry-box	;	une guérite
+a sentry-box	;	une guÃ©rite
 to go on leave	;	aller en permission
 a uniform	;	un uniforme
 in battledress	;	en tenue de combat
 a helmet	;	un casque
 a stripe	;	un galon
-a medal	;	une médaille
+a medal	;	une mÃ©daille
 a rifle	;	un fusil
 the butt	;	la crosse
 the barrel	;	le canon
-a firearm	;	une arme à feu
+a firearm	;	une arme Ã  feu
 a cartridge	;	une cartouche
 a bullet	;	une balle
 a pistol	;	un pistolet
 a shot	;	un coup de feu
-a sword	;	une épée
+a sword	;	une Ã©pÃ©e
 the blade	;	la lame
 a canon-ball	;	un boulet de canon
 to burst	;	exploser
 a weapon	;	une arme
-a nuclear warhead	;	une ogive nucléaire
-a rocket	;	une fusée
+a nuclear warhead	;	une ogive nuclÃ©aire
+a rocket	;	une fusÃ©e
 to bomb	;	bombarder
 a bomb	;	une bombe
-the Admiralty	;	l'Amirauté
+the Admiralty	;	l'AmirautÃ©
 an admiral	;	une amiral
 a squadron	;	une escadre
 a warship	;	un navire de guerre
-a battleship	;	un cuirassé
+a battleship	;	un cuirassÃ©
 a cruiser	;	un croiseur
 a destroyeur	;	un contre-torpilleur
-a frigate	;	une frégate
+a frigate	;	une frÃ©gate
 an aircraft carrier	;	un porte-avion
 a minesweeper	;	un dragueur de mines
-a landing craft	;	un chaland de débarquement
+a landing craft	;	un chaland de dÃ©barquement
 to fly over	;	survoler
 a shelter	;	un abri
 to bale out	;	sauter en parachute
 In-flight refueling	;	le ravitaillement en vol
-to escape detection	;	échapper aux radars
+to escape detection	;	Ã©chapper aux radars
 a troop carrier	;	un transport de troupes
 a parachute	;	un parachute
 a parachutist	;	un parachutiste
 a glider	;	un planeur
 warlike	;	guerrier, belliqueux
 hostile	;	hostile
-to declare war upon	;	déclarer la guerre à
-war breaks out (NPC: school (or meeting) breaks UP)	;	la guerre éclate (NPC: school (or meeting) breaks UP)
+to declare war upon	;	dÃ©clarer la guerre Ã 
+war breaks out (NPC: school (or meeting) breaks UP)	;	la guerre Ã©clate (NPC: school (or meeting) breaks UP)
 to invade	;	envahir
-to conquer	;	conquérir
-to be at war with	;	être en guerre avec
+to conquer	;	conquÃ©rir
+to be at war with	;	Ãªtre en guerre avec
 the vanguard	;	L'avant-garde
-the rearguard	;	L'arrière-garde
-a hand-to-hand fight	;	un corps à corps
+the rearguard	;	L'arriÃ¨re-garde
+a hand-to-hand fight	;	un corps Ã  corps
 a victory	;	une victoire
-a defeat	;	une défaite
+a defeat	;	une dÃ©faite
 vanquished	;	vaincu
-to yield ground	;	céder du terrain
+to yield ground	;	cÃ©der du terrain
 to carry the day	;	remporter la victoire
 to lose the day	;	perdre la bataille
 to retreat	;	battre en retraite
 to withdraw	;	se retirer
 to chase, to pursue so	;	poursuivre qqn
-to resist so	;	résister à qqn
-to rout	;	mettre en déroute
-to crush	;	écraser
+to resist so	;	rÃ©sister Ã  qqn
+to rout	;	mettre en dÃ©route
+to crush	;	Ã©craser
 panic-striken	;	pris de panique
 a pursuit	;	une poursuite
-a disaster	;	un désastre
+a disaster	;	un dÃ©sastre
 reinforcements	;	des renforts
 a stronghold	;	une forteresse
 a siege	;	un siege
-to besiege a town	;	assiéger une ville
+to besiege a town	;	assiÃ©ger une ville
 an assault	;	un assaut
 to take by storm	;	prendre d'assaut
-to storm a building	;	prendre un bâtiment d'assaut
+to storm a building	;	prendre un bÃ¢timent d'assaut
 to plunder	;	piller
-to destroy	;	détruire
+to destroy	;	dÃ©truire
 to flee	;	s'enfuir
-to escape sthg	;	échapper à qqch
-to have a narrow escape	;	s'échapper de justesse
-trench warfare	;	la guerre de tranchée
-the front line	;	la première ligne
-barbed wire	;	les barbelés
+to escape sthg	;	Ã©chapper Ã  qqch
+to have a narrow escape	;	s'Ã©chapper de justesse
+trench warfare	;	la guerre de tranchÃ©e
+the front line	;	la premiÃ¨re ligne
+barbed wire	;	les barbelÃ©s
 a patrol	;	une patrouille
 to harass	;	harceler
 to push back	;	repousser
 casualties	;	des pertes en vies humaines
-wounded	;	blessé
+wounded	;	blessÃ©
 unhurt	;	indemne
 safe and sound	;	sain et sauf
 to encircle	;	encercler
-to be taken prisoner	;	être fait prisonnier
-to set free	;	libérer (Set me free!)
-a ransom	;	une rançon
+to be taken prisoner	;	Ãªtre fait prisonnier
+to set free	;	libÃ©rer (Set me free!)
+a ransom	;	une ranÃ§on
 a spy	;	un espion
 a mole	;	une taupe
 MI 5 (Military Intelligence 5)	;	le contre-espionnage (anglais)
-a truce	;	une trève
-to pull the trigger ; appuyer sur la gâchette
+a truce	;	une trÃ¨ve
+to pull the trigger ; appuyer sur la gÃ¢chette
 
