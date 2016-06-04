@@ -1,84 +1,86 @@
 climate	;le climat
-temperate;	tempéré
+global warming; le rÃ©chauffement climatique
+environmentalists; les Ã©cologistes
+temperate;	tempÃ©rÃ©
 rainy, wet	;pluvieux
-a bright interval	;une éclaircie
+a bright interval	;une Ã©claircie
 changeable, unsettled;	variable, incertain
 what's the weather like?;	quel temps fait-il?
-the weather forecast	;les prévisions météorologiques
+the weather forecast	;les prÃ©visions mÃ©tÃ©orologiques
 a weather vane, a weather cock;	une girouette
-thermometer	;le thermomètre
-barometer;	baromètre
-it looks like rain	;le temps est à la pluie  , on dirait qu'il va pleuvoir
-it pours;	il pleut à verse
+thermometer	;le thermomÃ¨tre
+barometer;	baromÃ¨tre
+it looks like rain	;le temps est Ã  la pluie  , on dirait qu'il va pleuvoir
+it pours;	il pleut Ã  verse
 it rains cats and dogs;	il pleut des hallebardes, des cordes
 a cloud;	un nuage
 cloudy;	nuageux
-it pours ; il pleut à verse
-to be wet through	;être trempé
-to be drenched, to be soaked to the skin;	être trempé jusqu'à l'os
-it hails;	il grêle
-a hailstone	;un grêlon
+it pours ; il pleut Ã  verse
+to be wet through	;Ãªtre trempÃ©
+to be drenched, to be soaked to the skin;	Ãªtre trempÃ© jusqu'Ã  l'os
+it hails;	il grÃªle
+a hailstone	;un grÃªlon
 a raindrop;	une goutte de pluie
 it drizzles	;il bruine
 a rainbow;	un arc-en-ciel
-the glass is rising	;le baromètre monte
-the glass is falling	;le baromètre descend
-the glass points to set fair;	le baromètre est au beau fixe
+the glass is rising	;le baromÃ¨tre monte
+the glass is falling	;le baromÃ¨tre descend
+the glass points to set fair;	le baromÃ¨tre est au beau fixe
 to shine;	briller
-to glare;	briller d'un éclat éblouissant
+to glare;	briller d'un Ã©clat Ã©blouissant
 cloudless;	sans nuage, limpide
 bright;	brillant
 the dog days;	la canicule
 a heat wave	;une vague de chaleur
 scorching	;torride
-stifling;	étouffant
+stifling;	Ã©touffant
 sultry;	suffocant
 a haze	;une brume de chaleur
-a thunderstorm is brewing	;un orage se prépare
+a thunderstorm is brewing	;un orage se prÃ©pare
 the rumbling of storm	;le grondement du tonnerre
-a flash of lightening	;un éclair
-to dazzle	;éblouir, aveugler
+a flash of lightening	;un Ã©clair
+to dazzle	;Ã©blouir, aveugler
 a clap of thunder	;un coup de tonnerre
-to run for shelter;	courir se mettre à l'abri
+to run for shelter;	courir se mettre Ã  l'abri
 lightning strikes	;la foudre tombe
 dry	;sec
-drought;	sécheresse
+drought;	sÃ©cheresse
 warmth;	la chaleur
-cool	;frais, agréable
-dew	;la rosée
+cool	;frais, agrÃ©able
+dew	;la rosÃ©e
 damp;	humide
 dull;	gris, triste
 overcast;	couvert
 to whirl;	tourbillonner
 a mist;	une brume
 a fog	;un brouillard
-a pea-souper;	une purée de pois
-the fog is lifting;	le brouillard se lève
-it clears up;	le temps s'éclaircit
+a pea-souper;	une purÃ©e de pois
+the fog is lifting;	le brouillard se lÃ¨ve
+it clears up;	le temps s'Ã©claircit
 mild;	doux
-icy	;glacé
+icy	;glacÃ©
 bleak	;triste et froid
 to feel chilly, to shiver;frissonner
 to freeze;	geler
-frost;	gel, gelée
+frost;	gel, gelÃ©e
 ice	;la glace
-an icicle	;un glaçon
+an icicle	;un glaÃ§on
 to snow	;neiger
 snowflakes;	flocon de neige
-thaw	;le dégel
-to melt, to thaw ;  	fondre
+thaw	;le dÃ©gel
+to melt, to thawÂ ;Â Â 	fondre
 a gust of wind;	un coup de vent
 a gale;	un grand vent
 to do damage;	causer des avaries
-to foam;	écumer
-foam;	écume
+to foam;	Ã©cumer
+foam;	Ã©cume
 to roar;	gronder
 a shipwreck;	un naufrage
 a typhoon	;un typhon
 to abate;	diminuer
 to die away	;diminuer
 a flood;	une inondation
-to overflow;	déborder
+to overflow;	dÃ©border
 to whirl;	tourbillonner
 lava;	la lave
 to gush	;jaillir
@@ -88,8 +90,8 @@ an earthquake;	un tremblement de terre
 an earthtremor;	une secousse sismique (moins fort qu'un tremblement de terre)
 to quake;	trembler
 a landslip, a landslide;	un glissement de terrain
-a blizzard;	une tempête de neige
-a snowdrift	;une congère
+a blizzard;	une tempÃªte de neige
+a snowdrift	;une congÃ¨re
 an avalanche;	une avalanche
-icy	;glacé
+icy	;glacÃ©
 black ice	;le verglas
