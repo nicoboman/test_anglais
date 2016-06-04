@@ -169,7 +169,6 @@ then
 else
     echo -e "\nLa fin du menu est atteinte => pas de proposition.\n"
 fi
-
 }
 
 ##################
