@@ -1,25 +1,27 @@
 a current, a stream;	un courant
-jellyfish	; une méduse
+in spate; en crue
+a whirlpool; un tourbillon
+jellyfish	; une mÃ©duse
 ebb and flow;	le flux et le reflux
-high tide	;marée haute
-low tide;	marée basse
-tidal wave;	raz-de-marée
-the tide goes out	;la marée descend
-the tide comes in	;la marée monte
+high tide	;marÃ©e haute
+low tide;	marÃ©e basse
+tidal wave;	raz-de-marÃ©e
+the tide goes out	;la marÃ©e descend
+the tide comes in	;la marÃ©e monte
 the surge, the swell;	la houle
 sandbank;	banc de sable
-foam	;l'écume
+foam	;l'Ã©cume
 billow;	une lame
-tidal wave;	raz-de-marée
-untapped;	non exploité
+tidal wave;	raz-de-marÃ©e
+untapped;	non exploitÃ©
 the seabed;	le fond de la mer
 pollution	;la pollution
 oil slicks;	des nappes de mazout
 sewage;	les effluents urbains
-waste	;les déchets
+waste	;les dÃ©chets
 squid;	calamar
-the bathing season;	la saison balnéaire
-a seaside resort;	une station balnéaire
+the bathing season;	la saison balnÃ©aire
+a seaside resort;	une station balnÃ©aire
 holiday-makers	;les vacanciers
 to bathe	;se baigner
 a bathe;	un bain
@@ -27,31 +29,31 @@ to get out of one's depth;	perdre pied
 to lose one's footing , to drown, to get drowned;	se noyer
 sailing	;la voile
 yachting;	la navigation de plaisance
-skin-diving	;la plongée sous-marine
+skin-diving	;la plongÃ©e sous-marine
 sky-diving;	la chute libre
 flippers;	des palmes
 to bask in the sun	;prendre un bain de Soleil
-sunburnt;	hâlé
-tanned;	bronzé
-sandcastle	;château de sable
+sunburnt;	hÃ¢lÃ©
+tanned;	bronzÃ©
+sandcastle	;chÃ¢teau de sable
 a shell	;un coquillage
-dry-shod;	à pied sec
+dry-shod;	Ã  pied sec
 seaweed	;des algues
 to paddle	;patauger, barboter
 a net ;	un filet
 crab;	un crabe
 a claw;	une pince
 to pinch so;	pincer qqn
-shellfish, seafood;	des crustacés
+shellfish, seafood;	des crustacÃ©s
 lobster;	homard
-oyster;	huître
+oyster;	huÃ®tre
 mussel;	moule
 seagull	;mouette
 a shoal of fish	;un banc de poissons
-a fishing  boat	;un bateau de pêche
+a fishingÂ  boat	;un bateau de pÃªche
 meshes;	les mailles
-a trawler	;un châlutier
-a fisherman	;un pêcheur
+a trawler	;un chÃ¢lutier
+a fisherman	;un pÃªcheur
 sole;	la sole
 herring;	le hareng
 tuna;	le thon
@@ -61,21 +63,21 @@ to sail the seas;	parcourir les mers
 a warship;	un navire de guerre
 a liner	;un paquebot
 the merchant navy;	la marine marchande
-a steamship, a steamer;	un bateau à vapeur
+a steamship, a steamer;	un bateau Ã  vapeur
 a coaster;	un caboteur
-a motor ship;	un bateau à moteur
+a motor ship;	un bateau Ã  moteur
 a cargoship, a freighter;	un cargo
-an ore tanker	;un minéralier
-the propeller, the screw;	l'hélice
-a paddle steamer;	un bateau à aubes
-the funnel;	la cheminée
+an ore tanker	;un minÃ©ralier
+the propeller, the screw;	l'hÃ©lice
+a paddle steamer;	un bateau Ã  aubes
+the funnel;	la cheminÃ©e
 the hull;	la coque
 the keel;	la quille
 the stern	;la poupe
-watertight;	étanche
+watertight;	Ã©tanche
 to stow sthg;	arrimer qqchose
 to load freight	;charger une cargaison
-to unload, to discharge;	décharger
+to unload, to discharge;	dÃ©charger
 a crane;	une grue
 to steer a ship;	gouverner un navire
 the rudder;	le gouvernail
@@ -87,26 +89,26 @@ to weigh anchor;	lever l'ancre
 starboard	;tribord
 port	;babord
 to fly the flag of;	battre pavillon de
-the crew;	l'équipage
+the crew;	l'Ã©quipage
 the compass	;la boussole
 a knot;	un noeud = 1,852 km/h
-a mast;	un mât
+a mast;	un mÃ¢t
 the sails;	les voiles
 under full canvas	;toutes voiles dehors
 to tack about	;tirer des bords
-to drift;	dériver
+to drift;	dÃ©river
 a shipyard;	un chantier de construction
 to launch;	lancer
 the home port	;le port d'attache
-to be moored;	être amarré
+to be moored;	Ãªtre amarrÃ©
 the quay, the wharf;	le quai
 the harbour;	le port
-a jetty	;une jetée
+a jetty	;une jetÃ©e
 a lighthouse;	un phare
 a tug	;un remorqueur
 to tow;	remorquer
-a buoy;	une bouée
-a lifebuoy;	une bouée de sauvetage
+a buoy;	une bouÃ©e
+a lifebuoy;	une bouÃ©e de sauvetage
 to be bound for	;faire route vers
 to head for the open sea;	gagner le large
 casualties;	les pertes
@@ -115,56 +117,56 @@ a life jacket	;un gilet de sauvetage
 a life boat	;un canot de sauvetage
 to be wrecked;	faire naufrage
 a shipwreck	;un naufrage
-a wreck	;une épave
+a wreck	;une Ã©pave
 to sink, sank, sunk;	sombrer, couler
-to run aground;	s'échouer
+to run aground;	s'Ã©chouer
 to flow	;couler
 a spring	(In spring a spring springs like a spring);une source
 to take one's source;	prendre sa source
 to gush forth;	jaillir
 to ooze	;suinter
-to trickle;	couler goutte à goutte
+to trickle;	couler goutte Ã  goutte
 a torrent	;un torrent
 a waterfall	;une cascade
 an eddy	;un tourbillon
-to foam	;écumer
+to foam	;Ã©cumer
 a brook	;un ruisseau
 a tributary	;un affluent
 broad, wide;	large
-narrow;	étroit
+narrow;	Ã©troit
 straight;	droit
 winding	;sinueux
 deep;	profond
 shallow	;peu profond
-a ford;	un gué
-to ford	;traverser à gué
+a ford;	un guÃ©
+to ford	;traverser Ã  guÃ©
 the bank	;la rive
 the edge;	le bord
 the bottom;	le fond
 turbid, muddy	;boueux
-slime [aï];	la vase, le limon
+slime [aÃ¯];	la vase, le limon
 the river bed	;le lit du fleuve
 an estuary;	un estuaire
 a delta	;un delta
 fresh water;	l'eau douce
-salt water;	l'eau salée
+salt water;	l'eau salÃ©e
 a lake;	un lac
 a pool;	une mare
-a pond;	un étang
+a pond;	un Ã©tang
 a swamp, a marsh;	un marais
-to drain;	draîner
-a fish bone	;une arête de poisson
+to drain;	draÃ®ner
+a fish bone	;une arÃªte de poisson
 a fin	;une nageoire
 shrimp;	crevette
-a crayfish;	une écrevisse
-an otter;	une  loutre
+a crayfish;	une Ã©crevisse
+an otter;	uneÂ  loutre
 a beaver;	un castor
 a toad	;un crapaud
 a frog;	une grenouille
-a heron	;un héron
+a heron	;un hÃ©ron
 an eel;	une anguille
 reed;	roseau
-kingfisher;	martin pêcheur
+kingfisher;	martin pÃªcheur
 the tow path;	chemin de halage
-a lock;	une écluse
+a lock;	une Ã©cluse
 a sluice;	une vanne
