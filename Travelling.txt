@@ -1,4 +1,14 @@
 to travel ; voyager 
+to take three days off; prendre 3 jours de congés
+to make a long week-end of it; faire le pont
+to go on a package tour; faire un voyage organisé
+to go back-packing; voyager sac à dos
+next tuesday is public holiday; c'est férié mardi prochain
+a leaflet; un dépliant
+in the peak season / off season; en pleine saison / saison creuse
+to check-in/check-out; arriver à l'hôtel/quitter l'hôtel
+to pay the bill; payer l'addition
+is breakfast included?; le petit déjeuner est-il compris?
 a four-by-four; un 4x4
 the exhaust pipe; le pot d'échappement
 a spare wheel; une roue de secours
@@ -10,7 +20,6 @@ to flash one's headlights; faire des appels de phare
 the speedometer; le compteur de vitesse
 the horn; le klaxon
 to hoot; klaxonner
-
 to go on a journey ; partir en voyage 
 the route ; l'itinéraire 
 a package tour ; un voyage organisé 
