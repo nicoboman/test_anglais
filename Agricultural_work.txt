@@ -1,4 +1,11 @@
 agricultural;	agricole
+a beast; une bête
+a mammal; un mammifère
+an endangered species; une espèce en voie de disparition
+a bitch; une chienne
+to walk the dog; promener le chien
+to keep a dog on a lead; tenir un chien en laisse
+a deer; un daim
 to_till_the_land;	cultiver_la_terre
 GMO; OGM
 a wine grower; un viticulteur
