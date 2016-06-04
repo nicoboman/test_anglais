@@ -89,7 +89,6 @@ then
  v_type_test="THEME"
  echo -e "Pour les verbes irreguliers, type de traduction impose: theme"
 
-
 else
 
   echo -e "Theme(t) - Version(v):\n"
