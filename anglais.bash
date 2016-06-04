@@ -205,7 +205,7 @@ if [ ! -f "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_TRADUC}" ]
 then
 	echo -e "\n\033[1;31;47mCreation du fichier "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_TRADUC}"\033[0m"
 	touch "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_TRADUC}"
-	local cr_erreur="${?}"
+	cr_erreur="${?}"
 	
 	if [[ ! "${cr_erreur}" -eq 0 ]]
 	then
@@ -218,7 +218,7 @@ if [ ! -f "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_EXEC}" ]
 then
 	echo -e "\n\033[1;31;47mCreation du fichier "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_EXEC}"\033[0m"
 	touch "${REPERTOIRE_DONNEES}""${FICHIER_HISTO_EXEC}"
-	local cr_erreur="${?}"
+	cr_erreur="${?}"
 	
 	if [[ ! "${cr_erreur}" -eq 0 ]]
 	then
