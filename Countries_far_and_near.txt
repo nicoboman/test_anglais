@@ -1,4 +1,7 @@
 north_pole;	pole_nord
+inhabitant; un habitant
+the mother tongue; la langue maternelle
+the motherland; la patrie
 south_pole;	pole_sud
 inhospitable;	inhospitalier
 Eskimos	;Esquimaux
@@ -12,8 +15,8 @@ penguin	;pingouin
 whale	;baleine
 mammal;	mammifere
 whaling	;chasse_a_la_baleine
-endangered;	menacé
-enhanced;	renforcé
+endangered;	menacÃ©
+enhanced;	renforcÃ©
 shark	;requin
 desert;	desert
 barren;	sterile
@@ -24,21 +27,21 @@ flesh-eating;	carnivore
 lioness	;lionne
 mane;	criniere
 lion_cub;	lionceau
-striped	;rayé
-spotted	;moucheté
-panther	;panthère
+striped	;rayÃ©
+spotted	;mouchetÃ©
+panther	;panthÃ¨re
 to_roar	;rugir
 to_growl;	gronder
 savage;	sauvage_cruel
 to_creep;	ramper
-den_(lair);	tanière
+den_(lair);	taniÃ¨re
 to_crouch	;se_tapir
 prey	;proie
 to_leap	;sauter_bondir
 to_spring_at;	s_elancer_sur
-to_tear_to_pieces (NPC: TO TAKE to pieces = démonter un appareil)	;mettre_en_pieces (NPC: TO TAKE to pieces = démonter un appareil)
+to_tear_to_pieces (NPC: TO TAKE to pieces = dÃ©monter un appareil)	;mettre_en_pieces (NPC: TO TAKE to pieces = dÃ©monter un appareil)
 claws;	griffes
-tame;	apprivoisé
+tame;	apprivoisÃ©
 snare	;piege_lacet
 trap;	piege_trappe
 pitfall	;piege_trappe_fosse
@@ -69,7 +72,7 @@ emu	;emeu
 parrot;	perroquet
 bat	;chauve-souris
 mammal;	mammifere
-ebony;	ébène
+ebony;	Ã©bÃ¨ne
 mahogany;	acajou
 rosewood	;palissandre
 cedar	;cedre
@@ -80,7 +83,7 @@ sugar-cane;	canne_a_sucre
 cotton_plant;	cotonnier
 tribe	;tribue
 to_wander;	errer_vagabonder
-settled_sedentary	;sédentaire
+settled_sedentary	;sÃ©dentaire
 barbarous;	barbare
 witchcraft;	sorcellerie
 witch-doctor_wizard	;sorcier
@@ -94,4 +97,4 @@ to_starve_to_death;	mourrir_de_faim
 to_die_of_starvation;	mourrir_de_faim
 starvation;	famine
 travel_agency;	agence_de_voyage
-French_spoken;	On_parle_français
+French_spoken;	On_parle_franÃ§ais
