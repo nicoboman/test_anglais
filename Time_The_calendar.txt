@@ -1,42 +1,60 @@
 to happen, to occur;	arriver, survenir
+an era; une Ã¨re
+currently; actuellement
+hardly ever; presque jamais
+short-lived; Ã©phÃ©mÃ¨re
+temporary; temporaire
+contemporary; contemporain
+usually / as usual; habituellement, comme d'habitude
+from now on; Ã  partir de ce moment
+at last!; enfin!
+it's taking forever!; cela n'en finit pas!
+how time flies!; comme le temps passe!
+long time no see; Ã§a fait un bail
+a stopwatch; un chronomÃ¨tre
+a quarter of an hour; un quart d'heure
+half an hour; une demi-heure
+my watch is (five minutes) fast; ma montre avance (de cinq minutes)
+my watch is (five minutes) slow; ma montre retarde (de cinq minutes)
+better late than never; mieux vaut tard que jamais
 to take place	;avoir lieu
 formerly;	autrefois
-to pass, to elapse;	passer, s'écouler
+to pass, to elapse;	passer, s'Ã©couler
 quickly, hasty	;rapidement
 to kill time;	tuer le temps
 by Sunday;	d'ici Dimanche
 when the clock strikes midnight;	aux douze coups de minuit
 lasting	;durable
-everlasting;	éternel
+everlasting;	Ã©ternel
 to have a good time;	s'amuser, passer un bon moment,
 how long does it take?;	combien de temps faut-il?
-to be ON time;	être à l'heure
-to be IN time	;arriver juste à temps
-in this day and age;	à notre époque
-to be late;	être en retard
-sooner or later;	tôt ou tard
+to be ON time;	Ãªtre Ã  l'heure
+to be IN time	;arriver juste Ã  temps
+in this day and age;	Ã  notre Ã©poque
+to be late;	Ãªtre en retard
+sooner or later;	tÃ´t ou tard
 to last	;durer
 it's hightime;	il est grand temps
 it's hightime they left	; il est grand temps qu'ils 
 without further delay	;sans plus attendre
-to hurry up;	se hâter
+to hurry up;	se hÃ¢ter
 to make up for lost time;	rattraper le temps perdu
 to catch up on work ; rattraper du retard dans son travail	
-hurried;	hâtif
-to postpone;	remettre à plus tard
+hurried;	hÃ¢tif
+to postpone;	remettre Ã  plus tard
 spare time, time to spare;	des loisirs
 to save time	;gagner du temps
 to waste one's time;	perdre son temps
 to end, to come to an end	;se terminer, finir
 to go on, to continue;	continuer
-to stop, to leave off	;cesser, s'arrêter
+to stop, to leave off	;cesser, s'arrÃªter
 later on;	plus tard
-up-to-date;	à la dernière mode
-outdated;	démodé, dépassé
-oldfashioned ;démodé pour un vêtement
-former;	précédent, ancien
-the former;	renvoie au premier cité
-the later	;renvoie au dernier cité
+up-to-date;	Ã  la derniÃ¨re mode
+outdated;	dÃ©modÃ©, dÃ©passÃ©
+oldfashioned ;dÃ©modÃ© pour un vÃªtement
+former;	prÃ©cÃ©dent, ancien
+the former;	renvoie au premier citÃ©
+the later	;renvoie au dernier citÃ©
 to tell the time;	dire l'heure
 dawn;	l'aube
 daybreak, peep of day;	le point du jour
@@ -44,12 +62,12 @@ to rise;	se lever
 sunrise	;le lever du soleil
 sunset;	le coucher du soleil
 it is broad daylight;	il fait grand jour
-it is pitch dark;	il fait nuit noire
+it is pitch dark;	il faitÂ nuit noire
 midday, noon;	midi
-afternoon;	après-midi
+afternoon;	aprÃ¨s-midi
 evening;	soir
-twilight;	crépuscule
-darkness;	obscurité
+twilight;	crÃ©puscule
+darkness;	obscuritÃ©
 midnight;	minuit
 an hourglass;	un sablier
 un sundial;	un cadran solaire
@@ -62,22 +80,22 @@ a battery;	une pile
 the dial;	le cadran
 clockwise;	dans le sens des aiguilles d'une montre
 counterclockwise;	en sens inverse
-LCD liquid crystal display	; affichage à cristaux liquide
+LCD liquid crystal display	; affichage Ã  cristaux liquide
 to be slow;	retarder (pour une montre)
 to be fast;	avancer (pour une montre)
 the watchmaker;	l'horloger
 the right time;	l'heure juste
 accurate;	exact
-time lag, jet lag	;décalage horaire
+time lag, jet lag	;dÃ©calage horaire
 a quarter TO six;	six heures moins le quart
 five to ten	; dix heures moins cinq
 ten past five	;cinq heures dix
-it's 5 (o'clock) sharp;	il est 5 heures précises
+it's 5 (o'clock) sharp;	il est 5 heures prÃ©cises
 a.m;le matin
-p.m	;l'après-midi
+p.m	;l'aprÃ¨s-midi
 a fortnight;	quinze jours
-a leap year (to leap = sauter -> to play leapfrog);	une année bissextile
-a quarter;	un trimestre civil (= un quart d'année)
+a leap year (to leap = sauter -> to play leapfrog);	une annÃ©e bissextile
+a quarter;	un trimestre civil (= un quart d'annÃ©e)
 a term;	un trimestre scolaire
 daily	;quotidien
 weekly;	hebdomadaire
@@ -89,26 +107,26 @@ once;	une fois
 twice	;2 fois
 three, four, ten times;	trois, quatre, dix fois
 B.C. (before Christ);	avant J.C.
-A.D. (Anno Domini);	après J.C.
+A.D. (Anno Domini);	aprÃ¨s J.C.
 the day before yesterday;	avant-hier
-the day after tomorrow;	après-demain
+the day after tomorrow;	aprÃ¨s-demain
 the last two;	les deux dernier(e)s
 the last but one;	l'avant-dernier
 the first two	;les deux premiers
-Easter Sunday	;le dimanche de Pâques
-Boxing Day	;le lendemain de Noël
+Easter Sunday	;le dimanche de PÃ¢ques
+Boxing Day	;le lendemain de NoÃ«l
 New Year's Day;	le jour de l'an
 New Year's Eve;	la Saint Sylvestre
-Labour Day;	la fête du travail
-a boy of 12	, a twelve-year[sans S] old boy	;un garçon de 12 ans	
+Labour Day;	la fÃªte du travail
+a boy of 12	, a twelve-year[sans S] old boy	;un garÃ§on de 12 ans	
 youth;	la jeunesse
 teenagers	;les adolescents
 grown-ups	;les grandes personnes
-infancy;	la première enfance
+infancy;	la premiÃ¨re enfance
 childhood	;l'enfance
-manhood;	l'âge adulte (pour l'homme)
-womanhood	;l'âge adulte (pour la femme)
-to be in one's prime;	être dans la fleur de l'âge
+manhood;	l'Ã¢ge adulte (pour l'homme)
+womanhood	;l'Ã¢ge adulte (pour la femme)
+to be in one's prime;	Ãªtre dans la fleur de l'Ã¢ge
 to be in one's teens;	avoir moins de 20 ans
 to be in one's forties;	avoir la quarantaine
 to be in one's early forties;	avoir entre 40 et 45 ans
