@@ -1,109 +1,118 @@
-the household	;la maisonnée
+the household	;la maisonnÃ©e
+birth control; le contrÃ´le des naissances
+a newborn; un nouveau-nÃ©
+to breastfeed a baby; allaiter un bÃ©bÃ©
+to have an abortion; se faire avorter
+hes baby is due next month; elle doit accoucher le mois prochain
+the elderly; les personnes Ã¢gÃ©es
+to get old; vieillir
+when you are my age...; quand tu auras mon Ã¢ge
+the offspring; la progÃ©niture
 large	;nombreux
 grandparents;	les grands-parents
 an uncle;	un oncle
 an aunt;	une tante
-family gatherings;	les réunions de famille
+family gatherings;	les rÃ©unions de famille
 a relation, a relative	;un "parent", qqn de lien de sang
 a nephew	;un neveu
 a first cousin;	un cousin germain
-a niece	;une nièce
+a niece	;une niÃ¨ce
 to propose to so;	demander qqn en mariage
-upbringing;	l'éducation d'un enfant
+upbringing;	l'Ã©ducation d'un enfant
 to dump somebody;	tromper qqn (relation amoureuse)
-the husband	;l'époux, le mari
-the wife, wives;	la femme, l'épouse
+the husband	;l'Ã©poux, le mari
+the wife, wives;	la femme, l'Ã©pouse
 to woo;	draguer, courtiser
-the father-in-law;	le beau-père
-the mother-in-law	;la belle-mère
+the father-in-law;	le beau-pÃ¨re
+the mother-in-law	;la belle-mÃ¨re
 the in-laws;	les beaux parents
 hen night; enterrement de vie de jeune fille
-stag night; enterrement de vie de garçon
+stag night; enterrement de vie de garÃ§on
 a daughter;	une fille
-the stepfather;	le beau-père (second mariage)
+the stepfather;	le beau-pÃ¨re (second mariage)
 an orphan	;un orphelin
 a guardian;	un tuteur
-life expectation;	l'espérance de vie
+life expectation;	l'espÃ©rance de vie
 a widower;	un veuf
 a widow;	une veuve
-a bachelor;	un célibataire
+a bachelor;	un cÃ©libataire
 a housewife	;une femme au foyer
-older	;le plus âgé
-the elder	;l'aîné (de 2 enfants)
-the eldest	;l'aîné (de plus de 2 enfants)
+older	;le plus Ã¢gÃ©
+the elder	;l'aÃ®nÃ© (de 2 enfants)
+the eldest	;l'aÃ®nÃ© (de plus de 2 enfants)
 twins	;jumeaux, jumelles
 a push chair;	une poussette
-to attend to sthg	;vaquer à qqch
+to attend to sthg	;vaquer Ã  qqch
 to look after so;	veiller sur qqn
 to see to;	s'occuper de (can you see to the plumber's bill?)
-to bring up a child	;élever un enfant
-upbringing;	l'éducation
-well-bred, well-behaved	;bien élevé
-ill-bred, ill-mannered;	mal élevé
+to bring up a child	;Ã©lever un enfant
+upbringing;	l'Ã©ducation
+well-bred, well-behaved	;bien Ã©levÃ©
+ill-bred, ill-mannered;	mal Ã©levÃ©
 kind;	bon, aimable
 lenient	;indulgent
-to spoil;	gâter
-severe;	sevère
+to spoil;	gÃ¢ter
+severe;	sevÃ¨re
 harsh;	dur, cruel
 to punish	;punir
 to punish;	punir
-obedient;	obéissant
-to obey so;	obéir à qqn
+obedient;	obÃ©issant
+to obey so;	obÃ©ir Ã  qqn
 quiet;	tranquille, doux
-naughty	;méchant, vilain
+naughty	;mÃ©chant, vilain
 rude	;grossier, impoli
-disobedient;	désobéissant
-to disobey so / an order;	désobéir à qqn, à un ordre
+disobedient;	dÃ©sobÃ©issant
+to disobey so / an order;	dÃ©sobÃ©ir Ã  qqn, Ã  un ordre
 the housekeeper;	l'intendant
-the butler	;le maître d'hôtel
-to give notice;	donner congés
-dishonest;	malhonnête
-unfaithful;	infidèle
+the butler	;le maÃ®tre d'hÃ´tel
+to give notice;	donner congÃ©s
+dishonest;	malhonnÃªte
+unfaithful;	infidÃ¨le
 outgoing;	ouvert, extraverti
 an acquaintance	;une connaissance
 a casual acquaintance;	une vague connaissance
 to take a fancy to so	;se prendre d'affection pour qqn
 to strike up a friendship, to make friends with so;	se lier d'amitier avec qqn
-to be on friendly terms with so;	être en bons termes avec qqn
-to welcome so	;souhaiter la bienvenue à qqn
+to be on friendly terms with so;	Ãªtre en bons termes avec qqn
+to welcome so	;souhaiter la bienvenue Ã  qqn
 a warm welcome	;un acceuil chaleureux
 to greet so	;accueillir qqn
-to introduce to so;	présenter à qqn
+to introduce to so;	prÃ©senter Ã  qqn
 to bow to so	;saluer en s'inclinant
-formal;	attaché au bienséances
-informal;	simple, sans cérémonie
-to stand on ceremony;	faire des cérémonies, des façons
+formal;	attachÃ© au biensÃ©ances
+informal;	simple, sans cÃ©rÃ©monie
+to stand on ceremony;	faire des cÃ©rÃ©monies, des faÃ§ons
 to hug so;	serrer qqn dans ses bras
-to give so a hug;	étreindre qqn
+to give so a hug;	Ã©treindre qqn
 birth;	la naissance
 to expect a baby;	attendre un enfant
-to be pregnant;	être enceinte
-a surrogate mother;	une mère porteuse
+to be pregnant;	Ãªtre enceinte
+a surrogate mother;	une mÃ¨re porteuse
 to have a baby;	avoir un enfant
 pregnancy	;la grossesse
 surname, last name;	nom de famille
 to christen, to baptize;	baptiser
-to stand godfather, godmother ;	être parrain, marraine de
+to stand godfather, godmother ;	Ãªtre parrain, marraine de
 the godchild	;le filleul, la filleule
 a nickname	;un surnom
 to propose to so;	demander qqn en mariage
 to court, to woo;	courtiser, draguer qqn
 to become engaged;	se fiancer
-the fiancé(e);	le (la) fiancé(e)
+the fiancÃ©(e);	le (la) fiancÃ©(e)
 marriage;	le mariage
 the wedding	;le mariage
-to marry so	;épouser qqn
-the bride-to-be;	la future mariée
+to marry so	;Ã©pouser qqn
+the bride-to-be;	la future mariÃ©e
 bridesmaids	;les demoiselles d'honneur
 a wedding-ring;	une alliance
-the bride	;la jeune mariée
-the bride-groom	;le jeune marié
+the bride	;la jeune mariÃ©e
+the bride-groom	;le jeune mariÃ©
 honeymoon	;la lune de miel
 to divorce so	;divocer d'avec qqn
 to get divorced	;divorcer
 to go into mourning	;prendre le deuil
-Like father, like son	;Tel père, tel fils.
-Marry in haste, repent at leisure;	Qui se marie à la hâte, se repent à loisir.
-Spare the road and spoil the child;	Qui aime bien châtie bien.
+Like father, like son	;Tel pÃ¨re, tel fils.
+Marry in haste, repent at leisure;	Qui se marie Ã  la hÃ¢te, se repent Ã  loisir.
+Spare the road and spoil the child;	Qui aime bien chÃ¢tie bien.
 A friend in need is a friend indeed;	Un ami dans le besoin est un vrai ami.
 The more, the merrier;	Plus on est de fous, plus on rit.
