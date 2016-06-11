@@ -66,7 +66,6 @@ rude	;grossier, impoli
 disobedient;	désobéissant
 to disobey so / an order;	désobéir à qqn, à un ordre
 the housekeeper;	l'intendant
-the butler	;le maître d'hôtel
 to give notice;	donner congés
 dishonest;	malhonnête
 unfaithful;	infidèle
