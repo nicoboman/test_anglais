@@ -1,71 +1,71 @@
-to burst into tears	;	fondre en larmes
-to sob	;	sangloter
+to burst into tears;	fondre en larmes
+to sob;	sangloter
 to heave, to breathe a sigh (of relief)	;	pousser un soupir (de soulagement)
-to sigh for sthg	;	soupirer pour qqch
-to cry (for joy)	;	pleurer (de joie)
-to laugh	;	rire
-to smile at sthg, so	;	sourire de, à qqch, à qqn
-to laugh at so	;	se moquer de qqn
-laughter	;	le rire
-a fit of laughter	;	un fou-rire
-to burst out laughing	;	éclater de rire
-to giggle	;	pouffer de rire, glousser
-to beam with joy	;	rayonner de joie
-glad	;	content
-to cheer up	;	retrouver son entrain
-to cheer so up	;	remonter le moral de qqn
-to feel comfortable	;	se sentir bien, rassuré
-(to be) satisfied with so, sthg, to do sthg	;	(être) satisfait
-to be relieved at sthg, so, with sthg	;	être soulagé
-relief	;	le soulagement
-to solace so	;	consoler qqn
-soothing	;	calmant, apaisant
-to be relieved at sthg, so, with sthg	;	être soulagé
-to be relieved at sthg, so, with sthg	;	être soulagé
-to feel comfortable	;	se sentir bien, rassuré
-carefree	;	insouciant, sans souci
-to be relieved at sthg, so, with sthg	;	être soulagé
-wretched	;	malheureux
-a wretch	;	un scélérat
-to be in low spirits	;	se sentir sans entrain
-to despair	;	désespérer
-dejected, downcast	;	découragé, abattu
-depressed	;	déprimé
-to depress so	;	déprimer qqn
-a hopeless situation	;	une situation désespérée
-disheartened	;	qui n'a plus le coeur à l'ouvrage
-desperate	;	désespéré
-to wreck, to dash a hope	;	anéantir un espoir
-to be hopeful of sthg, so	;	avoir bon espoir
-a fond hope	;	un fol espoir
-to lose hope	;	perdre espoir
-to take heart	;	prendre courage
-a faint glimmer of hope	;	la moindre lueur d'espoir
-shattered, blighted hopes	;	des espérances anéanties
-to surprise so	;	surprendre qqn
-surprised	;	surpris
-to be amazed AT shtg	;	être stupéfait de qqch
-amazing	;	stupéfiant
-stupendous	;	prodigieux
-astounded	;	atterré
-unexpected	;	inattendu
-staggered by sthg	;	renversé, frappé de stupeur par qqch
-no wonder that...	;	pas étonnant que...
-to be afraid of	;	avoir peur de
-to frighten so	;	effrayer qqn
-to frighten so into doing sthg	;	amener qqn à faire qqch en l'effrayant
-frightened	;	effrayé
-to put so off	;	déconcerter qqn
-frightfully	;	horriblement
-to be/feel nervous about	;	éprouver de l'appréhension
-scared	;	effrayé, terrifié
-appalling	;	épouvantable, effroyable
-appalled at	;	épouvanté, atterré
-weird	;	étrange, et inquiétant
-awful	;	épouvantable
-awfully	;	horriblement
-to dread	;	redouter
-for feart that + should, might, ou lest	;	de crainte que
-horrified	;	horrifié
-to deter so from doing shtg	;	dissuader qqn de faire qqch
-panic-striken	;	pris de panique
+to strike up a friendship, to make friends with so;	se lier d'amitier avec qqn
+to sigh for sthg;	soupirer pour qqch
+to cry (for joy);	pleurer (de joie)
+to laugh;	rire
+to smile at sthg, so;	sourire de, Ã  qqch, Ã  qqn
+to laugh at so;	se moquer de qqn
+laughter;	le rire
+a fit of laughter;	un fou-rire
+to burst out laughing;	Ã©clater de rire
+to giggle;	pouffer de rire, glousser
+to beam with joy;	rayonner de joie
+glad;	content
+to cheer up;	retrouver son entrain
+to cheer so up;	remonter le moral de qqn
+to feel comfortable	;	se sentir bien, rassurÃ©
+(to be) satisfied with so, sthg, to do sthg;	(Ãªtre) satisfait
+to be relieved at sthg, so, with sthg;	Ãªtre soulagÃ©
+relief;	le soulagement
+to solace so;	consoler qqn
+soothing;	calmant, apaisant
+to be relieved at sthg, so, with sthg;	Ãªtre soulagÃ©
+to feel comfortable;	se sentir bien, rassurÃ©
+carefree;	insouciant, sans souci
+to be relieved at sthg, so, with sthg;	Ãªtre soulagÃ©
+wretched;	malheureux
+a wretch;	un scÃ©lÃ©rat
+to be in low spirits;	se sentir sans entrain
+to despair;	dÃ©sespÃ©rer
+dejected, downcast;	dÃ©couragÃ©, abattu
+depressed;	dÃ©primÃ©
+to depress so;	dÃ©primer qqn
+a hopeless situation;	une situation dÃ©sespÃ©rÃ©e
+disheartened;	qui n'a plus le coeur Ã  l'ouvrage
+desperate;	dÃ©sespÃ©rÃ©
+to wreck, to dash a hope;	anÃ©antir un espoir
+to be hopeful of sthg, so;	avoir bon espoir
+a fond hope;	un fol espoir
+to lose hope;	perdre espoir
+to take heart;	prendre courage
+a faint glimmer of hope;	la moindre lueur d'espoir
+shattered, blighted hopes;	des espÃ©rances anÃ©anties
+to surprise so;	surprendre qqn
+surprised;	surpris
+to be amazed AT shtg;	Ãªtre stupÃ©fait de qqch
+amazing;	stupÃ©fiant
+stupendous;	prodigieux
+astounded;	atterrÃ©
+unexpected;	inattendu
+staggered by sthg;	renversÃ©, frappÃ© de stupeur par qqch
+no wonder that...;	pas Ã©tonnant que...
+to be afraid of;	avoir peur de
+to frighten so;	effrayer qqn
+to frighten so into doing sthg;	amener qqn Ã  faire qqch en l'effrayant
+frightened;	effrayÃ©
+to put so off;	dÃ©concerter qqn
+frightfully;	horriblement
+to be/feel nervous about;	Ã©prouver de l'apprÃ©hension
+scared;	effrayÃ©, terrifiÃ©
+appalling;	Ã©pouvantable, effroyable
+appalled at;	Ã©pouvantÃ©, atterrÃ©
+weird;	Ã©trange, et inquiÃ©tant
+awful;	Ã©pouvantable
+awfully;	horriblement
+to dread;	redouter
+for feart that + should, might, ou lest;	de crainte que
+horrified;	horrifiÃ©
+to deter so from doing shtg; issuader qqn de faire qqch
+panic-striken;	pris de panique
