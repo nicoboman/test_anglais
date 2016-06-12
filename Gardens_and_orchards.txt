@@ -1,11 +1,12 @@
 gardener;	jardinier
+beetroot;	betterave
 lawn;	pelouse
 to mow;	tondre
 to roll;	rouler
 gravel;	gravier
-a path, a walk;	une allée
+a path, a walk;	une allÃ©e
 weeds;	mauvaises herbes
-to weed	;désherber
+to weed	;dÃ©sherber
 weed-killer;	herbicide
 stone slab;	dalle de pierre
 flower-bed;	plate-bande
@@ -14,31 +15,31 @@ tulip	;tulipe
 hyacinthe;	jacinthe
 lily	;lis
 lily of the valley;	muguet
-water-lily	;nénuphar
+water-lily	;nÃ©nuphar
 forget-me-not;	myosotis
 beekeeper;	apiculteur
 beekeeping;	l'apiculture
 marigold;	souci
-daisy	;paquêrette
+daisy	;paquÃªrette
 bud	;bouton, bourgeon
 to prune;	tailler
-thorn	;épine (-> hawTHORN = aubEPINE)
+thorn	;Ã©pine (-> hawTHORN = aubEPINE)
 bunch of flower (posy);	bouquet de fleurs
-honeysuckle	;chèvrefeuille
+honeysuckle	;chÃ¨vrefeuille
 greenhouse;	une serre -> greenhouse effect = effet de serre
 orchard;	verger
 to graft;	greffer
 in full bloom;	en pleine floraison
-pips;	pépins
+pips;	pÃ©pins
 peel, skin, rind;	la peau, la pelure
 to peel;	peler
-unripe;	pas mûr, vert
+unripe;	pas mÃ»r, vert
 sour	;acide, aigre
-to spoil;	gâter
+to spoil;	gÃ¢ter
 rotten;	pourri
 a cherry	;une cerise
 apricot	;abricot
-peach	;pêche
+peach	;pÃªche
 plum;	prune
 pear;	poire
 juicy	;juteux
@@ -49,7 +50,7 @@ raspberries;	framboises
 red, white currant;	groseille
 black currant;	cassis
 the kitchen garden;	le potager
-market gardener;	maraîcher
+market gardener;	maraÃ®cher
 cabbage	;choux
 cauliflower;	choux fleur
 carrot;	carotte
@@ -62,20 +63,20 @@ to hum, to buzz;	bourdonner
 fly;	mouche
 gnat;	moucheron
 mosquito	;moustique
-beetle;	un scarabée
+beetle;	un scarabÃ©e
 to flutter;	voltiger
 moth	;papillon de nuit
 caterpillar;	chenille
 pest;	insecte nuisible
-to spray;	vaporiser, pulvériser
+to spray;	vaporiser, pulvÃ©riser
 harmful	;nuisible
 slug	;limace
 snail;	escargot
 worm;	ver
 glow-worm	;ver-luisant
-spider	;araignée
+spider	;araignÃ©e
 ant;	fourmi
-wasp;	guêpe
+wasp;	guÃªpe
 bee	;abeille
 swarm	;essaim
 beehive	;ruche
@@ -93,21 +94,21 @@ tail;	la queue de l'oiseau
 bill	;le bec de l'oiseau
 beak;	le bec (d'un rapace)
 nest;	le nid
-toolshed;	remise à outils (shed = hangar, cowshed = étable)
+toolshed;	remise Ã  outils (shed = hangar, cowshed = Ã©table)
 tool;	outil
-rake;	râteau
-to rake up;	râtisser
+rake;	rÃ¢teau
+to rake up;	rÃ¢tisser
 wheelbarrow	;brouette
-a spade;	une bêche
+a spade;	une bÃªche
 a pick;	une pIoche
 a shovel;	une pelle
 to dig;	creuser
 the handle;	le manche
-ladder;	échelle
+ladder;	Ã©chelle
 to water;	arroser
 watering-can;	arrosoir
 hose	;tuyau
-lawn-mower	;tondeuse à gazon
+lawn-mower	;tondeuse Ã  gazon
 hedge clippers;	taille haie
-chain saw	;tronçonneuse
+chain saw	;tronÃ§onneuse
 cultivator;	motoculteur
