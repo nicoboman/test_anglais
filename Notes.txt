@@ -1,12 +1,10 @@
 count yourself lucky;	estime toi heureux
 to swapp places; permutter les places
 appointment; rendez-vous
-handbrake / footbrake; frein à main / pédale de frein
 to dump somebody; larguer quelqu'un
 christal clear; clair comme de l'eau de roche
 my manager; mon chef
 my area of expertise; mon domaine de compétence
-the movie is subtitled; le film est sous-titré
 NPC: evil / devil; NPC: le mal / le diable
 -1 (negative one); -1
 I can't wait to (hear it); je suis impatient de l'entendre
@@ -29,10 +27,8 @@ to be synonymous WITH; être synonyme DE
 there's no hundred percent garantee; ça n'est pas sûr à 100%
 do you need a hand?; tu as besoin d'aide
 Giga[guiga]; giga
-brackets; ()
 what really happens underneath the hood; ce qu'il se passe en réalité
 lend me hand; aide-moi
-angle brackets; <>
 it's a matter of opinion;	c'est une question de point de vue
 I owe you an apology;	je vous dois des excuses
 side-effects;	des effets secondaires
@@ -63,8 +59,6 @@ to have a miscarriage;	faire une fausse-couche
 chap;	copain (familier), "old chap"
 cost-effective, profitable;	rentable
 Make no mistake...;	Ne vous y trompez pas
-curly brackets;{}
-square brackets;[]
 compiler is going to yell AT me; le compilateur va m'engueuler
 quote;ouvrez les guillemets
 unquote;fermez les guillemets
@@ -111,7 +105,6 @@ to pull the triger;	appuyer sur la gachette
 to boo;	huer qqn
 sceptical;	sceptique
 to split up with so;	rompre avec qqn
-to woo;	draguer
 reluctant;	hésitant, peu enthousiaste
 Stop beating about the bush;	Cesse de tourner autour du pot
 wealth / wealthy;	la richesse / riche
