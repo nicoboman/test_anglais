@@ -1,5 +1,6 @@
 a capital;	une capitale
 slums	;des bas quartiers, des taudis
+the movie is subtitled; le film est sous-titré
 squalid	;sordide
 unhealthy	;insalubre
 an unsafe lane;	une ruelle peu sûre

@@ -8,6 +8,10 @@ characters	;	les personnages
 the director	;	le metteur en scène
 the hero, heroine	;	le héros, l'héroine
 the cast	;	la distribution
+brackets; ()
+angle brackets; <>
+curly brackets;{}
+square brackets;[]
 to perform a play	;	jouer une pièce
 an actor, actress	;	un acteur, actrice
 a monologue	;	un monologue
