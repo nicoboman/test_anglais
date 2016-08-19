@@ -1,4 +1,6 @@
 count yourself lucky;	estime toi heureux
+
+TEST GIT!!!
 to swapp places; permutter les places
 appointment; rendez-vous
 to dump somebody; larguer quelqu'un
