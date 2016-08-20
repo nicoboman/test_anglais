@@ -163,7 +163,8 @@ if (( v_next_topic_number <= "${C_NB_FICHIERS}" ))
 then
   v_next_topic_subject=$(echo "${tabNomSujet[$REPLY]}" | sed -e 's/ /_/g')".txt"
   v_nb_elements=$(wc -l $(find "${REPERTOIRE_DONNEES}"* -name "${v_next_topic_subject}" | grep -v "~"))
-  v_nb_elements=$(echo -e "${v_nb_elements}" | sed -e 's/ \/.*//')
+  v_nb_elements=$(echo -e "${v_nb_elements}" | sed -e 's/ .*//g')
+  
   echo -e "\nProposition pour l'execution suivante [Nombre total d'elements]: "${v_next_topic_number}" $(echo "${v_next_topic_subject}" | sed -e 's/_/ /g' | sed -e 's/.txt//g') [${v_nb_elements}]\n"
     
 else
