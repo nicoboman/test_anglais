@@ -1,4 +1,5 @@
 goods, wares ; les marchandises 
+my manager; mon chef
 an item; un article
 a range of goods; une gamme de produits
 to go window-shopping; faire du lèche-vitrine
