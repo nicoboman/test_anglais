@@ -6,12 +6,16 @@ unhealthy	;insalubre
 an unsafe lane;	une ruelle peu sûre
 filthy;	sale, infect
 overcrowded;	bondé, surpeuplé
+to break into a house;	cambrioler une maison
+a burglar / a burglary;	un cambrioleur / un cambriolage
+cobbled street; rue pavée
 dilapidated;	délabré
 rehabilitation;	la rénovation
 to pull down;	démolir (volontairement)
 a prefab;	une maison préfabriquée
 shortage;	pénurie
 an outlying suburb;	un faubourg éloigné
+a breathalyser;	un alcootest
 quiet	;calme, tranquille
 safe;	sûr
 to commute;	faire la navette pour aller travailler

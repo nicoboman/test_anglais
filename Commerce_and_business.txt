@@ -1,11 +1,18 @@
 goods, wares ; les marchandises 
 my manager; mon chef
+appointment; rendez-vous
 an item; un article
 a range of goods; une gamme de produits
+to hire;	embaucher
+to retire;	partir à la retraite
+bookkeeping;	la comptabilité
+to sack/to get sacked;	licencier/être licencié
 to go window-shopping; faire du lèche-vitrine
 an invoice; une facture
 it's good value; c'est un bon rapport qualité-prix
 it's a real bargain; c'est une bonne affaire
+my area of expertise; mon domaine de compétence
+to sack, to fire;	licencier
 a corner shop; un commerce de proximité
 you must apply to the after-sale service; il faut vous adresser au service après-vente
 a fishmonger's; une poissonnerie

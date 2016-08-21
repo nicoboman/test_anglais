@@ -1,4 +1,5 @@
 to travel ; voyager 
+the plane is DUE to take off at 6am;	l'avion décolle à 6h
 handbrake / footbrake; frein à main / pédale de frein
 to take three days off; prendre 3 jours de congés
 to make a long week-end of it; faire le pont
@@ -7,6 +8,8 @@ to go back-packing; voyager sac à dos
 next tuesday is public holiday; c'est férié mardi prochain
 a leaflet; un dépliant
 the butler; le maître d'hôtel
+ashtray;	cendrier
+dashboard;	tableau de bord
 in the peak season / off season; en pleine saison / saison creuse
 to check-in/check-out; arriver à l'hôtel/quitter l'hôtel
 to pay the bill; payer l'addition
