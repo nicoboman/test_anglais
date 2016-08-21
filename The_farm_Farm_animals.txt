@@ -9,6 +9,7 @@ shed;	hangar
 farmyard;	la_cour_de_la_ferme
 filthy;	malpropre
 ramshackle_dilapidated	;délabré,_en_ruine
+a goose; une oie
 well;	puît
 pump;	pompe
 livestock;	cheptel
