@@ -2,14 +2,11 @@ count yourself lucky;	estime toi heureux
 to swapp places; permutter les places
 christal clear; clair comme de l'eau de roche
 NPC: evil / devil; NPC: le mal / le diable
--1 (negative one); -1
 I can't wait to (hear it); je suis impatient de l'entendre
 contemptible, despicable; méprisable
 persuasive; persuasif
 to predict, predictable; prédire, prévisible
 long story short; pour faire court
-cheerleader; pom-pom girl
-valuable; qui a de la valeur marchande
 reasonable; raisonnable
 storm in a teacup; tempête dans un verre d'eau
 downsides;des inconvenients
@@ -28,7 +25,6 @@ I owe you an apology;	je vous dois des excuses
 side-effects;	des effets secondaires
 cleanliness;	propreté
 to scratch (I scratch your back and you scratch mine);	gratter	
-to doodle;	griffonner
 cameo role (in a film);	une brève apparition (dans un film)
 one thing leads to another;	de fil en aiguille
 lead the way;après vous, je vous suis...
@@ -38,31 +34,22 @@ outrageaous;	scandaleux
 childish;	puéril
 luckily;	heureusement
 just so you know;	pour info
-to grow one's hair;se laisser pousser les cheveux
-Easter eggs (Easter Sunday);des oeufs de Pâques (Lundi de Pâques)
 to canvass so;	solliciter le suffrage de qqn, faire campagne
 what goes around, comes around;	traduction à trouver
-to do one's family tree;	faire son arbre généalogique 
 breathtaking;	a couper le souffle
 by the way;	à propos
 muddle;	confusion
 to get muddled;	s'embrouiller
-to clench one's fist / teeth;	serrer le poing / les dents
 tricky;	difficile, délicat
-chap;	copain (familier), "old chap"
 cost-effective, profitable;	rentable
 Make no mistake...;	Ne vous y trompez pas
 compiler is going to yell AT me; le compilateur va m'engueuler
-quote;ouvrez les guillemets
-unquote;fermez les guillemets
 more on that later;j'y reviendrai par la suite
 How on earth...?;	Comment peut-on...?
 a win-win situation;	une situation gagnant-gagnant
 to sort things out;	tirer les choses au clair
-to set out;	partir en voyage
 As far as I am aware...;	Autant que je sache...
 to pretend;	faire semblant
-loots, looting;	les pillages
 a painting attributed to Van Gogh;	un "Van Gogh"
 How many people out of 50...?;	Combien de personnes sur 50...?
 I don't know what future holds;	je ne sais pas ce que l'avenir réserve
@@ -75,7 +62,6 @@ lookerS-on;	des badauts
 grown-upS;	des adultes
 to resent;	ne pas aimer
 resentful;	éprouver du ressentiment
-to make so redundant;	licencier qqn
 to make ends meet;	joindre les 2 bouts
 coward / cowardice;	lâche / la lâcheté
 to threaten / threat;	menacer / la menace
@@ -84,8 +70,6 @@ to rule out;	écarter une possibilité
 to call off;	annuler, résilier
 a receipt / a recipe;	un reçu / une recette
 to be likely to doing sthg;	être susceptible de faire qqchose
-on a daily basis;	quotidiennement
-to pull the triger;	appuyer sur la gachette
 to boo;	huer qqn
 sceptical;	sceptique
 to split up with so;	rompre avec qqn
@@ -99,7 +83,6 @@ to give so food for thought;	donner à qqn de quoi réfléchir
 to leave things lying around;	laisser trainer des affaires
 to hold one's breath;	retenir sa respiration
 to rule out;	écarter une possibilité
-I'm coughing a lot;	je tousse beaucoup
 the cellar/the ceiling/the curtain;	la cave/le plafond/le rideau
 When the curtain rises...;	Le lever de rideau
 good at impression;	bon en imitation
@@ -109,8 +92,6 @@ it completely ruined our holidays;	ça nous a gâché les vacances
 easier said than done;plus facile à dire qu'à faire
 tell us briefly;	dites-nous brièvement		
 to swear an oath;	prêter serment
-the director/directed by;	le metteur en sène/mis en sène par
-a vulture;	un vautour
 pointless;	sans intérêt, futile
 naughty/nasty;	méchant/qui a mauvais gout
 armcurl;	mouvement de bras pour biceps

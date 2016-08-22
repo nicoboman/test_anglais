@@ -7,6 +7,7 @@ an unsafe lane;	une ruelle peu sûre
 filthy;	sale, infect
 overcrowded;	bondé, surpeuplé
 to break into a house;	cambrioler une maison
+loots, looting;	les pillages
 a burglar / a burglary;	un cambrioleur / un cambriolage
 cobbled street; rue pavée
 dilapidated;	délabré

@@ -13,6 +13,8 @@ angle brackets; <>
 curly brackets;{}
 square brackets;[]
 to perform a play	;	jouer une pièce
+quote;ouvrez les guillemets
+unquote;fermez les guillemets
 an actor, actress	;	un acteur, actrice
 a monologue	;	un monologue
 a soliloquy	;	un soliloque

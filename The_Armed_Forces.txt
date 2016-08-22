@@ -13,6 +13,7 @@ a squad	;	un escadron
 a soldier	;	un soldat
 a private	;	un simple soldat
 a tommy	;	un soldat anglais
+to pull the trigger;	appuyer sur la gachette
 a captain	;	un capitaine
 headquarters, HQ	;	le quartier général, le QG
 a volunteer	;	un volontaire

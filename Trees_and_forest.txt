@@ -14,6 +14,7 @@ bough;	rameau
 limb;	branche_maitresse
 branch;	branche
 twig;	brindille
+a vulture;	un vautour
 leaf_(pluriel:_leaves);	feuille
 to_rise;	s_elever
 lofty;	majestueux

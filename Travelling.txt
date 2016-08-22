@@ -10,6 +10,7 @@ a leaflet; un dépliant
 the butler; le maître d'hôtel
 ashtray;	cendrier
 dashboard;	tableau de bord
+to set out;	partir en voyage
 in the peak season / off season; en pleine saison / saison creuse
 to check-in/check-out; arriver à l'hôtel/quitter l'hôtel
 to pay the bill; payer l'addition
