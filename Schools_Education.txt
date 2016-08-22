@@ -66,7 +66,6 @@ to jot down	;noter qqch
 a ruler;	une règle
 a rubber, an eraser	;une gomme
 to rub out, to erase;	gommer
-shool breaks up (a meeting breaks up)	;la classe se termine
 the playground	;la cour de récréation
 a term	;un trimestre scolaire
 the summer holidays, the vacation	;les grandes vacances
@@ -153,5 +152,4 @@ to congratulate so	; féliciter qqn
 to pass, to get through an exam;	réussir, être reçu
 to fail, to get ploughed, to flunk;	échouer, se faire recaler
 a graduate;	un diplômé
-to do research in, on	;faire de la recherche sur
 R and D	;la recherche et le développement
