@@ -41,7 +41,6 @@ by the way;	à propos
 muddle;	confusion
 to get muddled;	s'embrouiller
 tricky;	difficile, délicat
-cost-effective, profitable;	rentable
 Make no mistake...;	Ne vous y trompez pas
 compiler is going to yell AT me; le compilateur va m'engueuler
 more on that later;j'y reviendrai par la suite
@@ -118,10 +117,8 @@ posh, upper-class;	de haut standing
 Does it ring any bells?;	Ca ne vous rappelle rien?
 once in a blue moon;	tous les 36 du mois
 casual; désinvolte, cool
-my manager;	mon chef (travail)
 a gig;	un concert
 DIY;	le bricolage
-my area of expertise; mon domaine de compétence
 a bloke; un gars
 brilliant;	génial
 handy; pratique, utile
