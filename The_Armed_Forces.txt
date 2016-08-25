@@ -6,6 +6,15 @@ a battlefield; un champ de bataille
 an ambush; une embuscade
 a curfew; un couvre-feu
 the Navy	;	la marine de guerre
+World War I	;la Grande Guerre
+Wolrd War II;	la Guerre 39-45
+world-wide;	à l'échelle mondiale
+fascism	;le fascisme
+capitalism;	le capitalisme
+communism	;le communisme
+a dictatorship;	une dictature
+collapse;	l'effondrement
+nationalism	;le nationalisme
 the Air Force	;	l'armée de l'air
 a platoon	;	une section
 a section	;	un groupe de combat

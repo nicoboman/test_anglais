@@ -1,6 +1,4 @@
-mathematics	;la mathématique
 a pen name; un pseudonyme
-to live by one's pen; vivre de sa plume
 a composeur; un compositeur
 the film'll be released next week; le film sortira la semaine prochaine
 the film features Hugh Grant; Hugh Grant joue dans le film
@@ -11,18 +9,8 @@ a fresco; une fresque
 a blockbuster; un gros succès
 the director/directed by;	le metteur en sène/mis en sène par
 in the original language with subtitles; en VO sous-titrée
-to self-publish a book; publier un livre à compte d'auteur
-data processing; le traitement des données
-a computer scientist; un informaticien
-to computerize; informatiser
-a laptop; un ordinateur portable
-a byte; un octet
-to log on/off; se connecter, déconnecter
-a home page; une page d'accueil
-a search engine; un moteur de recherches
 to hang up; raccrocher
 who's speaking?; qui est à l'appareil?
-a parcel; un colis
 an angle;	un angle
 a surface;	une surface
 a volume;	un volume
@@ -55,10 +43,6 @@ to sell by weight;	vendre au poids
 heavy	;lourd
 light;	léger
 length;	longueur
-an inch;	un pouce (2,54cm)
-a foot, feet (30,48cm);	un pied
-a yard;	un yard (91,44cm)
-a mile;	un mille (1609m)
 a rule;	une règle graduée
 to measure;	mesurer
 short	;court
@@ -117,15 +101,6 @@ a tower	;une tour
 the keep;	le donjon
 the battlements	;les créneaux
 a drawbridge;	un pont-levis
-World War I	;la Grande Guerre
-Wolrd War II;	la Guerre 39-45
-world-wide;	à l'échelle mondiale
-fascism	;le fascisme
-capitalism;	le capitalisme
-communism	;le communisme
-a dictatorship;	une dictature
-collapse;	l'effondrement
-nationalism	;le nationalisme
 an artist	;un artiste
 to paint;	peindre
 a painting;	une peinture

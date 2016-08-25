@@ -8,6 +8,11 @@ filthy;	sale, infect
 overcrowded;	bondé, surpeuplé
 to break into a house;	cambrioler une maison
 loots, looting;	les pillages
+a parcel; un colis
+an inch;	un pouce (2,54cm)
+a foot, feet (30,48cm);	un pied
+a yard;	un yard (91,44cm)
+a mile;	un mille (1609m)
 a burglar / a burglary;	un cambrioleur / un cambriolage
 cobbled street; rue pavée
 dilapidated;	délabré

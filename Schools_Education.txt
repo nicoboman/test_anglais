@@ -1,5 +1,6 @@
 school attendance;	la fréquentation scolaire
 a researcher; un chercheur
+mathematics	;la mathématique
 a disovery; une découverte
 a breakthrough; un progrès, une percée
 findings; des constatations

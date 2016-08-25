@@ -6,6 +6,14 @@ chemistry/a chemist/chemical; la chimie/un chimiste/chimique
 an industrialist	;	un industriel
 a textile mill owner	;	un industriel du textile
 to enter into partnership	;	s'associer
+a computer scientist; un informaticien
+to computerize; informatiser
+a laptop; un ordinateur portable
+a byte; un octet
+to log on/off; se connecter, déconnecter
+a home page; une page d'accueil
+a search engine; un moteur de recherches
+data processing; le traitement des données
 a partner	;	un associé
 to run a concern	;	diriger une entreprise
 raw materials	;	les matières premières
