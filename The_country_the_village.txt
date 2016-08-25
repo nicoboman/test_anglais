@@ -12,6 +12,7 @@ thatch (stubble);	chaume
 a thatched cottage;	chaumière
 to stretch;	s'allonger
 secluded;	retiré, à l'écart
+a swarm of bees;	un essaim d'abeilles
 to cluster;	se regrouper
 scattered	;disséminé, éparse
 parson;	le pasteur

@@ -1,4 +1,3 @@
-a pen name; un pseudonyme
 a composeur; un compositeur
 the film'll be released next week; le film sortira la semaine prochaine
 the film features Hugh Grant; Hugh Grant joue dans le film
@@ -144,13 +143,14 @@ a musician;	un musicien
 to practise	;s'exercer
 to play scales;	faire des gammes
 to play in tune	;jouer juste
-out of tune;	FAUX
+out of tune;	faux
 to tune	;accorder
 a note;	une note
 a key	;une touche
 the keyboard;	le clavier
 the harpsichord;	le clavecin
 to pluck;	pincer les cordes
+the movie is subtitled; le film est sous-titré
 to strike	;frapper, toucher les touches
 a composer;	un compositeur
 the conductor	;le chef d'orchestre

@@ -1,6 +1,5 @@
 a capital;	une capitale
 slums	;des bas quartiers, des taudis
-the movie is subtitled; le film est sous-titré
 squalid	;sordide
 unhealthy	;insalubre
 an unsafe lane;	une ruelle peu sûre
@@ -59,7 +58,6 @@ a pedestrian-crossing, a zebra-crossing	;un passage pour piétons
 to knock so down;	renverser qqn
 to run over so	;écraser qqn
 to swarm with people;	regorger de monde
--> a swarm of bees;	un essaim d'abeilles
 to queue up	;faire la queue
 a mob	;une cohue, un attroupement
 a square;	une place

@@ -7,6 +7,7 @@ stage directions	;	des indications scéniques
 characters	;	les personnages
 the director	;	le metteur en scène
 the hero, heroine	;	le héros, l'héroine
+a pen name; un pseudonyme
 to self-publish a book; publier un livre à compte d'auteur
 to live by one's pen; vivre de sa plume
 the cast	;	la distribution
