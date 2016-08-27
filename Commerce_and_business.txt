@@ -1,5 +1,4 @@
 goods, wares ; les marchandises 
-my manager; mon chef
 appointment; rendez-vous
 an item; un article
 a range of goods; une gamme de produits
@@ -95,11 +94,9 @@ resignation ; la démission
 part-time jobs ; les emplois à temps partiel 
 to retire ; partir à la retraite 
 a clerk ; un employé 
-an invoice ; une facture 
 an accountant ; un comptable 
 a shorthand typist ; une sténodactylo 
 the office ; le bureau 
-bookkeeping ; la comptabilité 
 an errand boy ; un garçon de courses 
 an order ; une commande 
 trustworthy, reliable ; sûr, digne de confiance 
