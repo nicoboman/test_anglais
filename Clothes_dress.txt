@@ -79,7 +79,6 @@ a bowler;	un chapeau melon
 a top hat;	un haut de forme
 a cap;	une casquette
 a beret	;un béret
-a walking-stick	;une canne
 an umbrella;	un parapluie
 a briefcase	;un porte-document
 slippers;	des pantoufles
