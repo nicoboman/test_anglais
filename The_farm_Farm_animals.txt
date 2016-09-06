@@ -58,7 +58,6 @@ stray;	égaré
 ewe;	brebis
 lamb;	agneau
 gentle;	doux, paisible
-goat;	chèvre
 pig	;cochon
 pigsty[aï];	porcherie
 to grunt;	grogner
