@@ -1,4 +1,6 @@
 a current, a stream;	un courant
+down-stream; en aval
+up-stream; en amont
 an octopus; une pieuvre
 in spate; en crue
 a whirlpool; un tourbillon
