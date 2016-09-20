@@ -118,7 +118,6 @@ to clap, to applaud	;applaudir
 to encore	;bisser
 applause;	les applaudissements
 to hiss so;	siffler qqn
-to boo so	;huer qqn
 to drop the curtain;	baisser le rideau "When the curtain rises,..."	
 spotlights;	des projecteurs
 the prompter;	le souffleur
