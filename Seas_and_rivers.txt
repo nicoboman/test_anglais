@@ -15,7 +15,6 @@ the surge, the swell;	la houle
 sandbank;	banc de sable
 foam	;l'écume
 billow;	une lame
-tidal wave;	raz-de-marée
 untapped;	non exploité
 the seabed;	le fond de la mer
 pollution	;la pollution
