@@ -174,7 +174,6 @@ to roll ; rouler
 to be seasick ; avoir le mal de mer 
 a hovercraft ; un aéroglisseur 
 a liner ; un transatlantique 
-to call at ; faire escale (calling at Emersfeld) 
 to go through the customs ; passer à la douane 
 an aircraft ; un avion (l'appareil) 
 to hijack ; détourner 
@@ -182,7 +181,6 @@ the crew ; l'équipage
 the cocpit ; le poste de pilotage 
 the air hostess ; l'hôtesse de l'air 
 the wireless operator ; le radio 
-to steer ; diriger, gouverner 
 the rudders ; les gouvernes 
 a four-engined plane ; un quadrimoteur 
 cruising speed ; vitesse de croisière 
