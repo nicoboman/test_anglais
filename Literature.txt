@@ -98,8 +98,6 @@ semi-colon	;	point-virgule
 full stop	;	point (.)
 question mark	;	point d'interrogation (?)
 exclamation mark	;	point d'exclamation (!)
-quote	;	ouvrez les guillemets
-unquote	;	fermez les guillemets
 brackets	;	parenthèses
 dash	;	tiret (-)
 hyphen	;	trait d'union
