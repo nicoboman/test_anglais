@@ -1,4 +1,5 @@
 to be hungry;	avoir faim
+grease; la graisse
 hard-boiled egg; oeuf dur
 fried egg; oeuf sur le plat
 poached egg; oeuf poché
