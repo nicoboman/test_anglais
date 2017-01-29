@@ -5,6 +5,7 @@ a kite;	un cerf-volant
 marbles	;les billes
 skittles;	les quilles
 a skipping rope	;une corde à sauter
+to squat; s'accroupir
 a box of bricks	;un jeu de construction
 a meccano-set	;un jeu de mécano
 toy soldiers;	des soldats de plomb

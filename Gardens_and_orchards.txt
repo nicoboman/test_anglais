@@ -11,6 +11,7 @@ weed-killer;	herbicide
 stone slab;	dalle de pierre
 flower-bed;	plate-bande
 daffodil	;jonquille
+step-ladder; escabeau
 tulip	;tulipe
 hyacinthe;	jacinthe
 lily	;lis
