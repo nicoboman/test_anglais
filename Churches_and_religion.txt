@@ -4,11 +4,13 @@ an abbey church	;	une abbatiale
 the porch	;	le porche
 the nave	;	la nef
 the vault	;	la voute
+tombstone; pierre tombale
 lofty	;	élevé
 a pillar	;	une pilier
 a column	;	une colonne
 a rose-window	;	une rosace
 stained glass windows	;	des vitraux
+beloved; bien-aimé
 a pew	;	une banc d'église
 the congregration	;	les fidèles
 the bells	;	les cloches
