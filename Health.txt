@@ -9,6 +9,7 @@ stone-dead; raide mort
 stone-deaf; sourd comme un pot
 to have a tooth filled; se faire plomber une dent
 a blood group; un groupe sanguin
+breathe in/breathe out; inspirez/expirez
 a blood transfusion; une transfusion sanguine
 sound	;sain, robuste
 healthy	;en bonne santé
