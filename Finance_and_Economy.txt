@@ -8,9 +8,11 @@ imports; les importations
 an outlet; un débouché
 a tax haven; un paradis fiscal
 a wage freeze; un gel des salaires
+the day's takings; la recette de la journée
 a homeless; un sans-abri
 a down-and-out; un SDF
 an industrialist; un industriel
+the takings; la recette(les bénéfices)
 a moneybox, a piggy bank; une tirelire
 to save/to spend/to squander money; économiser, dépenser, gaspiller l'argent
 bonds; des obligations
