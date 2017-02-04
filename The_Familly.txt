@@ -96,6 +96,7 @@ to have a baby;	avoir un enfant
 pregnancy	;la grossesse
 surname, last name;	nom de famille
 to christen, to baptize;	baptiser
+a christening; un baptême
 to stand godfather, godmother ;	être parrain, marraine de
 the godchild	;le filleul, la filleule
 a nickname	;un surnom
