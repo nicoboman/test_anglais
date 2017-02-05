@@ -1,104 +1,104 @@
-Eire ; la République d'Irlande 
-a Briton; un Britannique
-the throne; le trône
-a coronation; le couronnement
-civil rights; les droits civiques
-an uprising; un soulèvement
-a spokesperson; un porte-parole
-a bill; un projet de loi
-a ballot; un scrutin
-Ulster, Norther Ireland ; l'Ulster, l'Irlande du Nord 
-a dialect ; un dialect 
-the English ; (tous) les Anglais 
-an Englishman ; un Anglais 
-the national anthem ; l'hymne national 
-the mother country ; la mère patrie 
-to settle ; s'établir 
-self-government ; l'autonomie 
-self-governing republic ; une république autonome 
-MP (Member of Parliament) ; un député 
-to elect, to return so ; élire, réélire qqn 
-to vote ; voter 
-polling ; les élections 
-to go to the polls ; se rendre aux urnes 
-a polling station ; un bureau de vote 
-a vote ; une voix 
-a survey ; une enquête 
-a population sample ; une échantillon 
-the Speaker ; le Président de la Chambre 
-the Labour Party ; le parti travailliste 
-the Liberal Party ; les Libéraux 
-a seat ; un siège 
-a taxpayer ; un contribuable 
-tax evasion ; la fraude fiscale 
-politics ; la politique 
-a policy ; une (ligne) politique 
-Wage-earners ; les salariés 
-the middle class(es) ; la classe moyenne 
-income ; le revenu 
-the rich, the wealthy ; les riches 
-luxury ; le luxe 
-to be well-off, comfortably off ; être à l'aise 
-substantial ; cossu 
-poor ; pauvre 
-badly off, hard up ; dans la gêne 
-poverty ; la pauvreté 
-to be in reduced circumstances ; être dans la gêne 
-to live in need ; vivre dans le besoin 
-a beggar ; un mendiant 
-to beg ; mendier 
-alms ; l'aumône 
-a social worker ; une assistante sociale 
-the welfare state ; L'état-providence 
-family allowances ; les allocations familiales 
-the NHS (National Health Service) ; la Sécurité Sociale 
-a county ; un comté 
-a parish ; une paroisse 
-the mayor ; le maire 
-to hold a meeting ; tenir séance 
-the town-hall ; l'hôtel de ville 
-a nurse ; une infirmière 
-an ambulance ; une ambulance 
-blood transfusion ; la transfusion sanguine 
-First-aid ; les premiers secours 
-a policeman on the beat ; un agent de police qui fait sa ronde 
-a patrol car ; une voiture de patrouille 
-a juvenile deliquent ; un délinquant juvénile 
-a first offender ; un délinquant primaire 
-a second offender ; un récidiviste 
-to be caught red-handed ; être pris la main dans le sac 
-a murderer ; un meurtrier 
-to be (found) guilty ; être (reconnu) coupable 
-with malice aforethought ; avec préméditation 
-manslaughter ; l'homocide involontaire 
-assault and battery ; coups et blessures 
-bribery ; la corruption 
-a bribe ; un pot-de-vin 
-blackmail ; le chantage 
-to forge ; contrefaire 
-forgery ; faux et usage de faux 
-to release on bail ; relâcher sous caution 
-thief (pluriel : thieves) ; un voleur 
-theft ; le vol 
-to steal sthg from so ; voler qqch à qqn 
-to rob so of sthg ; dérober qqch à qqn 
-a robber ; un voleur à main armée 
-robbery ; un vol qualifié 
-to break into a house ; entrer par effraction dans une maison 
-vandalism ; le vandalisme 
-to vandalize ; saccager 
-an inquiry ; une enquête 
-a witness ; un témoin 
-to make a statement ; faire une déclaration 
-to give a testimony ; faire une déposition 
-to confess a crime ; avouer un délit 
-to charge so with sthg ; accuser qqn de qqch 
-to plead guilty ; plaider coupable 
-a wig ; une perruque 
-a gown ; une toge 
-to take the oath ; prêter serment 
-to sue so for damages ; poursuivre qqn en dommages-intérêts 
-a plea ; une plaidoirie 
-a fine ; une amende 
-compensation ; dédommagement 
-restitution ; une indemnité 
+Eire;la République d'Irlande 
+a Briton;un Britannique
+the throne;le trône
+a coronation;le couronnement
+civil rights;les droits civiques
+an uprising;un soulèvement
+a spokesperson;un porte-parole
+a bill;un projet de loi
+a ballot;un scrutin
+Ulster, Norther Ireland;l'Ulster, l'Irlande du Nord 
+a dialect;un dialect 
+the English;(tous) les Anglais 
+an Englishman;un Anglais 
+the national anthem;l'hymne national 
+the mother country;la mère patrie 
+to settle;s'établir 
+self-government;l'autonomie 
+self-governing republic;une république autonome 
+MP (Member of Parliament);un député 
+to elect, to return so;élire, réélire qqn 
+to vote;voter 
+polling;les élections 
+to go to the polls;se rendre aux urnes 
+a polling station;un bureau de vote 
+a vote;une voix 
+a survey;une enquête 
+a population sample;une échantillon 
+the Speaker;le Président de la Chambre 
+the Labour Party;le parti travailliste 
+the Liberal Party;les Libéraux 
+a seat;un siège 
+a taxpayer;un contribuable 
+tax evasion;la fraude fiscale 
+politics;la politique 
+a policy;une (ligne) politique 
+Wage-earners;les salariés 
+the middle class(es);la classe moyenne 
+income;le revenu 
+the rich, the wealthy;les riches 
+luxury;le luxe 
+to be well-off, comfortably off;être à l'aise 
+substantial;cossu 
+poor;pauvre 
+badly off, hard up;dans la gêne 
+poverty;la pauvreté 
+to be in reduced circumstances;être dans la gêne 
+to live in need;vivre dans le besoin 
+a beggar;un mendiant 
+to beg;mendier 
+alms;l'aumône 
+a social worker;une assistante sociale 
+the welfare state;L'état-providence 
+family allowances;les allocations familiales 
+the NHS (National Health Service);la Sécurité Sociale 
+a county;un comté 
+a parish;une paroisse 
+the mayor;le maire 
+to hold a meeting;tenir séance 
+the town-hall;l'hôtel de ville 
+a nurse;une infirmière 
+an ambulance;une ambulance 
+blood transfusion;la transfusion sanguine 
+First-aid;les premiers secours 
+a policeman on the beat;un agent de police qui fait sa ronde 
+a patrol car;une voiture de patrouille 
+a juvenile deliquent;un délinquant juvénile 
+a first offender;un délinquant primaire 
+a second offender;un récidiviste 
+to be caught red-handed;être pris la main dans le sac 
+a murderer;un meurtrier 
+to be (found) guilty;être (reconnu) coupable 
+with malice aforethought;avec préméditation 
+manslaughter;l'homocide involontaire 
+assault and battery;coups et blessures 
+bribery;la corruption 
+a bribe;un pot-de-vin 
+blackmail;le chantage 
+to forge;contrefaire 
+forgery;faux et usage de faux 
+to release on bail;relâcher sous caution 
+thief (pluriel : thieves);un voleur 
+theft;le vol 
+to steal sthg from so;voler qqch à qqn 
+to rob so of sthg;dérober qqch à qqn 
+a robber;un voleur à main armée 
+robbery;un vol qualifié 
+to break into a house;entrer par effraction dans une maison 
+vandalism;le vandalisme 
+to vandalize;saccager 
+an inquiry;une enquête 
+a witness;un témoin 
+to make a statement;faire une déclaration 
+to give a testimony;faire une déposition 
+to confess a crime;avouer un délit 
+to charge so with sthg;accuser qqn de qqch 
+to plead guilty;plaider coupable 
+a wig;une perruque 
+a gown;une toge 
+to take the oath;prêter serment 
+to sue so for damages;poursuivre qqn en dommages-intérêts 
+a plea;une plaidoirie 
+a fine;une amende 
+compensation;dédommagement 
+restitution;une indemnité 

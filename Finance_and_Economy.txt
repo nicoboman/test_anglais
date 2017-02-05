@@ -13,10 +13,13 @@ a homeless;un sans-abri
 a down-and-out;un SDF
 an industrialist;un industriel
 the takings;la recette(les bénéfices)
+to pawn;mettre en gage, mettre au mont-de-piété
+a pawnbroker;un prêteur sur gage
 a moneybox, a piggy bank;une tirelire
 to save/to spend/to squander money;économiser, dépenser, gaspiller l'argent
 to remit;envoyer des fonds
 remittance;versement, envoi de fonds
+to be down and out;être sans argent
 bonds;des obligations
 it yields 10%;cela rapporte 10%
 a broker;un courtier
