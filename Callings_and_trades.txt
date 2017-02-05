@@ -1,57 +1,57 @@
-gifted ; doué 
-clever ; intelligent 
-to advise so ; conseiller qqn 
-to guide so ; guider qqn 
-advice ; des conseils 
-a career ; une carrière 
-a doctor ; un docteur 
-a physician ; un médecin 
-(a physicist) ; (un physicien) 
-the fees ; les honoraires 
-GP = General Practitioner ; un généraliste 
-to have a taste for ; avoir le goût de 
-to have a bent for ; avoir des dispositions pour 
-the fine arts ; les beaux arts 
-to fail ; échouer 
-to succeed ; réussir 
-to make a living, to earn a livelihood ; gagner sa vie 
-foodstuffs ; les produits alimentaires 
-a grocer ; un épicier 
-a greengrocer ; un marchand de légumes 
-a baker ; un boulanger 
-a butcher ; un boucher 
-a fruiterer ; un fruitier 
-a poulterer ; un marchand de volailles 
-a brewer ; un brasseur 
-to brew beer ; brasser la bière 
-a tailor ; un tailleur 
-a dressmaker ; une couturière 
-a hosier ; un bonnetier 
-to dye ; teindre 
-a laundry ; une blanchisserie 
-a laundrette ; une laverie automatique 
-subscribers ; les abonnés (à un journal) 
-to hit the headline ; faire la une des journaux 
-a daily ; un quotidien 
-a weekly ; une hebdomadaire 
-a monthly ; un mensuel 
-a quarterly ; une revue trimestrielle 
-a bookstall ; un kiosque à journaux 
-a publisher ; un éditeur 
-to publish a book ; publier un livre 
-a paperback ; un livre de poche 
-a bookseller ; un libraire 
-a bookshop ; une librairie 
-a library ; une bibliothèque 
-to bind ; relier 
-Second-hand ; d'occasion 
-to be a pipe-smoker ; fumer la pipe 
-to be fit for a trade ; être apte pour un métier 
-to work one's way up ; s'elever à force de travail 
-to make a fortune ; faire fortune 
-an employer ; un patron 
-an employee ; un employé 
-to retire ; partir à la retraite 
-In-service training ; la formation professionnelle 
-a baker's dozen ; treize à la douzaine 
-two of a trade never agree ; deux hommes du même métier ne s'entendent jamais 
+gifted;doué 
+clever;intelligent 
+to advise so;conseiller qqn 
+to guide so;guider qqn 
+advice;des conseils 
+a career;une carrière 
+a doctor;un docteur 
+a physician;un médecin 
+(a physicist);(un physicien) 
+the fees;les honoraires 
+GP = General Practitioner;un généraliste 
+to have a taste for;avoir le goût de 
+to have a bent for;avoir des dispositions pour 
+the fine arts;les beaux arts 
+to fail;échouer 
+to succeed;réussir 
+to make a living, to earn a livelihood;gagner sa vie 
+foodstuffs;les produits alimentaires 
+a grocer;un épicier 
+a greengrocer;un marchand de légumes 
+a baker;un boulanger 
+a butcher;un boucher 
+a fruiterer;un fruitier 
+a poulterer;un marchand de volailles 
+a brewer;un brasseur 
+to brew beer;brasser la bière 
+a tailor;un tailleur 
+a dressmaker;une couturière 
+a hosier;un bonnetier 
+to dye;teindre 
+a laundry;une blanchisserie 
+a laundrette;une laverie automatique 
+subscribers;les abonnés (à un journal) 
+to hit the headline;faire la une des journaux 
+a daily;un quotidien 
+a weekly;une hebdomadaire 
+a monthly;un mensuel 
+a quarterly;une revue trimestrielle 
+a bookstall;un kiosque à journaux 
+a publisher;un éditeur 
+to publish a book;publier un livre 
+a paperback;un livre de poche 
+a bookseller;un libraire 
+a bookshop;une librairie 
+a library;une bibliothèque 
+to bind;relier 
+Second-hand;d'occasion 
+to be a pipe-smoker;fumer la pipe 
+to be fit for a trade;être apte pour un métier 
+to work one's way up;s'elever à force de travail 
+to make a fortune;faire fortune 
+an employer;un patron 
+an employee;un employé 
+to retire;partir à la retraite 
+In-service training;la formation professionnelle 
+a baker's dozen;treize à la douzaine 
+two of a trade never agree;deux hommes du même métier ne s'entendent jamais 

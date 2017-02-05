@@ -1,52 +1,52 @@
-to change sthg, so into sthg, so	;	changer qqch, qqn en qqch, qqn
-to undergo a change	;	subir un changement
-to turn sthg, so into sthg, so	;	transformer qqch, qqn en qqch, qqn
-varied / variety	;	varié / variété, diversité
-miscellaneous	;	varié, disparate
-to evolve	;	évoluer
-an increase, a rise	;	une augmentation
-to increase (by so much)	;	augmenter (de tant)
-to decrease from sthg to sthg	;	décroître de qqch Ã  qqch
-to rise by/to so much	;	augementer (prix) de tant
-to raise sthg by so much	;	augmenter qqch (salaire) de tant
-to alter	;	se modifier
-to have no alternative but to do	;	 n'avoir d'autre choix que de
-to substitute so for sthg	;	assurer la suppléance de
-to begin / to start	;	commencer / démarrer
-to diminish sthg	;	se réduire, diminuer qqch
-to dwindle away to sthg	;	s'amenuiser
-to extend sthg	;	s'étendre, élargir qqch
-permanent / temporary	;	permanent, fixe / temporaire
-to interrupt sthg, so	;	interrompre qqch, qqn
-to break out	;	se déclarer, éclater au grand jour
-to postpone sthg	;	reporter qqch, remettre Ã  plus tard
-to go on	;	continuer
-to carry on 	;	se poursuivre
-to keep on doing sthg	;	ne pas cesser de...
-to cease sthg, to do sthg	;	cesser
-ceaseless	;	incessant, continuel
-sudden / suddenly	;	soudain / brusquement
-to leave off + gérondif	;	s'arrÃªter, s'interrompre
-continuous	;	continu, ininterrompu
-to resume sthg	;	reprendre qqch, se remettre Ã  qqch
-to come to a deadlock	;	aboutir Ã  une impasse
-resumption	;	la reprise d'une activité
-to delay in doing sthg	;	s'attarder, tarder Ã 
-a delay	;	un retard
-steady	;	régulier, stable
-steadily	;	réguliÃ¨rement
-haste	;	la hÃ¢te
-to hasten to do sthg	;	s'empresser de
-hasty	;	précipité, rapide
-current / currently / in current use	;	actuel / actuellement / d'un usage courant
-contemporary with sthg, so	;	contemporain de
-to be up to date / out of date	;	être au gout du jour / ne plus Ãªtre au gout du jour
-remote from sthg, so	;	éloigné de qqn ou qqch, dans le temps ou l'espace
-ancient	;	antique, ancien
-previous	;	précédent
-former	;	ancien, antérieur
-to decay	;	s'altérer, se détériorer
-to fade	;	se faner
-a rate	;	un rythme, un taux
-a pace	;	une allure, un pas
-to keep pace with sthg, so	;	ne pas se laisser dépasser par qqn, qqch
+to change sthg, so into sthg, so;changer qqch, qqn en qqch, qqn
+to undergo a change;subir un changement
+to turn sthg, so into sthg, so;transformer qqch, qqn en qqch, qqn
+varied / variety;varié / variété, diversité
+miscellaneous;varié, disparate
+to evolve;évoluer
+an increase, a rise;une augmentation
+to increase (by so much);augmenter (de tant)
+to decrease from sthg to sthg;décroître de qqch Ã  qqch
+to rise by/to so much;augementer (prix) de tant
+to raise sthg by so much;augmenter qqch (salaire) de tant
+to alter;se modifier
+to have no alternative but to do;n'avoir d'autre choix que de
+to substitute so for sthg;assurer la suppléance de
+to begin / to start;commencer / démarrer
+to diminish sthg;se réduire, diminuer qqch
+to dwindle away to sthg;s'amenuiser
+to extend sthg;s'étendre, élargir qqch
+permanent / temporary;permanent, fixe / temporaire
+to interrupt sthg, so;interrompre qqch, qqn
+to break out;se déclarer, éclater au grand jour
+to postpone sthg;reporter qqch, remettre Ã  plus tard
+to go on;continuer
+to carry on;se poursuivre
+to keep on doing sthg;ne pas cesser de...
+to cease sthg, to do sthg;cesser
+ceaseless;incessant, continuel
+sudden / suddenly;soudain / brusquement
+to leave off + gérondif;s'arrÃªter, s'interrompre
+continuous;continu, ininterrompu
+to resume sthg;reprendre qqch, se remettre Ã  qqch
+to come to a deadlock;aboutir Ã  une impasse
+resumption;la reprise d'une activité
+to delay in doing sthg;s'attarder, tarder Ã 
+a delay;un retard
+steady;régulier, stable
+steadily;réguliÃ¨rement
+haste;la hÃ¢te
+to hasten to do sthg;s'empresser de
+hasty;précipité, rapide
+current / currently / in current use;actuel / actuellement / d'un usage courant
+contemporary with sthg, so;contemporain de
+to be up to date / out of date;être au gout du jour / ne plus Ãªtre au gout du jour
+remote from sthg, so;éloigné de qqn ou qqch, dans le temps ou l'espace
+ancient;antique, ancien
+previous;précédent
+former;ancien, antérieur
+to decay;s'altérer, se détériorer
+to fade;se faner
+a rate;un rythme, un taux
+a pace;une allure, un pas
+to keep pace with sthg, so;ne pas se laisser dépasser par qqn, qqch
