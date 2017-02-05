@@ -1,80 +1,82 @@
-proud of	;	fier de
-pride in 	;	la fierté en
-self-satisfied	;	content de soi
-self-confident	;	confiant en soi
-to boast, to show off	;	frimer, se vanter
-humble	;	humble
-modest	;	modeste
-gentle	;	doux, sans violence
-tolerant of sthg, so	;	tolérant de qqch, qqn
-diffident	;	peu sûr de soi
-selfish	;	égoïste
-unselfish	;	désintéressé, dévoué, généreux
-generous	;	généreux
-a miser	;	un avare
-miserly	;	avare (adjectif)
-miserliness	;	l'avarice
-mean	;	méchant, mesquin
-thrifty	;	économe
-spendthrift	;	dépensier
-to save time, money	;	gagner du temps, économiser de l'argent
-to save SO sthg	;	faire économiser QQCH à qqn
-to cut down (back) on sthg	;	réduire , restreindre qqch
-to waste	;	gaspiller, gâcher
-to squander sthg	;	dilapider qqch
-drunkeness	;	l'ivrognerie
-greedy	;	gourmant, âpre au gain
-lust (NPC: luxury = le luxe)	;	la luxure NPC: luxury = le luxe
-courage	;	le courage
-courageous	;	courageux
-plucky	;	qui a du cran
-pluck	;	le cran
-to persevere in doing sthg	;	persévérer à
-to stick it out	;	tenir jusqu'au bout
-brave	;	brave
-a challenge	;	un défi
-daring	;	audacieux
-bold	;	hardi, téméraire
-to dare DO sthg	;	oser faire qqch
-to dare shtg	;	affronter
-nerve	;	le sang-froid, l'assurance
-fool-hardy	;	téméraire, casse-cou
-to dodge sthg	;	s'esquiver, esquiver qqch
-a coward	;	un lâche
-cowardice	;	la lâcheté
-cowardly	;	lâche
-lazy	;	paresseux
-laziness	;	la paresse
-idle	;	oisif
-idleness	;	l'oisiveté
-to overlook sthg	;	oublier qqch par négligence
-slack	;	nonchalant, négligent
-to slacken up	;	se relâcher (effort), devenir négligent
-casual	;	désinvolte, cavalier
-casually	;	avec désinvolture
-hardworking	;	travailleur
-industrious, painstaking	;	appliqué
-care	;	le soin
-to take care of sthg	;	prendre soin de qqch
-to be punctual	;	être à l'heure
-to caution so against sthg	;	mettre en garde qqn
-to warn so against sthg	;	mettre en garde qqn
-cautious 	;	prudent
-to take heed of sthg	;	prendre qqch en compte, faire attention
-(it is) prudent (to do)	;	réfléchi, il est prudent de
-wise	;	sage
-heedful	;	vigilant
-stern	;	austère, sévère
-steady	;	régulier, stable
-sober	;	calme, posé
-imprudent	;	imprudent
-rash	;	irréfléchi
-reckless	;	imprudent, téméraire
-heedless	;	étourdi, inattentif
-out of (sheer) caprice	;	par (pur) caprice
-capricious	;	capricieux
-a freak	;	un marginal
-a fit of laughter	;	un éclat de rire
-by fits and starts	;	par à coups
-a whim	;	un caprice, une lubie
-whimsical	;	saugrenu, fantasque
+proud of;fier de
+pride in;la fierté en
+self-satisfied;content de soi
+self-confident;confiant en soi
+notorious;qui a triste notoriété
+well-known, famous;connu au sens positif
+to boast, to show off;frimer, se vanter
+humble;humble
+modest;modeste
+gentle;doux, sans violence
+tolerant of sthg, so;tolérant de qqch, qqn
+diffident;peu sûr de soi
+selfish;égoïste
+unselfish;désintéressé, dévoué, généreux
+generous;généreux
+a miser;un avare
+miserly;avare (adjectif)
+miserliness;l'avarice
+mean;méchant, mesquin
+thrifty;économe
+spendthrift;dépensier
+to save time, money;gagner du temps, économiser de l'argent
+to save SO sthg;faire économiser QQCH à qqn
+to cut down (back) on sthg;réduire , restreindre qqch
+to waste;gaspiller, gâcher
+to squander sthg;dilapider qqch
+drunkeness;l'ivrognerie
+greedy;gourmant, âpre au gain
+lust (NPC: luxury = le luxe);la luxure NPC: luxury = le luxe
+courage;le courage
+courageous;courageux
+plucky;qui a du cran
+pluck;le cran
+to persevere in doing sthg;persévérer à
+to stick it out;tenir jusqu'au bout
+brave;brave
+a challenge;un défi
+daring;audacieux
+bold;hardi, téméraire
+to dare DO sthg;oser faire qqch
+to dare shtg;affronter
+nerve;le sang-froid, l'assurance
+fool-hardy;téméraire, casse-cou
+to dodge sthg;s'esquiver, esquiver qqch
+a coward;un lâche
+cowardice;la lâcheté
+cowardly;lâche
+lazy;paresseux
+laziness;la paresse
+idle;oisif
+idleness;l'oisiveté
+to overlook sthg;oublier qqch par négligence
+slack;nonchalant, négligent
+to slacken up;se relâcher (effort), devenir négligent
+casual;désinvolte, cavalier
+casually;avec désinvolture
+hardworking;travailleur
+industrious, painstaking;appliqué
+care;le soin
+to take care of sthg;prendre soin de qqch
+to be punctual;être à l'heure
+to caution so against sthg;mettre en garde qqn
+to warn so against sthg;mettre en garde qqn
+cautious;prudent
+to take heed of sthg;prendre qqch en compte, faire attention
+(it is) prudent (to do);réfléchi, il est prudent de
+wise;sage
+heedful;vigilant
+stern;austère, sévère
+steady;régulier, stable
+sober;calme, posé
+imprudent;imprudent
+rash;irréfléchi
+reckless;imprudent, téméraire
+heedless;étourdi, inattentif
+out of (sheer) caprice;par (pur) caprice
+capricious;capricieux
+a freak;un marginal
+a fit of laughter;un éclat de rire
+by fits and starts;par à coups
+a whim;un caprice, une lubie
+whimsical;saugrenu, fantasque

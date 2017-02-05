@@ -1,161 +1,162 @@
-clothes;	les vêtements
-suede; le daim
-checked; à carreaux
-she was dressed IN black; elle était habillée EN noir
-to wear CASUAL clothes; porter une tenue décontractée
-stiletto heels; des talons aiguilles
-the hem; l'ourlet
-to try on clohes; essayer des vêtements
-what size do you take?; quelle taille faites vous?
-to match; être assorti
-to dress;	s'habiller
-to dress up;	bien s'habiller
-to undress;	se déshabiller
-to take off;	enlever, ôter (décoller pour un avion)
-an article of clothing;	un vêtement
-sensitive to the cold	;frileux
-to put on one's best clothes, one's Sunday best;	se mettre sur son trente-et-un
-to have a suit made to measure;	se faire faire un complet sur mesure
-ready-to-wear	;prêt à porter
-to try on a suit;	essayer un costume
-to fit so;	être à la taille de qqn, être ajuté
-to dress up; bien s'habiller
-to dress down; s'habiller cool
-to suit so;	aller bien à qqn
-Blue suits you ; Le bleu te va bien
-loose;	lâche, ample
-tight;	étroit, serré
-(a pair of) trousers;	un pantalon
-a belt;	une ceinture
-braces;	des bretelles
-to press, to iron	;repasser
-the crease;	le pli
-a leather jacket;	une veste en cuir
-a pullover;	un pull-over
-a jacket;	une veste
-to put away sthg;	ranger qqch
+clothes;les vêtements
+suede;le daim
+checked;à carreaux
+she was dressed IN black;elle était habillée EN noir
+to wear CASUAL clothes;porter une tenue décontractée
+stiletto heels;des talons aiguilles
+the hem;l'ourlet
+shabby;en mauvais état, usé
+to try on clohes;essayer des vêtements
+what size do you take?;quelle taille faites vous?
+to match;être assorti
+to dress;s'habiller
+to dress up;bien s'habiller
+to undress;se déshabiller
+to take off;enlever, ôter (décoller pour un avion)
+an article of clothing;un vêtement
+sensitive to the cold;frileux
+to put on one's best clothes, one's Sunday best;se mettre sur son trente-et-un
+to have a suit made to measure;se faire faire un complet sur mesure
+ready-to-wear;prêt à porter
+to try on a suit;essayer un costume
+to fit so;être à la taille de qqn, être ajuté
+to dress up;bien s'habiller
+to dress down;s'habiller cool
+to suit so;aller bien à qqn
+Blue suits you;Le bleu te va bien
+loose;lâche, ample
+tight;étroit, serré
+(a pair of) trousers;un pantalon
+a belt;une ceinture
+braces;des bretelles
+to press, to iron;repasser
+the crease;le pli
+a leather jacket;une veste en cuir
+a pullover;un pull-over
+a jacket;une veste
+to put away sthg;ranger qqch
 to fold (up) sthg;(re) plier qqch
-to brush a jacket;	brosser un veston
-a coat-hanger	;un cintre
-hard wearing;	résistant
-to stretch;	s'allonger, s'élargir
-light	;léger
-heavy	;lourd
-coarse;	gros, grossier
-to shrink, shrank, shrunk	;se rétrécir
-to fade;	faner
-to dye;	teindre
-to dye one's hair;	se teindre les cheveux
-wool;	la laine
-silk;	la soie
-velvet;	le velours
-nylon;	le nylon
-woollens;	des lainages
-woolly;	laineux
-silken;	soyeux
-underclothing, underwear;	sous-vêtements
-a swimsuit;	un maillot de bain
-a shirt;	une chemise
-to be in one's shirt-sleeves;	être en bras de chemise
-to be stripped to the waist;	être torse nu
-to tie sthg	;nouer qqchose
-a tie;	une cravate
-a bow tie	;un noeud papillon
-the sleeves	;les manches
-the cuffs	;les poignets, les manchettes
-handcuff;	les menottes
-a pocket	;une poche
-a handkerchief	;un mouchoir
-a wallet;	un portefeuille
-a button;	un bouton
-a seam;	une couture
-a coat;	un manteau
-an overcoat;	un pardessus
-a scarf;	une écharppe
-a raincoat;	un imperméable
-a bowler;	un chapeau melon
-a top hat;	un haut de forme
-a cap;	une casquette
-a beret	;un béret
-an umbrella;	un parapluie
-a briefcase	;un porte-document
-slippers;	des pantoufles
-to black, to polish	;cirer des chaussures
-leather;	le cuir
-canvas	;la toile
-under full canvas ; toutes voiles dehors
-laces;	des lacets
-to lace up;	lacer
-size	;la pointure
-the heel;	les talons
-a blazer;	un blazer
-an apron;	un tablier
-an oilskin;	un ciré
-a tracksuit	;un survêtement
-a skiing outfit	;une tenue de ski
-a fancy dress ball;	un bal costumé
-a bra (a brassiere)	;un soutien-gorge
-a girdle;	une gaîne
-a nightdress;	une robe de nuit
-a ribbon;	un ruban
-stockings	;des bas
-(a pair of) tights;	des collants
-a skirt	;une jupe
-a petticoat;	un jupon
-low-necked;	décolleté
-a gown;	une robe (habillée)
-a scarf to match;	une cravate assortie
-a fur coat;	un manteau de fourrure
-a hood;	une capuche
-a handbag;	un sac à main
-a purse;	une bourse
-a lipstick;	un bâton de rouge à lèvres
-lipstick;	du rouge à lèvres
-lips ; lèvres	
-stick ; bâton 
-walking-stick ; canne pour marcher	
-to make up;	se farder, se maquiller
+to brush a jacket;brosser un veston
+a coat-hanger;un cintre
+hard wearing;résistant
+to stretch;s'allonger, s'élargir
+light;léger
+heavy;lourd
+coarse;gros, grossier
+to shrink, shrank, shrunk;se rétrécir
+to fade;faner
+to dye;teindre
+to dye one's hair;se teindre les cheveux
+wool;la laine
+silk;la soie
+velvet;le velours
+nylon;le nylon
+woollens;des lainages
+woolly;laineux
+silken;soyeux
+underclothing, underwear;sous-vêtements
+a swimsuit;un maillot de bain
+a shirt;une chemise
+to be in one's shirt-sleeves;être en bras de chemise
+to be stripped to the waist;être torse nu
+to tie sthg;nouer qqchose
+a tie;une cravate
+a bow tie;un noeud papillon
+the sleeves;les manches
+the cuffs;les poignets, les manchettes
+handcuff;les menottes
+a pocket;une poche
+a handkerchief;un mouchoir
+a wallet;un portefeuille
+a button;un bouton
+a seam;une couture
+a coat;un manteau
+an overcoat;un pardessus
+a scarf;une écharppe
+a raincoat;un imperméable
+a bowler;un chapeau melon
+a top hat;un haut de forme
+a cap;une casquette
+a beret;un béret
+an umbrella;un parapluie
+a briefcase;un porte-document
+slippers;des pantoufles
+to black, to polish;cirer des chaussures
+leather;le cuir
+canvas;la toile
+under full canvas;toutes voiles dehors
+laces;des lacets
+to lace up;lacer
+size;la pointure
+the heel;les talons
+a blazer;un blazer
+an apron;un tablier
+an oilskin;un ciré
+a tracksuit;un survêtement
+a skiing outfit;une tenue de ski
+a fancy dress ball;un bal costumé
+a bra (a brassiere);un soutien-gorge
+a girdle;une gaîne
+a nightdress;une robe de nuit
+a ribbon;un ruban
+stockings;des bas
+(a pair of) tights;des collants
+a skirt;une jupe
+a petticoat;un jupon
+low-necked;décolleté
+a gown;une robe (habillée)
+a scarf to match;une cravate assortie
+a fur coat;un manteau de fourrure
+a hood;une capuche
+a handbag;un sac à main
+a purse;une bourse
+a lipstick;un bâton de rouge à lèvres
+lipstick;du rouge à lèvres
+lips;lèvres	
+stick;bâton 
+walking-stick;canne pour marcher	
+to make up;se farder, se maquiller
 the hairdresser;le coiffeur
-a beauty parlour;	un institut de beauté
-cosmetics	;les produits de beauté
-fashion	;la mode
-old-fashioned	;démodé
-tasteful;	de bon goût
-tasteless	;de mauvais goût
-dowdy	;sans chic
-flashy;	voyant, tapageur
-jewels;	des bijoux
-a brooch;	une broche
-a pearl necklace;	un collier de perles
-ear-rings;	des boucles d'oreille
-a bracelet;	un bracelet
-a ring;	une bague
-gems	;des pierres précieuses
-ruby	;le/un rubis
-emerald	;l'/une émeraude
-sapphire;	le/un saphir
-diamond	;le/un diamant
-needlework;	la couture (l'activité)
-sewing	 ;	la couture (l'activité)
-to sew, sewed, sewn	;coudre
-a needle;	une aiguille
-a thread	;fil
-to thread	;enfiler
-a reel;	une bobine
-scissors;	des ciseaux
-a thimble;	un dé
-a sewing-machine;	une machine à coudre
-a pin	;une éPINgle
-to knit	;tricoter
-to weave;	tisser
-to mend the sole;	raccomoder la semelle
-a patch;	une pièce de tissu pour raccomoder
-a spot;	une petite tâche
-a stain	;une tâche
-to come off;	se détacher, tomber
-worn-out;	usé, fini
-worn-threadbare;	usé jusqu'à la corde
-soiled;	sale, souillé
-rags	;des loques, guenilles
-ragged;	en loques
-a rag-and-bone man;	un chiffonnier
+a beauty parlour;un institut de beauté
+cosmetics;les produits de beauté
+fashion;la mode
+old-fashioned;démodé
+tasteful;de bon goût
+tasteless;de mauvais goût
+dowdy;sans chic
+flashy;voyant, tapageur
+jewels;des bijoux
+a brooch;une broche
+a pearl necklace;un collier de perles
+ear-rings;des boucles d'oreille
+a bracelet;un bracelet
+a ring;une bague
+gems;des pierres précieuses
+ruby;le/un rubis
+emerald;l'/une émeraude
+sapphire;le/un saphir
+diamond;le/un diamant
+needlework;la couture (l'activité)
+sewing;la couture (l'activité)
+to sew, sewed, sewn;coudre
+a needle;une aiguille
+a thread;fil
+to thread;enfiler
+a reel;une bobine
+scissors;des ciseaux
+a thimble;un dé
+a sewing-machine;une machine à coudre
+a pin;une éPINgle
+to knit;tricoter
+to weave;tisser
+to mend the sole;raccomoder la semelle
+a patch;une pièce de tissu pour raccomoder
+a spot;une petite tâche
+a stain;une tâche
+to come off;se détacher, tomber
+worn-out;usé, fini
+worn-threadbare;usé jusqu'à la corde
+soiled;sale, souillé
+rags;des loques, guenilles
+ragged;en loques
+a rag-and-bone man;un chiffonnier

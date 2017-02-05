@@ -1,84 +1,86 @@
-a coin ; une pièce de monnaie
-state-owned firms; les entreprises étatisées
-properous, thriving; prospère
-the black economy; l'économie parallèle
-barter; le troc
-exports; les exportations
-imports; les importations
-an outlet; un débouché
-a tax haven; un paradis fiscal
-a wage freeze; un gel des salaires
-the day's takings; la recette de la journée
-a homeless; un sans-abri
-a down-and-out; un SDF
-an industrialist; un industriel
-the takings; la recette(les bénéfices)
-a moneybox, a piggy bank; une tirelire
-to save/to spend/to squander money; économiser, dépenser, gaspiller l'argent
-bonds; des obligations
-it yields 10%; cela rapporte 10%
-a broker; un courtier
-to toss up a coin ; tirer à pile ou face 
-loose change ; de la monnaie 
-heads ; face 
-tails ; pile 
-a banknote, a note ; un billet de banque 
-a currency ; une monnaie nationale 
-to be legal tender ; avoir cours 
-cheap ; bon marché 
-cost ; le coût 
-to cost ; coûter 
-costly ; coûteux 
-expensive, dear ; cher 
-the amount, the sum ; le montant, la somme 
-a credit card ; une carte de crédit 
-an account ; un compte bancaire 
-to lend ; prêter 
-a loan ; un prêt, un emprunt 
-to borrow ; emprunter 
-to cash a cheque ; encaisser un chèque 
-to take out an insurance policy ; souscrire une police d'assurance 
-to save, to put by money ; mettre de l'argent de côté, économiser 
-savings ; les économies 
-to invest ; investir 
-a safe ; un coffre-fort 
-risky ; hasardeux 
-Stock-taking ; l'inventaire 
-to earn money ; gagner de l'argent 
-to spend money ; dépenser de l'argent 
-the growth rate ; le taux de croissance 
-sound management ; une gestion saine 
-turnover ; le chiffre d'affaire 
-to be in the black ; faire des bénéfices 
-to be in the red ; être déficitaire 
-to run into debt ; s'endetter 
-bankruptcy ; la banqueroute 
-to wind up a company ; liquider une société 
-to pay back, to refund ; rembourser 
-you'll get a refund ; vous serez remboursés 
-to owe money ; devoir de l'argent 
-a policy ; une politique 
-the law of supply and demand ; la loi de l'offre et de la demande 
-ups and downs ; les hauts et les bas, les vicissitudes 
-free trade ; le libre échange 
-planned economy ; l'économie planifiée 
-a boom ; une vague de prospérité 
-a recession ; une récession 
-a depression ; une crise 
-a recovery ; une reprise 
-a slump ; le marasme 
-runaway inflation ; l'inflation galopante 
-to soar, to skyrocket ; monter en flèche 
-situations wanted ; les demandes d'emploi 
-situations vacant ; les offres d'emploi 
-the standard of living ; le niveau de vie 
-purchasing power ; le pouvoir d'achat 
-business is slack, dull ; les affaires sont faibles 
-to hire ; embaucher 
-to work overtime ; faire des heures supplémentaires 
-business is at a standstill ; les affaires sont au point mort 
-to be thrown out of work ; perdre son emploi 
-unemployment benefits ; l'indemnité chômage 
-a merger ; une fusion 
-a takeover ; un rachat 
-a takeover bid ; une OPA 
+a coin;une pièce de monnaie
+state-owned firms;les entreprises étatisées
+properous, thriving;prospère
+the black economy;l'économie parallèle
+barter;le troc
+exports;les exportations
+imports;les importations
+an outlet;un débouché
+a tax haven;un paradis fiscal
+a wage freeze;un gel des salaires
+the day's takings;la recette de la journée
+a homeless;un sans-abri
+a down-and-out;un SDF
+an industrialist;un industriel
+the takings;la recette(les bénéfices)
+a moneybox, a piggy bank;une tirelire
+to save/to spend/to squander money;économiser, dépenser, gaspiller l'argent
+to remit;envoyer des fonds
+remittance;versement, envoi de fonds
+bonds;des obligations
+it yields 10%;cela rapporte 10%
+a broker;un courtier
+to toss up a coin;tirer à pile ou face 
+loose change;de la monnaie 
+heads;face 
+tails;pile 
+a banknote, a note;un billet de banque 
+a currency;une monnaie nationale 
+to be legal tender;avoir cours 
+cheap;bon marché 
+cost;le coût 
+to cost;coûter 
+costly;coûteux 
+expensive, dear;cher 
+the amount, the sum;le montant, la somme 
+a credit card;une carte de crédit 
+an account;un compte bancaire 
+to lend;prêter 
+a loan;un prêt, un emprunt 
+to borrow;emprunter 
+to cash a cheque;encaisser un chèque 
+to take out an insurance policy;souscrire une police d'assurance 
+to save, to put by money;mettre de l'argent de côté, économiser 
+savings;les économies 
+to invest;investir 
+a safe;un coffre-fort 
+risky;hasardeux 
+Stock-taking;l'inventaire 
+to earn money;gagner de l'argent 
+to spend money;dépenser de l'argent 
+the growth rate;le taux de croissance 
+sound management;une gestion saine 
+turnover;le chiffre d'affaire 
+to be in the black;faire des bénéfices 
+to be in the red;être déficitaire 
+to run into debt;s'endetter 
+bankruptcy;la banqueroute 
+to wind up a company;liquider une société 
+to pay back, to refund;rembourser 
+you'll get a refund;vous serez remboursés 
+to owe money;devoir de l'argent 
+a policy;une politique 
+the law of supply and demand;la loi de l'offre et de la demande 
+ups and downs;les hauts et les bas, les vicissitudes 
+free trade;le libre échange 
+planned economy;l'économie planifiée 
+a boom;une vague de prospérité 
+a recession;une récession 
+a depression;une crise 
+a recovery;une reprise 
+a slump;le marasme 
+runaway inflation;l'inflation galopante 
+to soar, to skyrocket;monter en flèche 
+situations wanted;les demandes d'emploi 
+situations vacant;les offres d'emploi 
+the standard of living;le niveau de vie 
+purchasing power;le pouvoir d'achat 
+business is slack, dull;les affaires sont faibles 
+to hire;embaucher 
+to work overtime;faire des heures supplémentaires 
+business is at a standstill;les affaires sont au point mort 
+to be thrown out of work;perdre son emploi 
+unemployment benefits;l'indemnité chômage 
+a merger;une fusion 
+a takeover;un rachat 
+a takeover bid;une OPA 

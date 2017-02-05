@@ -1,100 +1,101 @@
-north_pole;	pole_nord
-inhabitant; un habitant
-the mother tongue; la langue maternelle
-the motherland; la patrie
-south_pole;	pole_sud
-inhospitable;	inhospitalier
-Eskimos	;Esquimaux
-seal;	phoque
-walrus;	morse
-bear;	ours
-fur	;fourrure
-northernmost;	le_plus_septentrional
-reindeer;	renne
-penguin	;pingouin
-whale	;baleine
-mammal;	mammifere
-whaling	;chasse_a_la_baleine
-endangered;	menacé
-enhanced;	renforcé
-shark	;requin
-desert;	desert
-barren;	sterile
-palm_tree	;palmier
-camel	;chameau
-wild;	sauvage_feroce
-flesh-eating;	carnivore
-lioness	;lionne
-mane;	criniere
-lion_cub;	lionceau
-striped	;rayé
-spotted	;moucheté
-panther	;panthère
-to_roar	;rugir
-to_growl;	gronder
-savage;	sauvage_cruel
-to_creep;	ramper
-den_(lair);	tanière
-to_crouch	;se_tapir
-prey	;proie
-to_leap	;sauter_bondir
-to_spring_at;	s_elancer_sur
-to_tear_to_pieces (NPC: TO TAKE to pieces = démonter un appareil)	;mettre_en_pieces (NPC: TO TAKE to pieces = démonter un appareil)
-claws;	griffes
-tame;	apprivoisé
-snare	;piege_lacet
-trap;	piege_trappe
-pitfall	;piege_trappe_fosse
-to_struggle_out	;sortir_a_grand_peine
-to_slaughter;	massacrer
-monkey;	singe
-gorilla;	gorille
-nimble;	agile
-to_ape;	singer
-zebra	;zebre
-giraffe	;girafe
-kangaroo;	kangourou
-herbivorous;	herbivore
-tusk;	une_defense_d_elephant
-trunk	;la_trompe
-poisonous;	venimeux
-venom;	venin
-mongoose;	mangouste
-rattlesnake	;serpent_a_sonnette
-to_rouse;	mettre_en_colere
-rapacious	;rapace
-bird_of_prey;	oiseau_de_proie
-to_swoop_down_on;	fondre_sur
-hawk;	faucon
-vulture;	vautour
-ostrich	;autruche
-emu	;emeu
-parrot;	perroquet
-bat	;chauve-souris
-mammal;	mammifere
-ebony;	ébène
-mahogany;	acajou
-rosewood	;palissandre
-cedar	;cedre
-pineapple	;ananas
-grapefruit;	pamplemousse
-coconut;	noix_de_coco
-sugar-cane;	canne_a_sucre
-cotton_plant;	cotonnier
-tribe	;tribue
-to_wander;	errer_vagabonder
-settled_sedentary	;sédentaire
-barbarous;	barbare
-witchcraft;	sorcellerie
-witch-doctor_wizard	;sorcier
-witch	;sorciere
-to_cast_a_spell_on_so	;jeter_un_sort_sur_qqn
-bow	;arc
-arrow	;fleche
-spear;	javelot
-to_be_starving;	mourrir_de_faim
-to_starve_to_death;	mourrir_de_faim
-to_die_of_starvation;	mourrir_de_faim
-starvation;	famine
-travel_agency;	agence_de_voyage
-French_spoken;	On_parle_français
+north_pole;pole_nord
+inhabitant;un habitant
+the mother tongue;la langue maternelle
+the motherland;la patrie
+south_pole;pole_sud
+inhospitable;inhospitalier
+Eskimos;Esquimaux
+seal;phoque
+walrus;morse
+bear;ours
+fur;fourrure
+northernmost;le_plus_septentrional
+talon (talons of an eagle);les serres d'un rapace
+reindeer;renne
+penguin;pingouin
+whale;baleine
+mammal;mammifere
+whaling;chasse_a_la_baleine
+endangered;menacé
+enhanced;renforcé
+shark;requin
+desert;desert
+barren;sterile
+palm_tree;palmier
+camel;chameau
+wild;sauvage_feroce
+flesh-eating;carnivore
+lioness;lionne
+mane;criniere
+lion_cub;lionceau
+striped;rayé
+spotted;moucheté
+panther;panthère
+to_roar;rugir
+to_growl;gronder
+savage;sauvage_cruel
+to_creep;ramper
+den_(lair);tanière
+to_crouch;se_tapir
+prey;proie
+to_leap;sauter_bondir
+to_spring_at;s_elancer_sur
+to_tear_to_pieces (NPC: TO TAKE to pieces = démonter un appareil);mettre_en_pieces (NPC: TO TAKE to pieces = démonter un appareil)
+claws;griffes
+tame;apprivoisé
+snare;piege_lacet
+trap;piege_trappe
+pitfall;piege_trappe_fosse
+to_struggle_out;sortir_a_grand_peine
+to_slaughter;massacrer
+monkey;singe
+gorilla;gorille
+nimble;agile
+to_ape;singer
+zebra;zebre
+giraffe;girafe
+kangaroo;kangourou
+herbivorous;herbivore
+tusk;une_defense_d_elephant
+trunk;la_trompe
+poisonous;venimeux
+venom;venin
+mongoose;mangouste
+rattlesnake;serpent_a_sonnette
+to_rouse;mettre_en_colere
+rapacious;rapace
+bird_of_prey;oiseau_de_proie
+to_swoop_down_on;fondre_sur
+hawk;faucon
+vulture;vautour
+ostrich;autruche
+emu;emeu
+parrot;perroquet
+bat;chauve-souris
+mammal;mammifere
+ebony;ébène
+mahogany;acajou
+rosewood;palissandre
+cedar;cedre
+pineapple;ananas
+grapefruit;pamplemousse
+coconut;noix_de_coco
+sugar-cane;canne_a_sucre
+cotton_plant;cotonnier
+tribe;tribue
+to_wander;errer_vagabonder
+settled_sedentary;sédentaire
+barbarous;barbare
+witchcraft;sorcellerie
+witch-doctor_wizard;sorcier
+witch;sorciere
+to_cast_a_spell_on_so;jeter_un_sort_sur_qqn
+bow;arc
+arrow;fleche
+spear;javelot
+to_be_starving;mourrir_de_faim
+to_starve_to_death;mourrir_de_faim
+to_die_of_starvation;mourrir_de_faim
+starvation;famine
+travel_agency;agence_de_voyage
+French_spoken;On_parle_français
