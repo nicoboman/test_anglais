@@ -1,98 +1,98 @@
-to have a relapse; faire une rechute
-to have an iron constitution; il a une santé de fer
-he will pull through; il s'en sortira
-whooping cough; la coqueluche
-colour-blind; daltonien
-to wear glasses (contact lenses); porter des lunettes (lentilles de contact)
-stone-blind; complètement aveugle
-stone-dead; raide mort
-stone-deaf; sourd comme un pot
-to have a tooth filled; se faire plomber une dent
-a blood group; un groupe sanguin
-breathe in/breathe out; inspirez/expirez
-a blood transfusion; une transfusion sanguine
-sound	;sain, robuste
-healthy	;en bonne santé
-to be ill, sick;	être malade
-to sprain an ankle;	se fouler la cheville
-to break a limb	;se fracturer un membre
-to get hurt	;se blesser, se faire mal
-I'm coughing a lot;	je tousse beaucoup
-to be injured, wounded;	être blessé
-an injury, a wound;	une blessure
-breast-feeding;	allaitement
-a scar;	une cicatrice
-illness;	la maladie
-to caugh;	tousser
-to feel sick;	avoir mal au coeur
-to fat;	péter
-to vomit;	vomir
-a wheelchair; un fauteuil roulant
-to be, to go on a diet;	se mettre à la diète
-to catch a chill;	prendre froid
-to shiver;	frissonner
-to pee; faire pipi
-to blow one's nose;	se moucher
-a GP (General Pratitioner); un généraliste
-a bad cold;	un gros rhume
-to sneeze;	éternuer
-to have a sore throat;	avoir mal à la gorge
-to send for the doctor;	faire venir le docteur
-what's the matter with you?	;qu'avez-vous? de quoi souffrez-vous?
-to feel so's pulse;	prendre le pouls de qqn
-to sound so's chest	;ausculter qqn
-blood pressure;	la tension
-a temperature, a fever;	de la fièvre
-a prescription;	une ordonnance
-to be discharged from hospital;	quitter l'hôpital
-a drug by prescription;	un médicament sur ordonnance
-a drug, a medicine;	un médicament
-a pill;	une pillule
-a chemist's	;une pharmacie
-a GP (General Pratitionner)	;	le médecin traitant
-a headache;	un mal de tête
-pain	;la douleur
-slight;	léger
-an aspirin tablet	;un comprimé d'aspirine
-to have a toothache	;avoir un mal de dent
-tooth decay	;carie dentaire
-liver boot	;crise de foie
-kidney	;	rein (NPC: rein = une renne pour diriger un cheval)
-to ache	;faire mal
-to swell;	enfler
-the dentist;	le dentiste
-to have a tooth pulled out;	se faire arracher une dent
-painful	;douloureux
-to faint;	s'évanouir
-to come round	;reprendre connaissance
-flu;	la grippe
-a contagious disease;	une maladie contagieuse
-mumps	;les oreillons
-fatal;	mortel
-the plague;	la peste
+to have a relapse;faire une rechute
+to have an iron constitution;il a une santé de fer
+he will pull through;il s'en sortira
+whooping cough;la coqueluche
+colour-blind;daltonien
+to wear glasses (contact lenses);porter des lunettes (lentilles de contact)
+stone-blind;complètement aveugle
+stone-dead;raide mort
+stone-deaf;sourd comme un pot
+to have a tooth filled;se faire plomber une dent
+a blood group;un groupe sanguin
+breathe in/breathe out;inspirez/expirez
+a blood transfusion;une transfusion sanguine
+sound;sain, robuste
+healthy;en bonne santé
+to be ill, sick;être malade
+to sprain an ankle;se fouler la cheville
+to break a limb;se fracturer un membre
+to get hurt;se blesser, se faire mal
+I'm coughing a lot;je tousse beaucoup
+to be injured, wounded;être blessé
+an injury, a wound;une blessure
+breast-feeding;allaitement
+a scar;une cicatrice
+illness;la maladie
+to caugh;tousser
+to feel sick;avoir mal au coeur
+to fat;péter
+to vomit;vomir
+a wheelchair;un fauteuil roulant
+to be, to go on a diet;se mettre à la diète
+to catch a chill;prendre froid
+to shiver;frissonner
+to pee;faire pipi
+to blow one's nose;se moucher
+a GP (General Pratitioner);un généraliste
+a bad cold;un gros rhume
+to sneeze;éternuer
+to have a sore throat;avoir mal à la gorge
+to send for the doctor;faire venir le docteur
+what's the matter with you?;qu'avez-vous? de quoi souffrez-vous?
+to feel so's pulse;prendre le pouls de qqn
+to sound so's chest;ausculter qqn
+blood pressure;la tension
+a temperature, a fever;de la fièvre
+a prescription;une ordonnance
+to be discharged from hospital;quitter l'hôpital
+a drug by prescription;un médicament sur ordonnance
+a drug, a medicine;un médicament
+a pill;une pillule
+a chemist's;une pharmacie
+a GP (General Pratitionner);le médecin traitant
+a headache;un mal de tête
+pain;la douleur
+slight;léger
+an aspirin tablet;un comprimé d'aspirine
+to have a toothache;avoir un mal de dent
+tooth decay;carie dentaire
+liver boot;crise de foie
+kidney;rein (NPC: rein = une renne pour diriger un cheval)
+to ache;faire mal
+to swell;enfler
+the dentist;le dentiste
+to have a tooth pulled out;se faire arracher une dent
+painful;douloureux
+to faint;s'évanouir
+to come round;reprendre connaissance
+flu;la grippe
+a contagious disease;une maladie contagieuse
+mumps;les oreillons
+fatal;mortel
+the plague;la peste
 a hospital;un hôpital
-a nurse	;une infirmière
-to look after a patient;	s'occuper d'un patient
-a surgeon	;un chirurgien
-a nervous breakdown	;une dépression nerveuse
-mad, insane;	fou, aliéné
-an asylum	;un asile
-a mental home	;un hôpital psychiatrique
-a psychiatrist	;un psychiatre
-psychoanalysis;	la psychanalyse
-to heal;	guérir
-a checkup;	un bilan de santé
-a relapse;	une rechute
-a recovery;	une guérison
-to get well	;se rétablir
-to improve;	s'améliorer
-death	;la mort
-to make one's will;	faire son testament
-the heirs	;les héritiers
-to go into mourning	;prendre le deuil
-to bury;	enterrer
-the burial;	l'enterrement
-to toll the knell	;sonner le glas
-a churchyard;	un cimetière (accolé à une église)
-a cemetery;	un cimetière de ville
-to squint;	loucher
+a nurse;une infirmière
+to look after a patient;s'occuper d'un patient
+a surgeon;un chirurgien
+a nervous breakdown;une dépression nerveuse
+mad, insane;fou, aliéné
+an asylum;un asile
+a mental home;un hôpital psychiatrique
+a psychiatrist;un psychiatre
+psychoanalysis;la psychanalyse
+to heal;guérir
+a checkup;un bilan de santé
+a relapse;une rechute
+a recovery;une guérison
+to get well;se rétablir
+to improve;s'améliorer
+death;la mort
+to make one's will;faire son testament
+the heirs;les héritiers
+to go into mourning;prendre le deuil
+to bury;enterrer
+the burial;l'enterrement
+to toll the knell;sonner le glas
+a churchyard;un cimetière (accolé à une église)
+a cemetery;un cimetière de ville
+to squint;loucher

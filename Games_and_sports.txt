@@ -1,160 +1,160 @@
-outdoor games;	les jeux de plein air
-a football pitch; un terrain de football
-spare time, free time; du temps libre
-to have a good time; bien s'amuser
-to have a lie-in; faire la grasse matinée
-stamp collecting; la philatélie
-a snapshot; un instantané
-to shuffle the cards; battre les cartes
-to win on the lottery; gagner à la loterie
-to go clubbing; sortir en boîte
-heads or tails?; pile ou face?
-weightlifting; l'halthérophilie
-a scrum; une mêlée
-a ski run; une piste de ski
-a cablecar; un téléphérique
-a sledge; une luge
-blindman's buff	;colin-maillard
-hide-and-seek	;cache-cache
-leapfrog	;saute-mouton
-the linesman;	le juge de touche(football)
-to swing;	se balancer
-to hide	;(se) cacher
-to seek, sought, sought	;chercher
-to go in for sport	;faire du sport
-to be keen on football;	être passionné football
-a team;	une équipe
-the players	;les joueurs
-the ground, the field;	le terrain
-the referee, the umpire	;l'arbitre
-to win the toss	;gagner le toss
-to toss up a coin	;tirer à pile ou face
-a treadmill; un tapis roulant (pour courir)
-heads	;face
-tails	;pile
-to kick the ball	;donner un coup de pied dans le ballon
-the goal;	le but	
-the goalkeeper	;le gardien de but
-to score;	marquer
-to win a match;	gagner un match
-to lose	;perdre
-a draw	;un match nul
-a shot;	un coup de pied, un tir
-to practise	;s'entraîner
-to keep fit	;se maintenir en forme
-practise, training;	l'entraînement
-to be out of practise	;manquer d'entraînement
-to play fair	;jouer franc jeu
-to be outplayed	;être dominé
-to score a try;	marquer un essai (rugby)
-rough	;brutal
-a partner;	un partenaire (tennis)
-the umpire;	l'arbitre (tennis)
-the net	;le filet (tennis)
-a tournament;	un tournoi
-athletics;	l'athletisme
-a race;	une course
-the track	;la piste
-to be all of a sweat;	être tout en sueur
-out of breath	;hors d'haleine
-to break a record	;battre un record
-the discus	;le disque
-to put the weight	;lancer le poids
-the long jump	;le saut en longueur
-the high jump	;le saut en hauteur
-pole vaulting	;le saut à la perche
-hurdles	;les haies
-boxing;	la boxe
+outdoor games;les jeux de plein air
+a football pitch;un terrain de football
+spare time, free time;du temps libre
+to have a good time;bien s'amuser
+to have a lie-in;faire la grasse matinée
+stamp collecting;la philatélie
+a snapshot;un instantané
+to shuffle the cards;battre les cartes
+to win on the lottery;gagner à la loterie
+to go clubbing;sortir en boîte
+heads or tails?;pile ou face?
+weightlifting;l'halthérophilie
+a scrum;une mêlée
+a ski run;une piste de ski
+a cablecar;un téléphérique
+a sledge;une luge
+blindman's buff;colin-maillard
+hide-and-seek;cache-cache
+leapfrog;saute-mouton
+the linesman;le juge de touche(football)
+to swing;se balancer
+to hide;(se) cacher
+to seek, sought, sought;chercher
+to go in for sport;faire du sport
+to be keen on football;être passionné football
+a team;une équipe
+the players;les joueurs
+the ground, the field;le terrain
+the referee, the umpire;l'arbitre
+to win the toss;gagner le toss
+to toss up a coin;tirer à pile ou face
+a treadmill;un tapis roulant (pour courir)
+heads;face
+tails;pile
+to kick the ball;donner un coup de pied dans le ballon
+the goal;le but	
+the goalkeeper;le gardien de but
+to score;marquer
+to win a match;gagner un match
+to lose;perdre
+a draw;un match nul
+a shot;un coup de pied, un tir
+to practise;s'entraîner
+to keep fit;se maintenir en forme
+practise, training;l'entraînement
+to be out of practise;manquer d'entraînement
+to play fair;jouer franc jeu
+to be outplayed;être dominé
+to score a try;marquer un essai (rugby)
+rough;brutal
+a partner;un partenaire (tennis)
+the umpire;l'arbitre (tennis)
+the net;le filet (tennis)
+a tournament;un tournoi
+athletics;l'athletisme
+a race;une course
+the track;la piste
+to be all of a sweat;être tout en sueur
+out of breath;hors d'haleine
+to break a record;battre un record
+the discus;le disque
+to put the weight;lancer le poids
+the long jump;le saut en longueur
+the high jump;le saut en hauteur
+pole vaulting;le saut à la perche
+hurdles;les haies
+boxing;la boxe
 wrestling;la lutte
-to deal blows	;porter des coups
-to be no match for so	;ne pas être de taille à lutter contre qqn
-to be knocked out	;être mis KO
-a rifle	;un fusil, une carabine
-the target;	la cible
-a pistol;	un pistolet
-archery, marksmanship;	le tir à l'arc
-an arrow	;une flèche
-a bow	;un arc
-to hit the mark, the target;	atteindre la cible
-to hit the bull's eye	;mettre dans le mille
-fencing;	l'escrime
-a sword	;une épée
-to slide;	faire des glissades, glisser
-to skate;	patiner
-ice-skates;	des patins à glace
-a skating rink;	une patinoire
-rock-climbing	;l'escalade
-to ski;	skier
-a ski-lift;	un remonte pente
-cross-country skiing;	le ski de fond
-ski-trekking;	le ski de randonnée
-mountaineering	;les activités de montagne
-a swimming-bath	;une piscine
-a swimming-pool;	une piscine en plein air
-to swim	;nager
-to dive;	plonger
-an oar, a scull	;un aviron
-to row, to scull;	ramer
-to upset;	chavirer
-a canoe	;un canoe
-a paddle;	une pagaie
-horse riding;	l'équitation
-a horse show;	un concours hippique
-a horse race;	une course de chevaux
-the start;	le départ
-the finish;	l'arrivée
-to bet on a horse	;parier sur un cheval
-to gamble	;jouer de l'argent
-a sportsman	;un sportif
-walking	;la marche
-hiking;	les randonnées à pied
-to picnic;	pique-niquer
-to camp	;camper
-to pitch one's tent;	planter sa tente
-open-air, outdoor life;	la vie au grand air
-a camping site;	un terrain de camping
-to hunt;	chasser
-a fox	;un renard
-a pack of hounds;	une meute
-to chase;	poursuivre
-cunning	;rusé
-to outwit the dogs	;déjouer les chiens
-to be thrown off the sent, to lose the trail;	perdre la piste
-a stag	;un cerf
-to sound the horn	;sonner du cor
-the shooting season	;la saison de la chasse
-to shoot sthg	;tuer qqchose
-a gunshot	;un coup de feu
-a double-barrelled gun	;un fusil à deux coups
-to load	;charger
-to level a gun;	braquer un fusil
-to pull the trigger;	appuyer sur la gâchette
-to fire;	faire feu
-to miss the mark;	manquer son but
-to come home with an empty bag, empty handed	;rentrer bredouille
-a hare;	un lièvre
-a rabbit	;un lapin
-a burrow;	un terrier
-a partridge;	une perdrix
-a pheasant;	un faisant
-a gamekeeper;	un garde-chasse
-game (invariant);	le gibier
-a poacher;	un braconnier
-smuggling	;la contrebande
-smuggler;	un contrebandier
-angling;	la pêche à la ligne
-an angler	;un pêcheur
-to angle, to fish for;	pêcher
-trout;	la truite
-salmon;	le saumon
-pike	;un brochet
-carp;	une carpe
-fishing tackle;	l'attirail de pêche
-a rod	;une canne à pêche
-a hook;	un hameçon
-to bait;	appâter
-a worm;	un ver
-a fly	;une mouche
-to bite	;mordre
-the float;	le bouchon
-deep-sea fishing;	la pêche au large, en haute mer
+to deal blows;porter des coups
+to be no match for so;ne pas être de taille à lutter contre qqn
+to be knocked out;être mis KO
+a rifle;un fusil, une carabine
+the target;la cible
+a pistol;un pistolet
+archery, marksmanship;le tir à l'arc
+an arrow;une flèche
+a bow;un arc
+to hit the mark, the target;atteindre la cible
+to hit the bull's eye;mettre dans le mille
+fencing;l'escrime
+a sword;une épée
+to slide;faire des glissades, glisser
+to skate;patiner
+ice-skates;des patins à glace
+a skating rink;une patinoire
+rock-climbing;l'escalade
+to ski;skier
+a ski-lift;un remonte pente
+cross-country skiing;le ski de fond
+ski-trekking;le ski de randonnée
+mountaineering;les activités de montagne
+a swimming-bath;une piscine
+a swimming-pool;une piscine en plein air
+to swim;nager
+to dive;plonger
+an oar, a scull;un aviron
+to row, to scull;ramer
+to upset;chavirer
+a canoe;un canoe
+a paddle;une pagaie
+horse riding;l'équitation
+a horse show;un concours hippique
+a horse race;une course de chevaux
+the start;le départ
+the finish;l'arrivée
+to bet on a horse;parier sur un cheval
+to gamble;jouer de l'argent
+a sportsman;un sportif
+walking;la marche
+hiking;les randonnées à pied
+to picnic;pique-niquer
+to camp;camper
+to pitch one's tent;planter sa tente
+open-air, outdoor life;la vie au grand air
+a camping site;un terrain de camping
+to hunt;chasser
+a fox;un renard
+a pack of hounds;une meute
+to chase;poursuivre
+cunning;rusé
+to outwit the dogs;déjouer les chiens
+to be thrown off the sent, to lose the trail;perdre la piste
+a stag;un cerf
+to sound the horn;sonner du cor
+the shooting season;la saison de la chasse
+to shoot sthg;tuer qqchose
+a gunshot;un coup de feu
+a double-barrelled gun;un fusil à deux coups
+to load;charger
+to level a gun;braquer un fusil
+to pull the trigger;appuyer sur la gâchette
+to fire;faire feu
+to miss the mark;manquer son but
+to come home with an empty bag, empty handed;rentrer bredouille
+a hare;un lièvre
+a rabbit;un lapin
+a burrow;un terrier
+a partridge;une perdrix
+a pheasant;un faisant
+a gamekeeper;un garde-chasse
+game (invariant);le gibier
+a poacher;un braconnier
+smuggling;la contrebande
+smuggler;un contrebandier
+angling;la pêche à la ligne
+an angler;un pêcheur
+to angle, to fish for;pêcher
+trout;la truite
+salmon;le saumon
+pike;un brochet
+carp;une carpe
+fishing tackle;l'attirail de pêche
+a rod;une canne à pêche
+a hook;un hameçon
+to bait;appâter
+a worm;un ver
+a fly;une mouche
+to bite;mordre
+the float;le bouchon
+deep-sea fishing;la pêche au large, en haute mer

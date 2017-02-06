@@ -1,111 +1,111 @@
-a factory	;	une usine
-the steel industry; la sidérurgie
-the oil industry; l'industrie pétrolière
-raw materials; les matières premières
-chemistry/a chemist/chemical; la chimie/un chimiste/chimique
-an industrialist	;	un industriel
-a textile mill owner	;	un industriel du textile
-to enter into partnership	;	s'associer
-a computer scientist; un informaticien
-to computerize; informatiser
-a laptop; un ordinateur portable
-a byte; un octet
-to log on/off; se connecter, déconnecter
-a home page; une page d'accueil
-a search engine; un moteur de recherches
-data processing; le traitement des données
-a partner	;	un associé
-to run a concern	;	diriger une entreprise
-raw materials	;	les matières premières
-manufactured goods	;	les produits manufacturés
-genuine	;	authentique, garanti
-adulterated	;	falsifié
-shoddy goods, trumpery goods	;	de la camelote
-an engineer	;	un ingénieur
-a workman	;	un ouvrier
-a gang	;	une équipe
-a technician	;	un technicien
-a foreman	;	un contremaître
-skilled, qualified	;	qualifié
-unskilled	;	Non-qualifié
-wages	;	les salaires
-to ask for a rise	;	demander une augmentation
-income	;	les revenus
-to go on strike	;	se mettre en grève
-a trade union	;	un syndicat
-a craftsman	;	un artisan
-a workshop	;	un atelier
-Coal-minig	;	l'exploitation de la houille
-output	;	production
-a coalfield	;	un bassin houiller
-a collier	;	un mineur
-to dig	;	creuser
-to work a seam	;	exploiter un filon
-firedamp	;	le grisou
-to hew	;	tailler
-yield (to yield any returns)	;	le rendement
-production cost	;	le coût de production
-to become worked-out, exhausted	;	s'épuiser
-Cost-effective, profitable	;	rentable
-to dig out ore	;	extraire du minerai
-to smelt ore	;	fondre du minerai
-to grind, ground, ground	;	moudre
-an alloy	;	un alliage
-to mix	;	mélanger
-iron	;	le fer
-molten	;	en fusion
-to moisten	;	humidifier
-moisten needle	;	humidifer l'aiguille (sur les ballons de volley)
-stainless steel	;	l'acier inoxydable
-a foundry	;	une fonderie
-a cotton mill	;	une filature de cotton
-to spin	;	filer
-to weave	;	tisser
-to knit	;	tricoter
-a handloom	;	un métier à main
-a power loom	;	un métier mécanique
-to rot	;	pourrir
-to rust	;	rouiller
-car factory	;	une usine d'automobiles
-the assembly line	;	la chaîne d'assemblage
-an oven	;	un four
-a thermal power station	;	une station thermique
-an hydroelectric power station	;	une centrale hydro-électrique
-a dam	;	un barrage
-a nuclear power plant	;	une centrale nucléaire
-alternative energies	;	les énergies de remplacement
-fossil fuels are running out	;	les combustibles fossiles s'épuisent
-to maintain	;	entretenir
-to overhaul	;	réviser
-a bolt	;	un boulon
-a nut	;	un écrou
-to loosen, to come loose	;	se desserrer
-to tighten a nut	;	serrer un écrou
-to sharpen	;	aiguiser
-to solder a part	;	souder une pièce
-to be out of order	;	être détraqué, ne pas fonctionner
-to repair	;	réparer
-to take to pieces	;	démonter
-to put together again	;	remonter
-a plant	;	une usine
-repairs	;	les réparations
-spare parts	;	des pièces de rechange
-a belt	;	une courroie
-a drilling machine	;	une forreuse
-a robot	;	un robot
-elaborate, sophisticated	;	compliqué, perfectionné
-know-how	;	le savoir-faire
-an apliance	;	un appareil (cf. « domestic appliances »)
-to devise	;	inventer, imaginer
-to develop	;	mettre au point
-to process	;	traiter, informer
-air pollution	;	la pollution de l'air
-noxious fumes	;	des fumées délétères
-the greenhouse effect	;	l'effet de serre
-acid rain	;	les pluies acides
-unleaded, lead-free	;	sans plomb
-the ozone layer	;	la couche d'ozone
-radioactive waste	;	les déchets radioactifs
-environmentalists	;	les écologistes
-outlook			;	perspectives
-outburst		;	explosion
+a factory;une usine
+the steel industry;la sidérurgie
+the oil industry;l'industrie pétrolière
+raw materials;les matières premières
+chemistry/a chemist/chemical;la chimie/un chimiste/chimique
+an industrialist;un industriel
+a textile mill owner;un industriel du textile
+to enter into partnership;s'associer
+a computer scientist;un informaticien
+to computerize;informatiser
+a laptop;un ordinateur portable
+a byte;un octet
+to log on/off;se connecter, déconnecter
+a home page;une page d'accueil
+a search engine;un moteur de recherches
+data processing;le traitement des données
+a partner;un associé
+to run a concern;diriger une entreprise
+raw materials;les matières premières
+manufactured goods;les produits manufacturés
+genuine;authentique, garanti
+adulterated;falsifié
+shoddy goods, trumpery goods;de la camelote
+an engineer;un ingénieur
+a workman;un ouvrier
+a gang;une équipe
+a technician;un technicien
+a foreman;un contremaître
+skilled, qualified;qualifié
+unskilled;Non-qualifié
+wages;les salaires
+to ask for a rise;demander une augmentation
+income;les revenus
+to go on strike;se mettre en grève
+a trade union;un syndicat
+a craftsman;un artisan
+a workshop;un atelier
+Coal-minig;l'exploitation de la houille
+output;production
+a coalfield;un bassin houiller
+a collier;un mineur
+to dig;creuser
+to work a seam;exploiter un filon
+firedamp;le grisou
+to hew;tailler
+yield (to yield any returns);le rendement
+production cost;le coût de production
+to become worked-out, exhausted;s'épuiser
+Cost-effective, profitable;rentable
+to dig out ore;extraire du minerai
+to smelt ore;fondre du minerai
+to grind, ground, ground;moudre
+an alloy;un alliage
+to mix;mélanger
+iron;le fer
+molten;en fusion
+to moisten;humidifier
+moisten needle;humidifer l'aiguille (sur les ballons de volley)
+stainless steel;l'acier inoxydable
+a foundry;une fonderie
+a cotton mill;une filature de cotton
+to spin;filer
+to weave;tisser
+to knit;tricoter
+a handloom;un métier à main
+a power loom;un métier mécanique
+to rot;pourrir
+to rust;rouiller
+car factory;une usine d'automobiles
+the assembly line;la chaîne d'assemblage
+an oven;un four
+a thermal power station;une station thermique
+an hydroelectric power station;une centrale hydro-électrique
+a dam;un barrage
+a nuclear power plant;une centrale nucléaire
+alternative energies;les énergies de remplacement
+fossil fuels are running out;les combustibles fossiles s'épuisent
+to maintain;entretenir
+to overhaul;réviser
+a bolt;un boulon
+a nut;un écrou
+to loosen, to come loose;se desserrer
+to tighten a nut;serrer un écrou
+to sharpen;aiguiser
+to solder a part;souder une pièce
+to be out of order;être détraqué, ne pas fonctionner
+to repair;réparer
+to take to pieces;démonter
+to put together again;remonter
+a plant;une usine
+repairs;les réparations
+spare parts;des pièces de rechange
+a belt;une courroie
+a drilling machine;une forreuse
+a robot;un robot
+elaborate, sophisticated;compliqué, perfectionné
+know-how;le savoir-faire
+an apliance;un appareil (cf. « domestic appliances »)
+to devise;inventer, imaginer
+to develop;mettre au point
+to process;traiter, informer
+air pollution;la pollution de l'air
+noxious fumes;des fumées délétères
+the greenhouse effect;l'effet de serre
+acid rain;les pluies acides
+unleaded, lead-free;sans plomb
+the ozone layer;la couche d'ozone
+radioactive waste;les déchets radioactifs
+environmentalists;les écologistes
+outlook;perspectives
+outburst;explosion

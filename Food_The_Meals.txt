@@ -1,121 +1,121 @@
-to be hungry;	avoir faim
-grease; la graisse
-hard-boiled egg; oeuf dur
-fried egg; oeuf sur le plat
-poached egg; oeuf poché
-a leek; un poireau
-a raddish; un radis
-a cucumber; un concombre 
-an onion; un oignon
-a pumpkin; une citrouille
-parsley; persil
-sparkling wine; du vin mousseux
-to sparkle; étinceller, pétiller
-garlic; l'ail
-bilberries; les myrtilles
-a bottle opener; un décapsuleur
-to have breakfast, lunch, dinner, supper; prendre le petit déj, déjeuner, diner, souper
-dinner is ready, lunch is ready; à table!
-help yourself; servez-vous
-have a nice meal; bon appétit
-to quench one's thirst;	apaiser sa soif
-to be thirsty;	avoir soif
-hunger;	la faim
-thirst;	la soif
-starvation;	la famine
-to have an appetite	;avoir de l'appétit
-to sit down to table;	s'assoir à table
-to be starving;	mourir de faim
-to make one's mouth water	;faire venir l'eau à la bouche
-greedy;	gourmant
-to gulp down food;	engloutir ses aliments
-to swallow;	avaler
-to chew;	mâcher
-to overeat;	trop manger
-to eat oneself sick	;manger à se rendre malade
-to suck	;sucer
-to lick an ice-cream;	lécher une glace
-to cook	;faire cuire
-a surfeit	;un excès
+to be hungry;avoir faim
+grease;la graisse
+hard-boiled egg;oeuf dur
+fried egg;oeuf sur le plat
+poached egg;oeuf poché
+a leek;un poireau
+a raddish;un radis
+a cucumber;un concombre 
+an onion;un oignon
+a pumpkin;une citrouille
+parsley;persil
+sparkling wine;du vin mousseux
+to sparkle;étinceller, pétiller
+garlic;l'ail
+bilberries;les myrtilles
+a bottle opener;un décapsuleur
+to have breakfast, lunch, dinner, supper;prendre le petit déj, déjeuner, diner, souper
+dinner is ready, lunch is ready;à table!
+help yourself;servez-vous
+have a nice meal;bon appétit
+to quench one's thirst;apaiser sa soif
+to be thirsty;avoir soif
+hunger;la faim
+thirst;la soif
+starvation;la famine
+to have an appetite;avoir de l'appétit
+to sit down to table;s'assoir à table
+to be starving;mourir de faim
+to make one's mouth water;faire venir l'eau à la bouche
+greedy;gourmant
+to gulp down food;engloutir ses aliments
+to swallow;avaler
+to chew;mâcher
+to overeat;trop manger
+to eat oneself sick;manger à se rendre malade
+to suck;sucer
+to lick an ice-cream;lécher une glace
+to cook;faire cuire
+a surfeit;un excès
 substantial;copieux
-plain	simple; sans recherche
-tasteless	; insipide, fade
-wholesome	;sain
-unwholesome;	malsain
-hungerstrike	;	grève de la faim
-a plate;	une assiette
-to lay the table;	mettre la table
-a dish;	un plat
-crockery	;la faïence
-a tray;	un plateau
-a fork;	une fourchette
-a spoon	;une cuillère
-a knife (pl. knives);	un couteau
-a ladle ;	une louche
-soup;	la soupe
-a salad bowl;	un saladier
-a serviette, a napkin;	une serviette
-bread	;le pain
-crumb;	une miette
-a slice;	une tranche
-a loaf (loaves);	une miche
-edible, eatable	;comestible
-bitter;	amer
-sweet;	doux, sucré
-to pour;	verser
-a lump of sugar	;un morceau de sucre
-granulated sugar;	du sucre en poudre
-the teapot;	la théière
-the coffee-pot;	la cafetière
-to fill	;remplir
-tipsy;	gai, éméché
-to sample;	goûter, déguster
-the cork;	le bouchon
-the corkscrew;	le tire-bouchon
-claret;	le bordeaux rouge
-burgundy;	le bourgogne
-alcoholic drinks;	des boissons alcoolisées
-cider	;le cidre
-stout	;la bière brune
-bitter, lager, ale;	bière blonde
-brandy;	l'eau-de-vie
-meat	;la viande
-beef	;le boeuf (la viande)
-pork	;le porc (la viande)
-lamb;	l'agneau (la viande)
-mutton;	le mouton(la viande)
-veal;	le veau (la viande)
-ham	;du jambon
-to carve;	découper (la viande)
-to boil	;(faire) bouillir
-a boiler;	une bouilloire
-to grill;	(faire) griller
-to stew;	(faire) cuire à l'étuvée
-to lunch on sandwiches;	déjeuner de sandwichs
-frozen foodstuffs	;des produits surgelés
-ready-cooked dishes	;des plats tout préparés
-takeaway food	;nourriture à emporter
-raw	;cru
-tender;	tendre
-tough	;dur
-fat	;gras
-lean;	maigre
-underdone	;saignant
-medium	;à point
-well-done;	bien cuît
-overdone;	trop cuît
-mustard	;la moutarde
-vegetables;	les légumes
-a potato;	une pomme de terre
-cauliflower	;du chou-fleur
-greens	;des légumes verts
-cabbage	;le choux
-mashed;	en purée
-fried;	frit
-chips	;des frites
-crisps;	des chips
-vinegar	;du vinaigre
-oil;	de l'huile
-jelly	;la gelée
-to bake;	cuire au four
-jam	;de la confiture
+plain	simple;sans recherche
+tasteless;insipide, fade
+wholesome;sain
+unwholesome;malsain
+hungerstrike;grève de la faim
+a plate;une assiette
+to lay the table;mettre la table
+a dish;un plat
+crockery;la faïence
+a tray;un plateau
+a fork;une fourchette
+a spoon;une cuillère
+a knife (pl. knives);un couteau
+a ladle ;une louche
+soup;la soupe
+a salad bowl;un saladier
+a serviette, a napkin;une serviette
+bread;le pain
+crumb;une miette
+a slice;une tranche
+a loaf (loaves);une miche
+edible, eatable;comestible
+bitter;amer
+sweet;doux, sucré
+to pour;verser
+a lump of sugar;un morceau de sucre
+granulated sugar;du sucre en poudre
+the teapot;la théière
+the coffee-pot;la cafetière
+to fill;remplir
+tipsy;gai, éméché
+to sample;goûter, déguster
+the cork;le bouchon
+the corkscrew;le tire-bouchon
+claret;le bordeaux rouge
+burgundy;le bourgogne
+alcoholic drinks;des boissons alcoolisées
+cider;le cidre
+stout;la bière brune
+bitter, lager, ale;bière blonde
+brandy;l'eau-de-vie
+meat;la viande
+beef;le boeuf (la viande)
+pork;le porc (la viande)
+lamb;l'agneau (la viande)
+mutton;le mouton(la viande)
+veal;le veau (la viande)
+ham;du jambon
+to carve;découper (la viande)
+to boil;(faire) bouillir
+a boiler;une bouilloire
+to grill;(faire) griller
+to stew;(faire) cuire à l'étuvée
+to lunch on sandwiches;déjeuner de sandwichs
+frozen foodstuffs;des produits surgelés
+ready-cooked dishes;des plats tout préparés
+takeaway food;nourriture à emporter
+raw;cru
+tender;tendre
+tough;dur
+fat;gras
+lean;maigre
+underdone;saignant
+medium;à point
+well-done;bien cuît
+overdone;trop cuît
+mustard;la moutarde
+vegetables;les légumes
+a potato;une pomme de terre
+cauliflower;du chou-fleur
+greens;des légumes verts
+cabbage;le choux
+mashed;en purée
+fried;frit
+chips;des frites
+crisps;des chips
+vinegar;du vinaigre
+oil;de l'huile
+jelly;la gelée
+to bake;cuire au four
+jam;de la confiture

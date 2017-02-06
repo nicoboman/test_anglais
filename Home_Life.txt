@@ -1,164 +1,164 @@
-visitors	;les visiteurs
-to look so up	;passer voir qqn
-to visit so	;rendre visite à qqn ("Visiting my sister Wendy")
-the gate;	la porte, la grille
-the front-door;	la porte d'entrée
-the doorstep;	le pas de la porte
-the threshold	;le pas de la porte
-to thresh;	battre, frapper
-to ring the bell;	sonner
-to knock;	frapper
-the knocker	;le heurtoir
-to lock the house up;	fermer la maison à clé
-the keyhole	;le trou de la serrure
-to unlock sthg;	ouvrir qqch
-a (door) handle	;une poignée de porte
-a doorknob	;un bouton de porte
-a burglar alarm	;une alarme anti-vol
-to bolt	;verrouiller
-the hall	;le vestibule, l'entrée
-a lift, an elevator;	un ascenceur
-to show so into;	introduire, faire entrer qqn dans
-As you make your bed, so you must lie on it;	Comme on fait son lit, on se couche
-the parlour	;le petit salon
-a mansion	;un hôtel particulier
-to greet so	;accueillir qqn
-to shake hands with so;	serrer la main de qqn
-a handshake	;une poignée de main
-an armchair;	un fauteuil
-a cushion	;un coussin
-snug, cosy;	chaud et douillet
-a carpet, a rug	;un tapis
-fitted carpet, wall-to-wall carpet;	de la moquette
-a curtain;	un rideau
-plain, simple	;simple, uni
-ornate;	décoré
-a cupboard;	un placard
-the dining-room	;la salle à manger
-a table	;une table
-a drawer;	un tiroir
-a chest of drawer;	une commode
-a shelf, shelves;	une étagère, étagères
-to lay, to set the table;	mettre la table
-the kitchen	;la cuisine (la pièce)
-cooking;	la cuisine (l'activité)
-convenient;	commode
-an oven	;un four
-a microwave oven;	un four micro-ondes
-a saucepan;	une casserole
-a tin-opener;	une ouvre-boîte
-a kettle; 	une bouilloire
-a refrigerator, a fridge;	un réfrigérateur
-an ice cube	;un glaçon
-to do the washing-up;	faire la vaisselle
-a sink	;un évier
-to sink, sank, sunk;	couler
-a dishwasher	;un lave-vaisselle
-the dustbin;	la poubelle
-a rubbish-chute	;un vide-ordures
-to wring;	essorer
-a washing-machine	;une machine à laver
-to iron, to press	;repasser
-an iron	;un fer à repasser
-downstairs;	en bas, rez-de-chaussée
-upstairs;	en haut
-the steps;	les marches
-mind the steps;	attention aux marches
-a wardrobe;	une garde-robe
-a chest of drawers;	une commode
-a bedside table	;une table de nuit
-a stool	;un tabouret
-a closet;	un placard, une penderie
-built-in;	encastré
-a mattress;	un matelas
-to make a bed;	faire un lit
-a sheet;	un drap
-a towel ;	une serviette
-a blanket;	une couverture
-a guilt;	un édredon
-a pillow;	un oreiller
-a (pillow-)case	;une taie (d'oreiller)
-bedtime	;l'heure du coucher
-to feel sleepy;	avoir sommeil
-to doze off, to snooze;	s'assoupir
-to snore;	ronfler
-to lie down;	se coucher
-to sleep;	dormir
-to dream;	rêver
-a nightmare	;un cauchemar
-drowsy;	somnolent
-a nap	;un somme
-he could not get a wink of sleep	;il n'a pas pu fermer l'oeil de la nuit
-to awake, to wake up, with a start;	se réveiller en sursaut
-to be an early riser;	être matinal
-to yawn;	bailler
-to stretch (oneself);	s'étirer
-wide awake;	bien éveillé
-to fling, flang, flung open	;ouvrir en grand
-the bathroom;	la salle de bain
-toilet paper;	du papier hygiénique
-to flush the toilet;	tirer la chasse d'eau
-a tile	;un carreau
-tiled	;carrelé
-a bath	;une baignoire
-a shower;	une douche
-to have, to take a bath, a shower	;prendre un bain, une douche
-a sponge	;une éponge
-a towel ;	une serviette
-the taps	;les robinets
-to run a bath	;faire couler un bain
-to rub oneself dry	;se sécher
-toothpaste;	pâte dentifrice
-toothbrush;	brosse à dent
-to clean one's teeth;	se laver les dents
-to shave;	se raser
-substantial	;cossu, riche
-a cot	;un lit d'enfant
-to rock;	bercer
-a lullaby;	une berceuse
-central heating	;chauffage central
-the fireplace	;l'âtre de la cheminée
-coal;	le charbon
-a log	;une bûche
-to light a fire	;allumer un feu
-to strike a match;	frotter une allumette
-to poke	;tisonner
-to put out a fire	;éteindre un feu
-a shovel;	une pelle
-smoke	;la fumée
-embers;	les braises
-a spark	;une étincelle
-the chimney;	la cheminée
-to sweep;	ramoner
-soot	;la suie
-a hot-water tank;	une ballon d'eau chaude
-a boiler	;une chaudière
-a tank;	un réservoir
-power	;l'énergie, le courant
-a candle	; une bougie
-a candlestick	; un bougeoir
-a chandelier	; un lustre
-a power cut	; une coupure de courant
-the bulb is gone	; l'ampoule est grillée
-a socket ; 	une douille
-to switch on, off	;allumer, éteindre
-a switch	;un interrupteur
-domestic appliances	;les appareils ménagers
-a plug	;une prise mâle
-to plug in sthg;	brancher qqch
-to blow a fuse;	faire sauter un plomb
-to vacuum, to hoover;	passer l'aspirateur
-a broom	;un balai
-a duster;	un chiffon à poussière
-to sweep;	balayer
-windscreen wipers	;les essuis-glaces
-to dust	;épousseter
-to polish the brass;	faire les cuivres
-clean	;propre
-tidy	;bien rangé, ordonné
-spick and span;	impeccable
-untidy;	mal tenu, mal rangé
-to leave things lying around;	laisser traîner des affaires
-muddy footprints	;des traces de pas boueuses
-to do a room	;faire une pièce
-spring-cleaning	;le nettoyage de printemps
+visitors;les visiteurs
+to look so up;passer voir qqn
+to visit so;rendre visite à qqn ("Visiting my sister Wendy")
+the gate;la porte, la grille
+the front-door;la porte d'entrée
+the doorstep;le pas de la porte
+the threshold;le pas de la porte
+to thresh;battre, frapper
+to ring the bell;sonner
+to knock;frapper
+the knocker;le heurtoir
+to lock the house up;fermer la maison à clé
+the keyhole;le trou de la serrure
+to unlock sthg;ouvrir qqch
+a (door) handle;une poignée de porte
+a doorknob;un bouton de porte
+a burglar alarm;une alarme anti-vol
+to bolt;verrouiller
+the hall;le vestibule, l'entrée
+a lift, an elevator;un ascenceur
+to show so into;introduire, faire entrer qqn dans
+As you make your bed, so you must lie on it;Comme on fait son lit, on se couche
+the parlour;le petit salon
+a mansion;un hôtel particulier
+to greet so;accueillir qqn
+to shake hands with so;serrer la main de qqn
+a handshake;une poignée de main
+an armchair;un fauteuil
+a cushion;un coussin
+snug, cosy;chaud et douillet
+a carpet, a rug;un tapis
+fitted carpet, wall-to-wall carpet;de la moquette
+a curtain;un rideau
+plain, simple;simple, uni
+ornate;décoré
+a cupboard;un placard
+the dining-room;la salle à manger
+a table;une table
+a drawer;un tiroir
+a chest of drawer;une commode
+a shelf, shelves;une étagère, étagères
+to lay, to set the table;mettre la table
+the kitchen;la cuisine (la pièce)
+cooking;la cuisine (l'activité)
+convenient;commode
+an oven;un four
+a microwave oven;un four micro-ondes
+a saucepan;une casserole
+a tin-opener;une ouvre-boîte
+a kettle;une bouilloire
+a refrigerator, a fridge;un réfrigérateur
+an ice cube;un glaçon
+to do the washing-up;faire la vaisselle
+a sink;un évier
+to sink, sank, sunk;couler
+a dishwasher;un lave-vaisselle
+the dustbin;la poubelle
+a rubbish-chute;un vide-ordures
+to wring;essorer
+a washing-machine;une machine à laver
+to iron, to press;repasser
+an iron;un fer à repasser
+downstairs;en bas, rez-de-chaussée
+upstairs;en haut
+the steps;les marches
+mind the steps;attention aux marches
+a wardrobe;une garde-robe
+a chest of drawers;une commode
+a bedside table;une table de nuit
+a stool;un tabouret
+a closet;un placard, une penderie
+built-in;encastré
+a mattress;un matelas
+to make a bed;faire un lit
+a sheet;un drap
+a towel;une serviette
+a blanket;une couverture
+a guilt;un édredon
+a pillow;un oreiller
+a (pillow-)case;une taie (d'oreiller)
+bedtime;l'heure du coucher
+to feel sleepy;avoir sommeil
+to doze off, to snooze;s'assoupir
+to snore;ronfler
+to lie down;se coucher
+to sleep;dormir
+to dream;rêver
+a nightmare;un cauchemar
+drowsy;somnolent
+a nap;un somme
+he could not get a wink of sleep;il n'a pas pu fermer l'oeil de la nuit
+to awake, to wake up, with a start;se réveiller en sursaut
+to be an early riser;être matinal
+to yawn;bailler
+to stretch (oneself);s'étirer
+wide awake;bien éveillé
+to fling, flang, flung open;ouvrir en grand
+the bathroom;la salle de bain
+toilet paper;du papier hygiénique
+to flush the toilet;tirer la chasse d'eau
+a tile;un carreau
+tiled;carrelé
+a bath;une baignoire
+a shower;une douche
+to have, to take a bath, a shower;prendre un bain, une douche
+a sponge;une éponge
+a towel;une serviette
+the taps;les robinets
+to run a bath;faire couler un bain
+to rub oneself dry;se sécher
+toothpaste;pâte dentifrice
+toothbrush;brosse à dent
+to clean one's teeth;se laver les dents
+to shave;se raser
+substantial;cossu, riche
+a cot;un lit d'enfant
+to rock;bercer
+a lullaby;une berceuse
+central heating;chauffage central
+the fireplace;l'âtre de la cheminée
+coal;le charbon
+a log;une bûche
+to light a fire;allumer un feu
+to strike a match;frotter une allumette
+to poke;tisonner
+to put out a fire;éteindre un feu
+a shovel;une pelle
+smoke;la fumée
+embers;les braises
+a spark;une étincelle
+the chimney;la cheminée
+to sweep;ramoner
+soot;la suie
+a hot-water tank;une ballon d'eau chaude
+a boiler;une chaudière
+a tank;un réservoir
+power;l'énergie, le courant
+a candle;une bougie
+a candlestick;un bougeoir
+a chandelier;un lustre
+a power cut;une coupure de courant
+the bulb is gone;l'ampoule est grillée
+a socket;une douille
+to switch on, off;allumer, éteindre
+a switch;un interrupteur
+domestic appliances;les appareils ménagers
+a plug;une prise mâle
+to plug in sthg;brancher qqch
+to blow a fuse;faire sauter un plomb
+to vacuum, to hoover;passer l'aspirateur
+a broom;un balai
+a duster;un chiffon à poussière
+to sweep;balayer
+windscreen wipers;les essuis-glaces
+to dust;épousseter
+to polish the brass;faire les cuivres
+clean;propre
+tidy;bien rangé, ordonné
+spick and span;impeccable
+untidy;mal tenu, mal rangé
+to leave things lying around;laisser traîner des affaires
+muddy footprints;des traces de pas boueuses
+to do a room;faire une pièce
+spring-cleaning;le nettoyage de printemps

@@ -1,10 +1,10 @@
-to matter to so	;	avoir de l'importance pour qqn
-to a certain extent	;	dans une certaine mesure
-to be worth £5	;	valoir £5
-to prevail	;	régner, dominer
-to make much of sthg	;	faire grand cas de qqch
-a trifle	;	une vétille
-essential to 	;	essentiel pour qqn
-obvious	;	évident, manifeste
-tremendous	;	énorme, formidable
-To what extent...?	;	Dans quelle mesure...?
+to matter to so;avoir de l'importance pour qqn
+to a certain extent;dans une certaine mesure
+to be worth £5;valoir £5
+to prevail;régner, dominer
+to make much of sthg;faire grand cas de qqch
+a trifle;une vétille
+essential to;essentiel pour qqn
+obvious;évident, manifeste
+tremendous;énorme, formidable
+To what extent...?;Dans quelle mesure...?

@@ -1,69 +1,69 @@
-a hoop;	un cerceau
-a spinning top;	une toupie
-a doll;	une poupée
-a kite;	un cerf-volant
-marbles	;les billes
-skittles;	les quilles
-a skipping rope	;une corde à sauter
-to squat; s'accroupir
-a box of bricks	;un jeu de construction
-a meccano-set	;un jeu de mécano
-toy soldiers;	des soldats de plomb
-a toy train	;un petit train
-a puppet-show	;un spectacle de marionnettes
-an outfit;	une panoplie
-a skiing outfit; une tenue de ski	
-battery-operated toys;	les jouets à pile
-remote control;	la télécommande
-electronic games/video games;	jeux électroniques/jeux videos
-to play cards	;jouer aux cartes
-clubs;	le trèfle
-diamonds;	le carreau
-hearts;	le coeur
-spades;	pique
-the king	;le roi
-the queen;	la reine
-the jack, knave;	le valet
-a trump(-card);	un atout
-the dealer;	le donneur
-to shuffle;	battre, mêler (signifie également "trainer des pieds")	
-to cheat	;tricher
-chess	;les échecs
-a chessboard;	l'échiquier
-dominoes;	les dominos
-a die, pl dice;	un dé
-a game of chance;	un jeu de hasard
-a game of skill;	un jeu d'adresse
-darts	;les fléchettes
-to guess;	deviner
-a triffle	;une devinette, une vétille
-crosswords	;les mots croisés
-to solve (Help me solve this problem);	résoudre (Help me solve this problem)
-library	;bibliothèque
-book shop;	librairie
-to borrow sthg from so;	emprunter qqch à qqn
-a novel;	un roman
-a novelist;	un romancier
-exciting;	passionnant
-thrilling	;palpitant
-a fairy tale;	un conte de fées
-wavelengh	;longueur d'onde
-to tune in to sthg;	se brancher sur qqchose
-a turntable;	une platine
-a live broadcast	;une émission en direct
-a camera;	un appareil photo
-a snap (shot)	;un instantané
-a close-up	;un gros plan
-a lens;	un objectif
-a zoom-lens	;un téléobjectif
-a wide-angle lens	;un "grand angle"
-gardening;	le jardinage
-drawing	;le dessin
-painting	;la peinture
-a pet;	un animal de compagnie
-a doggie;	un chien-chien
-a puss, pussy	;un minou
-the DIY department	;le rayon bricolage
-a handyman;	un homme à tout faire, un bricoleur
-handy	;pratique, utile
-to go pub-crawling;	faire la tournée des pubs
+a hoop;un cerceau
+a spinning top;une toupie
+a doll;une poupée
+a kite;un cerf-volant
+marbles;les billes
+skittles;les quilles
+a skipping rope;une corde à sauter
+to squat;s'accroupir
+a box of bricks;un jeu de construction
+a meccano-set;un jeu de mécano
+toy soldiers;des soldats de plomb
+a toy train;un petit train
+a puppet-show;un spectacle de marionnettes
+an outfit;une panoplie
+a skiing outfit;une tenue de ski	
+battery-operated toys;les jouets à pile
+remote control;la télécommande
+electronic games/video games;jeux électroniques/jeux videos
+to play cards;jouer aux cartes
+clubs;le trèfle
+diamonds;le carreau
+hearts;le coeur
+spades;pique
+the king;le roi
+the queen;la reine
+the jack, knave;le valet
+a trump(-card);un atout
+the dealer;le donneur
+to shuffle;battre, mêler (signifie également "trainer des pieds")	
+to cheat;tricher
+chess;les échecs
+a chessboard;l'échiquier
+dominoes;les dominos
+a die, pl dice;un dé
+a game of chance;un jeu de hasard
+a game of skill;un jeu d'adresse
+darts;les fléchettes
+to guess;deviner
+a triffle;une devinette, une vétille
+crosswords;les mots croisés
+to solve (Help me solve this problem);résoudre (Help me solve this problem)
+library;bibliothèque
+book shop;librairie
+to borrow sthg from so;emprunter qqch à qqn
+a novel;un roman
+a novelist;un romancier
+exciting;passionnant
+thrilling;palpitant
+a fairy tale;un conte de fées
+wavelengh;longueur d'onde
+to tune in to sthg;se brancher sur qqchose
+a turntable;une platine
+a live broadcast;une émission en direct
+a camera;un appareil photo
+a snap (shot);un instantané
+a close-up;un gros plan
+a lens;un objectif
+a zoom-lens;un téléobjectif
+a wide-angle lens;un "grand angle"
+gardening;le jardinage
+drawing;le dessin
+painting;la peinture
+a pet;un animal de compagnie
+a doggie;un chien-chien
+a puss, pussy;un minou
+the DIY department;le rayon bricolage
+a handyman;un homme à tout faire, un bricoleur
+handy;pratique, utile
+to go pub-crawling;faire la tournée des pubs
