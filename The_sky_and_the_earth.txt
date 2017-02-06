@@ -1,90 +1,90 @@
-the universe;	l'univers
-boundless	;sans bornes
-an observatory;	un observatoire
-an astronomer	;un astronome
-the solar system	;le système solaire
-to revolve;	tourner, graviter
-a crescent;	un croissant
-a beam, a ray	;un rayon
-to glimmer;	miroiter
-moonlight	;clair de lune
-an eclipse;	une éclipse
-to twinkle;	scintiller
-the Milky Way	;la Voie Lactée
-a shooting star	;une étoile filante
-a comet;	une comète
-the pole star	;l'étoile polaire
-cardinal point	;les points cardinaux
-northern;	septentrionnal
-eastern;	oriental
-southern;	méridional, austral
-western	;occidental
-a compass;	une boussole
-landscape;	paysage
-an indented coast;	une côte découpée
-coastline;	le littoral
-a creek;	une crique
-a peninsula	;une péninsule
-mainland;	le continent
-a continent	;un continent
-an archipelago;	un archipel
-the shore	;le rivage
-pebbles, shingle;	des galets
-a dune;	une dune
-a cliff;	une falaise
-rocky	;rocheux
-a reef;	un récif
-even;	uni, uniforme
-uneven;	inégal
-a plain;	une plaine
-a mountain;	une montagne
-to spread	;s'étendre
-a mountain range;	une chaîne de montagnes
-to stretch;	s'allonger
-to divide;	séparer
-height;	hauteur
-a peak;	un pic
-lofty	;élevé
-a summit;	un sommet
-snow-capped	;enneigé
-to surround;	entourrer
-a pass;	un col
-impassable;	infranchissable
-a ridge;	une crête
-a valley	;une vallée
-a slope;	une pente
-steep;	escarpé, raide
-a gorge, a glen;	une gorge, un ravin
-to overhang;	surplomber
-a precipice	;un precipice
-a hill;	une coline
-undulating;	vallonné
-over hill and dale;	par monts et par vaux
-a cave	;une caverne, une grotte
-to quarry, to extract;	extraire
-a quarry;	une carrière
-flint	;silex
-brittle;	cassant
-to strike fire;	faire jaillir le feu
-opencast mining	;extraction à ciel ouvert
-clay;	l'argile
-lime;	la chaux
-chalk	;la craie
-marble;	marbre
-a deposit;	un gisement
-an ore;	un minerai
-iron;	le fer
-copper	;le cuivre rouge
-lead;	le plomb
+the universe;l'univers
+boundless;sans bornes
+an observatory;un observatoire
+an astronomer;un astronome
+the solar system;le système solaire
+to revolve;tourner, graviter
+a crescent;un croissant
+a beam, a ray;un rayon
+to glimmer;miroiter
+moonlight;clair de lune
+an eclipse;une éclipse
+to twinkle;scintiller
+the Milky Way;la Voie Lactée
+a shooting star;une étoile filante
+a comet;une comète
+the pole star;l'étoile polaire
+cardinal point;les points cardinaux
+northern;septentrionnal
+eastern;oriental
+southern;méridional, austral
+western;occidental
+a compass;une boussole
+landscape;paysage
+an indented coast;une côte découpée
+coastline;le littoral
+a creek;une crique
+a peninsula;une péninsule
+mainland;le continent
+a continent;un continent
+an archipelago;un archipel
+the shore;le rivage
+pebbles, shingle;des galets
+a dune;une dune
+a cliff;une falaise
+rocky;rocheux
+a reef;un récif
+even;uni, uniforme
+uneven;inégal
+a plain;une plaine
+a mountain;une montagne
+to spread;s'étendre
+a mountain range;une chaîne de montagnes
+to stretch;s'allonger
+to divide;séparer
+height;hauteur
+a peak;un pic
+lofty;élevé
+a summit;un sommet
+snow-capped;enneigé
+to surround;entourrer
+a pass;un col
+impassable;infranchissable
+a ridge;une crête
+a valley;une vallée
+a slope;une pente
+steep;escarpé, raide
+a gorge, a glen;une gorge, un ravin
+to overhang;surplomber
+a precipice;un precipice
+a hill;une coline
+undulating;vallonné
+over hill and dale;par monts et par vaux
+a cave;une caverne, une grotte
+to quarry, to extract;extraire
+a quarry;une carrière
+flint;silex
+brittle;cassant
+to strike fire;faire jaillir le feu
+opencast mining;extraction à ciel ouvert
+clay;l'argile
+lime;la chaux
+chalk;la craie
+marble;marbre
+a deposit;un gisement
+an ore;un minerai
+iron;le fer
+copper;le cuivre rouge
+lead;le plomb
 oil, petroleum;le pétrole
-crude oil	;le pétrole brut
-a well	;un puît
-an oilfield	;un gisement pétrolifère
-natural gas	;le gaz naturel
-to drill, to bore;	forer
-a refinery	;une raffinerie
-by-products;	les sous-produits
-petrochemical industries	;les industries pétrochimiques
-an oil-(driling) rig;	une plate-forme de forage
-an oil slick;	une marée noire
-come hell or high water;	contre vents et marées
+crude oil;le pétrole brut
+a well;un puît
+an oilfield;un gisement pétrolifère
+natural gas;le gaz naturel
+to drill, to bore;forer
+a refinery;une raffinerie
+by-products;les sous-produits
+petrochemical industries;les industries pétrochimiques
+an oil-(driling) rig;une plate-forme de forage
+an oil slick;une marée noire
+come hell or high water;contre vents et marées

@@ -1,84 +1,84 @@
-bright	;	brillant
-to make oneself understood; se faire comprendre
-quick-witted/slow-witted; à l'esprit vif/esprit lent
-use your wit!; fais marcher tes méninges!
-it doesn't make sense; c'est absurde
-you have your point there; là, tu as raison
-intelligent	;	intelligent
-lively	;	vif, rapide
-clever	;	intelligent
-dim/a dim recollection; flou, vague/un vague souvenir
-to have the knack of doing sthg	;	avoir le coup de main pour
-wit / witty	;	le bel esprit / spirituel
-nimble-minded	;	à l'esprit agile (nimble = agile)
-a fool	;	un imbécile, un idiot
-foolish	;	stupide, ridicule
-to have a craze for / to be a craze	;	avoir une passion passagère / être une mode , un engouement
-absent-minded	;	distrait
-to dote on sthg	;	raffoler de qqch
-wise / unwise / wisdom	;	sage / peu sage sagesse
-to concentrate on sthg	;	se concentrer sur
-to focus one's attention	;	concentrer son attention sur
-to PAY attention	;	prêter attention
-He is none the wiser for 	;	Il n'en est pas plus avancé..
-louk out! watch out!	;	attention !
-(to talk) nonsense	;	(dire) des absurdités
-a piece of nonsense	;	une absurdité
-to make sthg out	;	comprendre par un effort intellectuel (John's handwritting's so bad that I couldn't make his letter out)
-to see, to get the point / to miss the point	;	voir, comprendre de quoi il s'agit / ne pas voir où on veut en venir
-to mix things up	;	tout mélanger
-to mistake so, sthg FOR so	;	confondre qqch, qqn AVEC qqn
-to be aware of	;	être au courant de
-to realise shg, that	;	se rendre compte
-to take sthg into account	;	prendre qqch en compte
-curious / inquisitive	;	curieux / trop curieux, indiscret
-to pry into sthg	;	fouiller dans qqch
-to check	;	vérifier
-to inquire	;	enquêter
-to come across sthg	;	tomber sur qqch par hasard
-to rack one's brain	;	se creuse la tête
-to think twice	;	réfléchir à 2 fois
-to change one's mind	;	changer d'avis
-on second thoughts	;	à la réflexion
-to flash upon so's mind that	;	venir brusquement à l'esprit de qqn
-knowledge	;	la connaissance
-a wonder / a miracle	;	un miracle, une merveille / un miracle
-a riddle	;	une énigme
-memory	;	la mémoire
-to record shtg	;	enregistrer qqch
-a souvenir	;	un souvenir (objet touristique)
-to remember doing sthg / to remember to do sthg	;	se rappeler qqch (dans le passé) / se rappeler d'avoir à faire qqch
-to remind so of sthg / to recall sthg to so	;	rappeler à qqn / rappeler qqch à qqn
-a conjurer	;	un prestidigitateur
-in rememberance of sthg	;	en souvenir de qqch
-my memory fails me / words fail me	;	ma mémoire me fait défaut / les mots me manquent
-to fancy sthg, so / fancy	;	bien aimer qqch, qqn / l'imagination, la fantaisie
-fancy that ! / fancy doing that ?	;	tu t'imagines ! / tu te vois faire ça?
-to imagine / imagination	;	imaginer / l'imagination
-to make sthg up (She has completely made this up)	;	créer qqch de toutes pièces, inventer des histoires
-to foresee qqch / unforeseen / foresight	;	prévoir qqch / imprévu / la prévision
-to forecast sthg / to foretell sthg	;	prévoir qqch (le temps, des résultats) / prédire
-a prospect	;	une perspective
-doubtful	;	incertain, équivoque, douteux
-to take sthg for granted	;	considérer qqch comme allant de soi
-to doubt sthg, so / undoubtedly	;	douter de qqch, qqn / sans aucun doute
-to ensure that	;	s'assurer que
-to assure so that	;	assurer à qqn de
-to make sure that	;	s'assure que
-to be supposed to do	;	être censé + inf
-in my opinion, to my mind	;	à mon avis
-belief	;	la croyance, la confiance en qqch
-I reckon (that)	;	je pense (que), j'estime que
-As far as I'm concerned	;	En ce qui me concerne
-to draw, to come to a conclusion / to conclude sthg	;	tirer , en arriver à une conclusion / conclure que
-to be biased	;	être partial
-to qualify sthg / a qualification	;	nuancer qqch / une réserve, une restriction
-to indicate sthg	;	indiquer qqch
-a meaning / meaningless to so	;	un sens, une signification / dénué de sens
-synonymous with	;	synonyme de
-significant	;	signifiant, important
-particularly	;	particulièrement
-especially	;	surtout, spécialement
-generally speaking, usually	;	d'une manière générale
-a distinctive feature	;	un trait distinctif
-typical of sthg, so	;	typique de
+bright;brillant
+to make oneself understood;se faire comprendre
+quick-witted/slow-witted;à l'esprit vif/esprit lent
+use your wit!;fais marcher tes méninges!
+it doesn't make sense;c'est absurde
+you have your point there;là, tu as raison
+intelligent;intelligent
+lively;vif, rapide
+clever;intelligent
+dim/a dim recollection;flou, vague/un vague souvenir
+to have the knack of doing sthg;avoir le coup de main pour
+wit / witty;le bel esprit / spirituel
+nimble-minded;à l'esprit agile (nimble = agile)
+a fool;un imbécile, un idiot
+foolish;stupide, ridicule
+to have a craze for / to be a craze;avoir une passion passagère / être une mode , un engouement
+absent-minded;distrait
+to dote on sthg;raffoler de qqch
+wise / unwise / wisdom;sage / peu sage sagesse
+to concentrate on sthg;se concentrer sur
+to focus one's attention;concentrer son attention sur
+to PAY attention;prêter attention
+He is none the wiser for;Il n'en est pas plus avancé..
+louk out! watch out!;attention !
+(to talk) nonsense;(dire) des absurdités
+a piece of nonsense;une absurdité
+to make sthg out;comprendre par un effort intellectuel (John's handwritting's so bad that I couldn't make his letter out)
+to see, to get the point / to miss the point;voir, comprendre de quoi il s'agit / ne pas voir où on veut en venir
+to mix things up;tout mélanger
+to mistake so, sthg FOR so;confondre qqch, qqn AVEC qqn
+to be aware of;être au courant de
+to realise shg, that;se rendre compte
+to take sthg into account;prendre qqch en compte
+curious / inquisitive;curieux / trop curieux, indiscret
+to pry into sthg;fouiller dans qqch
+to check;vérifier
+to inquire;enquêter
+to come across sthg;tomber sur qqch par hasard
+to rack one's brain;se creuse la tête
+to think twice;réfléchir à 2 fois
+to change one's mind;changer d'avis
+on second thoughts;à la réflexion
+to flash upon so's mind that;venir brusquement à l'esprit de qqn
+knowledge;la connaissance
+a wonder / a miracle;un miracle, une merveille / un miracle
+a riddle;une énigme
+memory;la mémoire
+to record shtg;enregistrer qqch
+a souvenir;un souvenir (objet touristique)
+to remember doing sthg / to remember to do sthg;se rappeler qqch (dans le passé) / se rappeler d'avoir à faire qqch
+to remind so of sthg / to recall sthg to so;rappeler à qqn / rappeler qqch à qqn
+a conjurer;un prestidigitateur
+in rememberance of sthg;en souvenir de qqch
+my memory fails me / words fail me;ma mémoire me fait défaut / les mots me manquent
+to fancy sthg, so / fancy;bien aimer qqch, qqn / l'imagination, la fantaisie
+fancy that ! / fancy doing that ?;tu t'imagines ! / tu te vois faire ça?
+to imagine / imagination;imaginer / l'imagination
+to make sthg up (She has completely made this up);créer qqch de toutes pièces, inventer des histoires
+to foresee qqch / unforeseen / foresight;prévoir qqch / imprévu / la prévision
+to forecast sthg / to foretell sthg;prévoir qqch (le temps, des résultats) / prédire
+a prospect;une perspective
+doubtful;incertain, équivoque, douteux
+to take sthg for granted;considérer qqch comme allant de soi
+to doubt sthg, so / undoubtedly;douter de qqch, qqn / sans aucun doute
+to ensure that;s'assurer que
+to assure so that;assurer à qqn de
+to make sure that;s'assure que
+to be supposed to do;être censé + inf
+in my opinion, to my mind;à mon avis
+belief;la croyance, la confiance en qqch
+I reckon (that);je pense (que), j'estime que
+As far as I'm concerned;En ce qui me concerne
+to draw, to come to a conclusion / to conclude sthg;tirer , en arriver à une conclusion / conclure que
+to be biased;être partial
+to qualify sthg / a qualification;nuancer qqch / une réserve, une restriction
+to indicate sthg;indiquer qqch
+a meaning / meaningless to so;un sens, une signification / dénué de sens
+synonymous with;synonyme de
+significant;signifiant, important
+particularly;particulièrement
+especially;surtout, spécialement
+generally speaking, usually;d'une manière générale
+a distinctive feature;un trait distinctif
+typical of sthg, so;typique de

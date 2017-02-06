@@ -1,17 +1,17 @@
-dogged	;	opiniâtre, tenace
-to lack will-power	;	manquer de volonté
-to give in to sthg, so	;	céder
-to yield to sthg, so	;	céder à 
-to persist in doing sthg	;	s'obstiner à qqch
-stubborn, wilful	;	têtu
-headstrong	;	qui tient tête, impétueux
-on an impulse	;	de façon irréfléchie
-dependent on sthg, so	;	dépendant de
-to be in the habit of sthg	;	avoir l'habitude de
-to get rid of sthg	;	se débarasser de qqchose
-to shake off habit	;	se débarrasser d'une habitude
-I can't help doing sthg	;	Je ne peux pas m'empêcher de
-a drug-addict	;	un drogué
-I can't help it	;	Je n'y peux rien
-as usual / unsual	;	comme d'habitude / inhabituel
-odd / an oddity	;	bizarre / une bizarrerie
+dogged;opiniâtre, tenace
+to lack will-power;manquer de volonté
+to give in to sthg, so;céder
+to yield to sthg, so;céder à 
+to persist in doing sthg;s'obstiner à qqch
+stubborn, wilful;têtu
+headstrong;qui tient tête, impétueux
+on an impulse;de façon irréfléchie
+dependent on sthg, so;dépendant de
+to be in the habit of sthg;avoir l'habitude de
+to get rid of sthg;se débarasser de qqchose
+to shake off habit;se débarrasser d'une habitude
+I can't help doing sthg;Je ne peux pas m'empêcher de
+a drug-addict;un drogué
+I can't help it;Je n'y peux rien
+as usual / unsual;comme d'habitude / inhabituel
+odd / an oddity;bizarre / une bizarrerie

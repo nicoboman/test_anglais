@@ -1,94 +1,94 @@
-within sight;	à portée de vue
-long-sighted;	presbyte
-short-sighted	;myope
-sharp-sighted	;à la vue perçante
-spectacles, glasses;	des lunettes
-contact lenses;	des lentilles de contact
-binoculars;	des jumelles
-one-eyed;	borgne
-to squint	;loucher
-a blindman;	un aveugle
-the blind;	(tous) les aveugles
-a guide-dog	;un chien d'aveugle
-to grope one's way;	se diriger à tâtons
-to look, to have a look	;regarder qqch
-to look + adjectif;	sembler, paraître
-he looks as if...	;on dirait qu'il
+within sight;à portée de vue
+long-sighted;presbyte
+short-sighted;myope
+sharp-sighted;à la vue perçante
+spectacles, glasses;des lunettes
+contact lenses;des lentilles de contact
+binoculars;des jumelles
+one-eyed;borgne
+to squint;loucher
+a blindman;un aveugle
+the blind;(tous) les aveugles
+a guide-dog;un chien d'aveugle
+to grope one's way;se diriger à tâtons
+to look, to have a look;regarder qqch
+to look + adjectif;sembler, paraître
+he looks as if...;on dirait qu'il
 to see to	"Can you see to the plumber's bill?";s'occuper de 	
-they look alike	;ils se ressemblent
-to look for sthg;	rechercher qqch
-to catch a glimpse of sthg;	apercevoir qqch
+they look alike;ils se ressemblent
+to look for sthg;rechercher qqch
+to catch a glimpse of sthg;apercevoir qqch
 to make out	"John's handswritting's so bad that I could not make his letter out";comprendre grâce à un effort intellectuel	
-to glance	;jeter un coup d'oeil
-to peer at sthg	;scruter du regard
-to gaze at sthg	;contempler qqch
-to frown at stgh;	regarder d'un air sévère
-to peep at sthg	;regarder à la dérobée
-to wink at so	;lancer un clin d'oeil à qqn "She winked at me!!"	
-"In the blink of an eye";	En un clignement des yeux
-to gape at sthg	;regarder bouche bée
-hard of hearing	;dur d'oreille
-deaf	-> en Angleterre: "he can't hear you, he's deaf"	;sourd
-stone-deaf;	sourd comme un pot
-to sound + adj;	sembler + adj
-It sounds like, as if	;
-out of hearing;	trop loin pour entendre
-within earshot	;à portée de voix
-silent;	silencieux
-silence	;le silence
-noise	;un bruit
-noisy	;bruillant
-noiseless	;sans bruit, silencieux
-audible	;audible, perceptible
-muffled	;étouffé (son)
-loud	;fort, sonore
-dull;	un bruit sourd
-deafening;	assourdissant
-a smell, an odour;	une odeur
-to smell nasty	;sentir mauvais
-to stink;	puer
-scentless	;inodore
-to sniff	;renifler
-a sniffer-dog;	un chien renifleur
-to taste;	goûter, déguster
-a flavour;	une saveur, un arôme
-bitter	;amer
-sweet	;doux, sucré
-tasteless;	insipide
-to taste nice/nasty	;avoir bon/mauvais goût
-to taste of sth;	avoir le goût de qqch
-to spit out sth;	cracher, recracher qqch
-touch	;le toucher
-to feel rough;	être rugueux au toucher
-smooth;	lisse
-speech;	la parole
-to be speechless;	rester sans voix
-to utter words, sounds;	prononcer des paroles, émettre des sons
-dumb;	muet
-deaf-and-dumb	;sourd-muet
-mute;	muet, non prononcé
-to pronounce;	prononcer
-to stress	;accentuer
-stress;	l'accent tonique
-to speak with a foreign accent;	parler avec un accent étranger
-a howl	;un hurlement
-a whisper	;un murmure
-to whisper;	murmurer
-to speak up	;élever la voix
-to mumble;	marmonner
-to stammer;	bredouiller
-to cry out;	crier, s'écrier
-to shout;	crier
-to scream	; pousser des cris perçants
-to yell	;s'enrouer à force de crier
-to cheer so	;acclamer qqn
-to boo so	;huer qqn
-to hiss so;	siffler qqn
-to make a speech;	faire un discours
-talkative;	bavard
-to chat, to have a chat with so;	causer, bavarder
-to chatter, to gossip	;papoter
-to hush	;faire taire, se taire
-gossip;	commérages
-a gossip;	une commère
-talks	;des entretiens, des pourparlers
+to glance;jeter un coup d'oeil
+to peer at sthg;scruter du regard
+to gaze at sthg;contempler qqch
+to frown at stgh;regarder d'un air sévère
+to peep at sthg;regarder à la dérobée
+to wink at so;lancer un clin d'oeil à qqn "She winked at me!!"	
+"In the blink of an eye";En un clignement des yeux
+to gape at sthg;regarder bouche bée
+hard of hearing;dur d'oreille
+deaf	-> en Angleterre: "he can't hear you, he's deaf";sourd
+stone-deaf;sourd comme un pot
+to sound + adj;sembler + adj
+It sounds like, as if;
+out of hearing;trop loin pour entendre
+within earshot;à portée de voix
+silent;silencieux
+silence;le silence
+noise;un bruit
+noisy;bruillant
+noiseless;sans bruit, silencieux
+audible;audible, perceptible
+muffled;étouffé (son)
+loud;fort, sonore
+dull;un bruit sourd
+deafening;assourdissant
+a smell, an odour;une odeur
+to smell nasty;sentir mauvais
+to stink;puer
+scentless;inodore
+to sniff;renifler
+a sniffer-dog;un chien renifleur
+to taste;goûter, déguster
+a flavour;une saveur, un arôme
+bitter;amer
+sweet;doux, sucré
+tasteless;insipide
+to taste nice/nasty;avoir bon/mauvais goût
+to taste of sth;avoir le goût de qqch
+to spit out sth;cracher, recracher qqch
+touch;le toucher
+to feel rough;être rugueux au toucher
+smooth;lisse
+speech;la parole
+to be speechless;rester sans voix
+to utter words, sounds;prononcer des paroles, émettre des sons
+dumb;muet
+deaf-and-dumb;sourd-muet
+mute;muet, non prononcé
+to pronounce;prononcer
+to stress;accentuer
+stress;l'accent tonique
+to speak with a foreign accent;parler avec un accent étranger
+a howl;un hurlement
+a whisper;un murmure
+to whisper;murmurer
+to speak up;élever la voix
+to mumble;marmonner
+to stammer;bredouiller
+to cry out;crier, s'écrier
+to shout;crier
+to scream;pousser des cris perçants
+to yell;s'enrouer à force de crier
+to cheer so;acclamer qqn
+to boo so;huer qqn
+to hiss so;siffler qqn
+to make a speech;faire un discours
+talkative;bavard
+to chat, to have a chat with so;causer, bavarder
+to chatter, to gossip;papoter
+to hush;faire taire, se taire
+gossip;commérages
+a gossip;une commère
+talks;des entretiens, des pourparlers

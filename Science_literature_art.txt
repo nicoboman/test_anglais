@@ -1,182 +1,182 @@
-a composeur; un compositeur
-the film'll be released next week; le film sortira la semaine prochaine
-the film features Hugh Grant; Hugh Grant joue dans le film
-the film is a crap (fam.); le film est merdique
-to compose; composer
-to doodle;	griffonner
-a fresco; une fresque
-a blockbuster; un gros succès
-the director/directed by;	le metteur en sène/mis en sène par
-in the original language with subtitles; en VO sous-titrée
-to hang up; raccrocher
-who's speaking?; qui est à l'appareil?
-an angle;	un angle
-a surface;	une surface
-a volume;	un volume
-straight;	droit, rectiligne
-curved;	courbe
-acute	;aigu
-obtuse;	obtus
+a composeur;un compositeur
+the film'll be released next week;le film sortira la semaine prochaine
+the film features Hugh Grant;Hugh Grant joue dans le film
+the film is a crap (fam.);le film est merdique
+to compose;composer
+to doodle;griffonner
+a fresco;une fresque
+a blockbuster;un gros succès
+the director/directed by;le metteur en sène/mis en sène par
+in the original language with subtitles;en VO sous-titrée
+to hang up;raccrocher
+who's speaking?;qui est à l'appareil?
+an angle;un angle
+a surface;une surface
+a volume;un volume
+straight;droit, rectiligne
+curved;courbe
+acute;aigu
+obtuse;obtus
 a triangle;un triangle
-a square	;un carré
-a rectangle	;un rectangle
-a circle;	un cercle
-a cube;	un cube
-a sphere;	une sphere
-physics	;la physique
-chemistry	;la chimie
-biology	;la biologie
-to carry out an experiment;	faire une expérience
-a test-tube	;une éprouvette
-a magnet;	un aimant
-to magnetize	;aimanter
-a lens	;une lentille
-to magnify;	grossir
-a unit;	une unité
-an ounce;	une once (28,35g)
-a pound	;une livre (453,60g)
-a stone	;6,348kg
-a ton	;une tonne
-to weigh;	peser
-to sell by weight;	vendre au poids
-heavy	;lourd
-light;	léger
-length;	longueur
-a rule;	une règle graduée
-to measure;	mesurer
-short	;court
-long;	long
-high;	haut, élevé
-deep;	profond
-depth	;la profondeur
-wide, broad	;large
-width, breadth;	la largeur
-size;	la taille
-tall;	de grande taille
+a square;un carré
+a rectangle;un rectangle
+a circle;un cercle
+a cube;un cube
+a sphere;une sphere
+physics;la physique
+chemistry;la chimie
+biology;la biologie
+to carry out an experiment;faire une expérience
+a test-tube;une éprouvette
+a magnet;un aimant
+to magnetize;aimanter
+a lens;une lentille
+to magnify;grossir
+a unit;une unité
+an ounce;une once (28,35g)
+a pound;une livre (453,60g)
+a stone;6,348kg
+a ton;une tonne
+to weigh;peser
+to sell by weight;vendre au poids
+heavy;lourd
+light;léger
+length;longueur
+a rule;une règle graduée
+to measure;mesurer
+short;court
+long;long
+high;haut, élevé
+deep;profond
+depth;la profondeur
+wide, broad;large
+width, breadth;la largeur
+size;la taille
+tall;de grande taille
 low;bas
-shallow;	peu profond
-narrow;	étroit
-thick;	épais
-thin;	mince
-the metric system;	le système métrique
-literature;	la littérature
-a poem, a piece of poetry	;un poème
-to rhyme [aï]	;rimer
-a line;	un vers
-poetry;	la poésie
-a poet;	un poète
-epic;	épique
-lyrical;	lyrique
-an epic	;une épopée
-an author;	un auteur
-a play	;une pièce de théâtre
-a playwright;	un auteur dramatique
-a comedy;	une comédie
-a tragedy	;une tragédie
-a drama	;un drame
-the plot;	l'intrigue
-an act;	un acte
-a soliloquy;	un monologue
-to quote;	citer
-history	;l'histoire
-a sovereign	;un souverain
-a statesman	;un homme d'état
-a warrior;	un guerrier
-climax;	l'apogée
-decay	;le déclin
-downfall;	la chute
-a riot;	une émeute
-a rebellion;	une révolte
-a plot;	un complot
-the Middle Ages	;le Moyen Age
-a crusade	;une croisade
-a tournament;	un tournoi
-a knight;	un chevalier
-a coat of mail;	une cotte de mailles
-chivalry;	la chevalerie
-medieval;	moyenâgeux
-a castle;	un châteu fort
-a tower	;une tour
-the keep;	le donjon
-the battlements	;les créneaux
-a drawbridge;	un pont-levis
-an artist	;un artiste
-to paint;	peindre
-a painting;	une peinture
-a painter	;un peintre
-a masterpiece	;un chef-d'oeuvre
-a museum	;un musée
-a gallery	;une galerie
-oil painting;	la peinture à l'huile
-watercolour	;l'aquarelle
-abstract;	abstrait
-figurative;	figuratif
-a canvas;	une toile
-an easel	;un chevalet
-to mix colours;	mélanger des couleurs
-a brush	;un pinceau
-a hue, a tint	;une teinte, une nuance
-to suit so's taste;	plaire à qqn
-a portrait;	un portrait
-to sit for so;	poser pour qqn
-the sitter;	le modèle
-a still-life;	une nature morte
-the foreground;	le premier plan
-the background;	l'arrière-plan
-a drawing	;un dessin
-to draw	;dessiner
-a sketch;	une esquisse
-an outline;	un contour
-light and shade	;le clair obscur
-an engraving;	une gravure
-an etching;	une eau-forte
-a sculptor;	un sculpteur
-a chisel;	un ciseau
-marble;	le marbre
-clay	;l'argile
-bronze	;le bronze
-a mould	;un moule
-to erect, to set up;	ériger
-plastics;	les matières plastiques
-rough wood	;le bois brut
-a musician;	un musicien
-to practise	;s'exercer
-to play scales;	faire des gammes
-to play in tune	;jouer juste
-out of tune;	faux
-to tune	;accorder
-a note;	une note
-a key	;une touche
-the keyboard;	le clavier
-the harpsichord;	le clavecin
-to pluck;	pincer les cordes
-the movie is subtitled; le film est sous-titré
-to strike	;frapper, toucher les touches
-a composer;	un compositeur
-the conductor	;le chef d'orchestre
-to keep time;	suivre la cadence, être en mesure
-to beat time;	battre la mesure
-a chord	;un accord
-the strings;	les cordes
-a cello	;un violoncelle
-the brass	;les cuivres
-the wind instruments;	les instruments à vent
-a flute	;une flûte
-a clarinet;	une clarinette
-an oboe	;un hautbois
-a trumpet	;une trompette
-a trombone;	un trombone
-a horn (to sound the horn);	un cor	
-a drum;	un tambour
-kettle-drums;	les timbales
-cymbals	;des cymbales
-the bagpipe(s);	la cornemuse
-a big drum;	la grosse caisse
-a jazz-band;	un orchestre de jazz
-buskers;	les musiciens des rues
-singing;	le chant
-a choir	;un choeur, une chorale
-lyrics;	les paroles
-a tune;	un air
-folk music;	la musique folklorique, populaire
-a protest song;	une chanson contestataire
+shallow;peu profond
+narrow;étroit
+thick;épais
+thin;mince
+the metric system;le système métrique
+literature;la littérature
+a poem, a piece of poetry;un poème
+to rhyme [aï];rimer
+a line;un vers
+poetry;la poésie
+a poet;un poète
+epic;épique
+lyrical;lyrique
+an epic;une épopée
+an author;un auteur
+a play;une pièce de théâtre
+a playwright;un auteur dramatique
+a comedy;une comédie
+a tragedy;une tragédie
+a drama;un drame
+the plot;l'intrigue
+an act;un acte
+a soliloquy;un monologue
+to quote;citer
+history;l'histoire
+a sovereign;un souverain
+a statesman;un homme d'état
+a warrior;un guerrier
+climax;l'apogée
+decay;le déclin
+downfall;la chute
+a riot;une émeute
+a rebellion;une révolte
+a plot;un complot
+the Middle Ages;le Moyen Age
+a crusade;une croisade
+a tournament;un tournoi
+a knight;un chevalier
+a coat of mail;une cotte de mailles
+chivalry;la chevalerie
+medieval;moyenâgeux
+a castle;un châteu fort
+a tower;une tour
+the keep;le donjon
+the battlements;les créneaux
+a drawbridge;un pont-levis
+an artist;un artiste
+to paint;peindre
+a painting;une peinture
+a painter;un peintre
+a masterpiece;un chef-d'oeuvre
+a museum;un musée
+a gallery;une galerie
+oil painting;la peinture à l'huile
+watercolour;l'aquarelle
+abstract;abstrait
+figurative;figuratif
+a canvas;une toile
+an easel;un chevalet
+to mix colours;mélanger des couleurs
+a brush;un pinceau
+a hue, a tint;une teinte, une nuance
+to suit so's taste;plaire à qqn
+a portrait;un portrait
+to sit for so;poser pour qqn
+the sitter;le modèle
+a still-life;une nature morte
+the foreground;le premier plan
+the background;l'arrière-plan
+a drawing;un dessin
+to draw;dessiner
+a sketch;une esquisse
+an outline;un contour
+light and shade;le clair obscur
+an engraving;une gravure
+an etching;une eau-forte
+a sculptor;un sculpteur
+a chisel;un ciseau
+marble;le marbre
+clay;l'argile
+bronze;le bronze
+a mould;un moule
+to erect, to set up;ériger
+plastics;les matières plastiques
+rough wood;le bois brut
+a musician;un musicien
+to practise;s'exercer
+to play scales;faire des gammes
+to play in tune;jouer juste
+out of tune;faux
+to tune;accorder
+a note;une note
+a key;une touche
+the keyboard;le clavier
+the harpsichord;le clavecin
+to pluck;pincer les cordes
+the movie is subtitled;le film est sous-titré
+to strike;frapper, toucher les touches
+a composer;un compositeur
+the conductor;le chef d'orchestre
+to keep time;suivre la cadence, être en mesure
+to beat time;battre la mesure
+a chord;un accord
+the strings;les cordes
+a cello;un violoncelle
+the brass;les cuivres
+the wind instruments;les instruments à vent
+a flute;une flûte
+a clarinet;une clarinette
+an oboe;un hautbois
+a trumpet;une trompette
+a trombone;un trombone
+a horn (to sound the horn);un cor	
+a drum;un tambour
+kettle-drums;les timbales
+cymbals;des cymbales
+the bagpipe(s);la cornemuse
+a big drum;la grosse caisse
+a jazz-band;un orchestre de jazz
+buskers;les musiciens des rues
+singing;le chant
+a choir;un choeur, une chorale
+lyrics;les paroles
+a tune;un air
+folk music;la musique folklorique, populaire
+a protest song;une chanson contestataire

@@ -19,8 +19,8 @@ half an hour;une demi-heure
 my watch is (five minutes) fast;ma montre avance (de cinq minutes)
 my watch is (five minutes) slow;ma montre retarde (de cinq minutes)
 better late than never;mieux vaut tard que jamais
-now and then; de temps en temps
-from time to time; de temps en temps
+now and then;de temps en temps
+from time to time;de temps en temps
 to take place;avoir lieu
 formerly;autrefois
 to pass, to elapse;passer, s'écouler

@@ -1,193 +1,193 @@
-to travel ; voyager 
-the plane is DUE to take off at 6am;	l'avion décolle à 6h
-handbrake / footbrake; frein à main / pédale de frein
-to take three days off; prendre 3 jours de congés
-to make a long week-end of it; faire le pont
-to go on a package tour; faire un voyage organisé
-to go back-packing; voyager sac à dos
-next tuesday is public holiday; c'est férié mardi prochain
-a leaflet; un dépliant
-the butler; le maître d'hôtel
-ashtray;	cendrier
-dashboard;	tableau de bord
-to set out;	partir en voyage
-in the peak season / off season; en pleine saison / saison creuse
-to check-in/check-out; arriver à l'hôtel/quitter l'hôtel
-to pay the bill; payer l'addition
-is breakfast included?; le petit déjeuner est-il compris?
-a four-by-four; un 4x4
-the exhaust pipe; le pot d'échappement
-the ignition key; la clé de contact
-to change the oil; faire la vidange
-Fill her up, please (familier); Faites le plein svp
-to turn on the headlights; allumer les phares
-to flash one's headlights; faire des appels de phare
-the speedometer; le compteur de vitesse
-the horn; le klaxon
-to hoot; klaxonner
-to go on a journey ; partir en voyage 
-the route ; l'itinéraire 
-to set out, to start ; se mettre en route 
-to pack one's bags ; faire ses bagages 
-to unpack ; défaire ses bagages 
-a suitcase ; une valise 
-a rucksack ; un sac à dos 
-to travel ligth ; voyager avec peu de bagages
-headphones (cf. I'm from Barcelona: "I put my headphones on."); un casque auditif (cf. I'm from Barcelona: "I put my headphones on.")
-to go on foot ; aller à pied 
-to hitch-hike ; faire de l'auto-stop 
-hiking ; les randonnées à pied 
-to give so a lift ; prendre qqn en stop
-jet-lag;	décalage horaire 
-mileage;	le kilométrage (d'une voiture)
-to go for a walk ; faire une promenade 
-cycling ; le cyclisme, le vélo 
-a youth hostel ; une auberge de jeunesse 
-the frame ; le cadre 
-the handlebar ; le guidon 
-to steer ; diriger 
-the front wheel ; la roue avant 
-the back wheel ; la roue arrière 
-spokes ; les rayons 
-a tyre ; un pneu 
-a puncture, a flat ; une crevaison 
-a patch ; une rustine 
-the pedals ; les pédales 
-the chain ; la chaine 
-the brakes ; les freins 
-the saddle ; la selle 
-a safety helmet ; un casque 
-goggles and gloves ; des lunttes et des gants 
-hazardous, dangerous ; dangereux 
-eventful ; mouvementé 
-thrilling ; passionant 
-the coachman ; le cocher 
-to crack one's whip ; faire claquer son fouet 
-to sound the horn ; sonner du cor 
-to pull up (cf. Lana Del Rey: "Pull up your fast car"); s'arrêter (cf. Lana Del Rey: "Pull up your fast car")
-to call at ; faire escale (calling at Emersfeld) 
-the inn ; l'auberge 
-the innkeeper ; l'aubergiste 
-a sign ; une enseigne 
-accomodation ; logement 
-reliable, trustworthy ; sûr, digne de confiance 
-safe ; sûr, sans danger 
-unsafe ; peu sûr 
-a robbery ; un vol avec violence 
-to rob so of shtg ; dérober qqch à qqn 
-to steal sthg ; voler qqch 
-a purse ; une bourse 
-to set spurs ; donner de l'éperon 
-to gallop ; galoper 
-to ply between ; assurer la liaison entre 
-a driving licence ; un permis de conduire 
-used, second-hand car ; une voiture d'occasion 
-roadholding ; la tenue de route 
-petrol consumption ; la consommation d'essence 
-adjustable seats ; des sièges réglables 
-electric wind-down windows ; des vitres électriques automatiques 
-maintenance costs ; les frais d'entretien 
-a motorist ; un automobiliste 
-the tank ; le réservoir 
-the headlights ; les phares 
-the engine ; le moteur 
-a safety belt ; une ceinture de sécurité 
-the death toll ; le chiffre des morts 
-road casualties ; les victimes de la route 
-road hazards ; les dangers de la route 
-accident spots ; les points noirs 
-the body ; la carrosserie 
-a door ; une portière 
-the windscreen ; le pare-brise 
-bumpers ; Pare-choc 
-the shock-absorbers ; les amortisseurs 
-the spare wheel  ; la roue de secours 
-an estate car ; un break 
-a convertible ; un cabriolet 
-the clutch ; l'embrayage 
-to shift into reverse gear ; passer la marche arrière 
-the gear-lever ; le levier de vitesse 
-the accelerator ; l'accélérateur 
-the steering wheel ; le volant 
-indicators, winkers ; les clignotants 
-a breakdown ; une panne 
-a bypass ; une déviation 
-a ring road ; une rocade 
-a car park ; un parking 
-a multi-storey car park ; un parking à étages 
-the highway code, rule of the road ; le code de la route 
-the speed limit ; la vitesse limite 
-to keep to the left ; garder sa gauche 
-a breakdown ; une panne 
-a built-up area ; une agglomération 
-roadsigns ; la signalisation 
-a crossroad ; un carrefour 
-a one-way street ; une rue à sens unique 
-a hairpin bend ; un virage en épingle à cheveux 
-right-of-way ; la priorité 
-reckless ; imprudent 
-to overtake ; doubler, dépasser 
-slippery ; glissant 
-to skid ; déraper 
-to smash, to crash ; s'écraser 
-tiring ; fatigant 
-restful ; reposant 
-a viaduct ; un viaduct 
-the track ; la voie de chemin de fer 
-a passenger train ; un train de passagers 
-a goods train ; un train de marchandises 
-a steam train ; un train à vapeur 
-the stoker ; le chauffeur de train 
-the inspector ; le contrôleur de train 
-a through train ; un train direct 
-to leave the track ; dérailler 
-the points ; l'aiguillage 
-to collide with ; tamponner 
-to slow down ; ralentir 
-to see so off (at the station) ; accompagner qqn (à la gare) 
-to miss the train ; manquer le train 
-to pack up ; faire ses bagages 
-to unpack ; défaire ses bagages 
-to label ; étiquetter 
-a single ticket ; un aller simple 
-a return ticket ; un aller retour 
-the bookstall ; le kiosque à journaux 
-to punch a ticket ; poiçonner un ticket 
-the platform (to platform : accès aux quais) ; le quai (to platform : accès aux quais) 
-the train is due at 6 ; le train est attendu à 6 heures 
-to pull in ; entrer en gare 
-to come to a standstill ; s'immobiliser 
-crowded ; bondé 
-to book ; réserver 
-you are off ; vous, voilà parti(s) 
-the station master blows his whistle ; le chef de gare siffle 
-to moor ; amarrer 
-a wharf, a quay ; un quai 
-a harbour, a port ; un port 
-the gangway ; la passerelle 
-to ply (between) ; faire la navette (entre) 
-a rug ; une couverture de voyage 
-to pitch ; tanguer 
-to roll ; rouler 
-to be seasick ; avoir le mal de mer 
-a hovercraft ; un aéroglisseur 
-a liner ; un transatlantique 
-to go through the customs ; passer à la douane 
-an aircraft ; un avion (l'appareil) 
-to hijack ; détourner 
-the crew ; l'équipage 
-the cocpit ; le poste de pilotage 
-the air hostess ; l'hôtesse de l'air 
-the wireless operator ; le radio 
-the rudders ; les gouvernes 
-a four-engined plane ; un quadrimoteur 
-cruising speed ; vitesse de croisière 
-a propeller ; une hélice 
-the airport ; l'aéroport 
-the runway ; la piste 
-to land ; atterrir 
-to take off ; décoller 
-a seaplane ; un hydravion 
-blind flying ; le pilotage sans visibilité 
-operating costs ; les frais d'exploitation 
-the maiden flight ; le premier vol 
+to travel;voyager 
+the plane is DUE to take off at 6am;l'avion décolle à 6h
+handbrake / footbrake;frein à main / pédale de frein
+to take three days off;prendre 3 jours de congés
+to make a long week-end of it;faire le pont
+to go on a package tour;faire un voyage organisé
+to go back-packing;voyager sac à dos
+next tuesday is public holiday;c'est férié mardi prochain
+a leaflet;un dépliant
+the butler;le maître d'hôtel
+ashtray;cendrier
+dashboard;tableau de bord
+to set out;partir en voyage
+in the peak season / off season;en pleine saison / saison creuse
+to check-in/check-out;arriver à l'hôtel/quitter l'hôtel
+to pay the bill;payer l'addition
+is breakfast included?;le petit déjeuner est-il compris?
+a four-by-four;un 4x4
+the exhaust pipe;le pot d'échappement
+the ignition key;la clé de contact
+to change the oil;faire la vidange
+Fill her up, please (familier);Faites le plein svp
+to turn on the headlights;allumer les phares
+to flash one's headlights;faire des appels de phare
+the speedometer;le compteur de vitesse
+the horn;le klaxon
+to hoot;klaxonner
+to go on a journey;partir en voyage 
+the route;l'itinéraire 
+to set out, to start;se mettre en route 
+to pack one's bags;faire ses bagages 
+to unpack;défaire ses bagages 
+a suitcase;une valise 
+a rucksack;un sac à dos 
+to travel ligth;voyager avec peu de bagages
+headphones (cf. I'm from Barcelona: "I put my headphones on.");un casque auditif (cf. I'm from Barcelona: "I put my headphones on.")
+to go on foot;aller à pied 
+to hitch-hike;faire de l'auto-stop 
+hiking;les randonnées à pied 
+to give so a lift;prendre qqn en stop
+jet-lag;décalage horaire 
+mileage;le kilométrage (d'une voiture)
+to go for a walk;faire une promenade 
+cycling;le cyclisme, le vélo 
+a youth hostel;une auberge de jeunesse 
+the frame;le cadre 
+the handlebar;le guidon 
+to steer;diriger 
+the front wheel;la roue avant 
+the back wheel;la roue arrière 
+spokes;les rayons 
+a tyre;un pneu 
+a puncture, a flat;une crevaison 
+a patch;une rustine 
+the pedals;les pédales 
+the chain;la chaine 
+the brakes;les freins 
+the saddle;la selle 
+a safety helmet;un casque 
+goggles and gloves;des lunttes et des gants 
+hazardous, dangerous;dangereux 
+eventful;mouvementé 
+thrilling;passionant 
+the coachman;le cocher 
+to crack one's whip;faire claquer son fouet 
+to sound the horn;sonner du cor 
+to pull up (cf. Lana Del Rey: "Pull up your fast car");s'arrêter (cf. Lana Del Rey: "Pull up your fast car")
+to call at;faire escale (calling at Emersfeld) 
+the inn;l'auberge 
+the innkeeper;l'aubergiste 
+a sign;une enseigne 
+accomodation;logement 
+reliable, trustworthy;sûr, digne de confiance 
+safe;sûr, sans danger 
+unsafe;peu sûr 
+a robbery;un vol avec violence 
+to rob so of shtg;dérober qqch à qqn 
+to steal sthg;voler qqch 
+a purse;une bourse 
+to set spurs;donner de l'éperon 
+to gallop;galoper 
+to ply between;assurer la liaison entre 
+a driving licence;un permis de conduire 
+used, second-hand car;une voiture d'occasion 
+roadholding;la tenue de route 
+petrol consumption;la consommation d'essence 
+adjustable seats;des sièges réglables 
+electric wind-down windows;des vitres électriques automatiques 
+maintenance costs;les frais d'entretien 
+a motorist;un automobiliste 
+the tank;le réservoir 
+the headlights;les phares 
+the engine;le moteur 
+a safety belt;une ceinture de sécurité 
+the death toll;le chiffre des morts 
+road casualties;les victimes de la route 
+road hazards;les dangers de la route 
+accident spots;les points noirs 
+the body;la carrosserie 
+a door;une portière 
+the windscreen;le pare-brise 
+bumpers;Pare-choc 
+the shock-absorbers;les amortisseurs 
+the spare wheel;la roue de secours 
+an estate car;un break 
+a convertible;un cabriolet 
+the clutch;l'embrayage 
+to shift into reverse gear;passer la marche arrière 
+the gear-lever;le levier de vitesse 
+the accelerator;l'accélérateur 
+the steering wheel;le volant 
+indicators, winkers;les clignotants 
+a breakdown;une panne 
+a bypass;une déviation 
+a ring road;une rocade 
+a car park;un parking 
+a multi-storey car park;un parking à étages 
+the highway code, rule of the road;le code de la route 
+the speed limit;la vitesse limite 
+to keep to the left;garder sa gauche 
+a breakdown;une panne 
+a built-up area;une agglomération 
+roadsigns;la signalisation 
+a crossroad;un carrefour 
+a one-way street;une rue à sens unique 
+a hairpin bend;un virage en épingle à cheveux 
+right-of-way;la priorité 
+reckless;imprudent 
+to overtake;doubler, dépasser 
+slippery;glissant 
+to skid;déraper 
+to smash, to crash;s'écraser 
+tiring;fatigant 
+restful;reposant 
+a viaduct;un viaduct 
+the track;la voie de chemin de fer 
+a passenger train;un train de passagers 
+a goods train;un train de marchandises 
+a steam train;un train à vapeur 
+the stoker;le chauffeur de train 
+the inspector;le contrôleur de train 
+a through train;un train direct 
+to leave the track;dérailler 
+the points;l'aiguillage 
+to collide with;tamponner 
+to slow down;ralentir 
+to see so off (at the station);accompagner qqn (à la gare) 
+to miss the train;manquer le train 
+to pack up;faire ses bagages 
+to unpack;défaire ses bagages 
+to label;étiquetter 
+a single ticket;un aller simple 
+a return ticket;un aller retour 
+the bookstall;le kiosque à journaux 
+to punch a ticket;poiçonner un ticket 
+the platform (to platform : accès aux quais);le quai (to platform : accès aux quais) 
+the train is due at 6;le train est attendu à 6 heures 
+to pull in;entrer en gare 
+to come to a standstill;s'immobiliser 
+crowded;bondé 
+to book;réserver 
+you are off;vous, voilà parti(s) 
+the station master blows his whistle;le chef de gare siffle 
+to moor;amarrer 
+a wharf, a quay;un quai 
+a harbour, a port;un port 
+the gangway;la passerelle 
+to ply (between);faire la navette (entre) 
+a rug;une couverture de voyage 
+to pitch;tanguer 
+to roll;rouler 
+to be seasick;avoir le mal de mer 
+a hovercraft;un aéroglisseur 
+a liner;un transatlantique 
+to go through the customs;passer à la douane 
+an aircraft;un avion (l'appareil) 
+to hijack;détourner 
+the crew;l'équipage 
+the cocpit;le poste de pilotage 
+the air hostess;l'hôtesse de l'air 
+the wireless operator;le radio 
+the rudders;les gouvernes 
+a four-engined plane;un quadrimoteur 
+cruising speed;vitesse de croisière 
+a propeller;une hélice 
+the airport;l'aéroport 
+the runway;la piste 
+to land;atterrir 
+to take off;décoller 
+a seaplane;un hydravion 
+blind flying;le pilotage sans visibilité 
+operating costs;les frais d'exploitation 
+the maiden flight;le premier vol 

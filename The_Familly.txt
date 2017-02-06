@@ -1,123 +1,123 @@
-the household	;la maisonnée
-to have a miscarriage;	faire une fausse-couche
-to dump somebody; larguer quelqu'un
-it was love at first sight; ce fut le coup de foudre
-to cheat on one's wife; tromper sa femme
-birth control; le contrôle des naissances
-a newborn; un nouveau-né
-to breastfeed a baby; allaiter un bébé
-chap;	copain (familier), "old chap"
-to have an abortion; se faire avorter
-hes baby is due next month; elle doit accoucher le mois prochain
-the elderly; les personnes âgées
-to get old; vieillir
-when you are my age...; quand tu auras mon âge
-the offspring; la progéniture
-namesake; homonyme
-large	;nombreux
-grandparents;	les grands-parents
-to do one's family tree;	faire son arbre généalogique 
-an uncle;	un oncle
-an aunt;	une tante
-family gatherings;	les réunions de famille
-a relation, a relative	;un "parent", qqn de lien de sang
-a nephew	;un neveu
-a first cousin;	un cousin germain
-a niece	;une nièce
-to propose to so;	demander qqn en mariage
-upbringing;	l'éducation d'un enfant
-the husband	;l'époux, le mari
-the wife, wives;	la femme, l'épouse
-to woo;	draguer, courtiser
-the father-in-law;	le beau-père
-the mother-in-law	;la belle-mère
-the in-laws;	les beaux parents
-hen night; enterrement de vie de jeune fille
-stag night; enterrement de vie de garçon
-a daughter;	une fille
-the stepfather;	le beau-père (second mariage)
-an orphan	;un orphelin
-a guardian;	un tuteur
-life expectation;	l'espérance de vie
-a widower;	un veuf
-a widow;	une veuve
-a bachelor;	un célibataire
-a housewife	;une femme au foyer
-older	;le plus âgé
-the elder	;l'aîné (de 2 enfants)
-the eldest	;l'aîné (de plus de 2 enfants)
-twins	;jumeaux, jumelles
-a push chair;	une poussette
-to attend to sthg	;vaquer à qqch
-to look after so;	veiller sur qqn
-to see to;	s'occuper de (can you see to the plumber's bill?)
-to bring up a child	;élever un enfant
-upbringing;	l'éducation
-well-bred, well-behaved	;bien élevé
-ill-bred, ill-mannered;	mal élevé
-kind;	bon, aimable
-lenient	;indulgent
-to spoil;	gâter
-severe;	sevère
-harsh;	dur, cruel
-to punish	;punir
-to punish;	punir
-obedient;	obéissant
-to obey so;	obéir à qqn
-quiet;	tranquille, doux
-naughty	;méchant, vilain
-rude	;grossier, impoli
-disobedient;	désobéissant
-to disobey so / an order;	désobéir à qqn, à un ordre
-the housekeeper;	l'intendant
-to give notice;	donner congés
-dishonest;	malhonnête
-unfaithful;	infidèle
-outgoing;	ouvert, extraverti
-an acquaintance	;une connaissance
-a casual acquaintance;	une vague connaissance
-to take a fancy to so	;se prendre d'affection pour qqn
-to be on friendly terms with so;	être en bons termes avec qqn
-to welcome so	;souhaiter la bienvenue à qqn
-a warm welcome	;un acceuil chaleureux
-to greet so	;accueillir qqn
-to introduce to so;	présenter à qqn
-to bow to so	;saluer en s'inclinant
-formal;	attaché au bienséances
-informal;	simple, sans cérémonie
-to stand on ceremony;	faire des cérémonies, des façons
-to hug so;	serrer qqn dans ses bras
-to give so a hug;	étreindre qqn
-birth;	la naissance
-to expect a baby;	attendre un enfant
-to be pregnant;	être enceinte
-a surrogate mother;	une mère porteuse
-to have a baby;	avoir un enfant
-pregnancy	;la grossesse
-surname, last name;	nom de famille
-to christen, to baptize;	baptiser
-a christening; un baptême
-to stand godfather, godmother ;	être parrain, marraine de
-the godchild	;le filleul, la filleule
-a nickname	;un surnom
-to propose to so;	demander qqn en mariage
-to court, to woo;	courtiser, draguer qqn
-to become engaged;	se fiancer
-the fiancé(e);	le (la) fiancé(e)
-marriage;	le mariage
-the wedding	;le mariage
-to marry so	;épouser qqn
-the bride-to-be;	la future mariée
-bridesmaids	;les demoiselles d'honneur
-a wedding-ring;	une alliance
-the bride	;la jeune mariée
-the bride-groom	;le jeune marié
-honeymoon	;la lune de miel
-to divorce so	;divocer d'avec qqn
-to get divorced	;divorcer
-to go into mourning	;prendre le deuil
-Like father, like son	;Tel père, tel fils.
-Marry in haste, repent at leisure;	Qui se marie à la hâte, se repent à loisir.
-Spare the road and spoil the child;	Qui aime bien châtie bien.
-A friend in need is a friend indeed;	Un ami dans le besoin est un vrai ami.
-The more, the merrier;	Plus on est de fous, plus on rit.
+the household;la maisonnée
+to have a miscarriage;faire une fausse-couche
+to dump somebody;larguer quelqu'un
+it was love at first sight;ce fut le coup de foudre
+to cheat on one's wife;tromper sa femme
+birth control;le contrôle des naissances
+a newborn;un nouveau-né
+to breastfeed a baby;allaiter un bébé
+chap;copain (familier), "old chap"
+to have an abortion;se faire avorter
+hes baby is due next month;elle doit accoucher le mois prochain
+the elderly;les personnes âgées
+to get old;vieillir
+when you are my age...;quand tu auras mon âge
+the offspring;la progéniture
+namesake;homonyme
+large;nombreux
+grandparents;les grands-parents
+to do one's family tree;faire son arbre généalogique 
+an uncle;un oncle
+an aunt;une tante
+family gatherings;les réunions de famille
+a relation, a relative;un "parent", qqn de lien de sang
+a nephew;un neveu
+a first cousin;un cousin germain
+a niece;une nièce
+to propose to so;demander qqn en mariage
+upbringing;l'éducation d'un enfant
+the husband;l'époux, le mari
+the wife, wives;la femme, l'épouse
+to woo;draguer, courtiser
+the father-in-law;le beau-père
+the mother-in-law;la belle-mère
+the in-laws;les beaux parents
+hen night;enterrement de vie de jeune fille
+stag night;enterrement de vie de garçon
+a daughter;une fille
+the stepfather;le beau-père (second mariage)
+an orphan;un orphelin
+a guardian;un tuteur
+life expectation;l'espérance de vie
+a widower;un veuf
+a widow;une veuve
+a bachelor;un célibataire
+a housewife;une femme au foyer
+older;le plus âgé
+the elder;l'aîné (de 2 enfants)
+the eldest;l'aîné (de plus de 2 enfants)
+twins;jumeaux, jumelles
+a push chair;une poussette
+to attend to sthg;vaquer à qqch
+to look after so;veiller sur qqn
+to see to;s'occuper de (can you see to the plumber's bill?)
+to bring up a child;élever un enfant
+upbringing;l'éducation
+well-bred, well-behaved;bien élevé
+ill-bred, ill-mannered;mal élevé
+kind;bon, aimable
+lenient;indulgent
+to spoil;gâter
+severe;sevère
+harsh;dur, cruel
+to punish;punir
+to punish;punir
+obedient;obéissant
+to obey so;obéir à qqn
+quiet;tranquille, doux
+naughty;méchant, vilain
+rude;grossier, impoli
+disobedient;désobéissant
+to disobey so / an order;désobéir à qqn, à un ordre
+the housekeeper;l'intendant
+to give notice;donner congés
+dishonest;malhonnête
+unfaithful;infidèle
+outgoing;ouvert, extraverti
+an acquaintance;une connaissance
+a casual acquaintance;une vague connaissance
+to take a fancy to so;se prendre d'affection pour qqn
+to be on friendly terms with so;être en bons termes avec qqn
+to welcome so;souhaiter la bienvenue à qqn
+a warm welcome;un acceuil chaleureux
+to greet so;accueillir qqn
+to introduce to so;présenter à qqn
+to bow to so;saluer en s'inclinant
+formal;attaché au bienséances
+informal;simple, sans cérémonie
+to stand on ceremony;faire des cérémonies, des façons
+to hug so;serrer qqn dans ses bras
+to give so a hug;étreindre qqn
+birth;la naissance
+to expect a baby;attendre un enfant
+to be pregnant;être enceinte
+a surrogate mother;une mère porteuse
+to have a baby;avoir un enfant
+pregnancy;la grossesse
+surname, last name;nom de famille
+to christen, to baptize;baptiser
+a christening;un baptême
+to stand godfather, godmother;être parrain, marraine de
+the godchild;le filleul, la filleule
+a nickname;un surnom
+to propose to so;demander qqn en mariage
+to court, to woo;courtiser, draguer qqn
+to become engaged;se fiancer
+the fiancé(e);le (la) fiancé(e)
+marriage;le mariage
+the wedding;le mariage
+to marry so;épouser qqn
+the bride-to-be;la future mariée
+bridesmaids;les demoiselles d'honneur
+a wedding-ring;une alliance
+the bride;la jeune mariée
+the bride-groom;le jeune marié
+honeymoon;la lune de miel
+to divorce so;divocer d'avec qqn
+to get divorced;divorcer
+to go into mourning;prendre le deuil
+Like father, like son;Tel père, tel fils.
+Marry in haste, repent at leisure;Qui se marie à la hâte, se repent à loisir.
+Spare the road and spoil the child;Qui aime bien châtie bien.
+A friend in need is a friend indeed;Un ami dans le besoin est un vrai ami.
+The more, the merrier;Plus on est de fous, plus on rit.

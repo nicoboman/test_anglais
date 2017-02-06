@@ -1,89 +1,89 @@
-the country ;	la campagne
-hamlet;	hameau
-village;	village
-countryside	;la campagne(en particulier, le cadre de vie)
-picturesque;	pittoresque
-lovely	;charmant
-deserted;	abandonné
-industrious (paintaking);	travailleur
-quiet;	paisible
-plot	;lopin de terre
-thatch (stubble);	chaume
-a thatched cottage;	chaumière
-to stretch;	s'allonger
-secluded;	retiré, à l'écart
-a swarm of bees;	un essaim d'abeilles
-to cluster;	se regrouper
-to stroll; flâner, déambuler
-scattered	;disséminé, éparse
-parson;	le pasteur
-squire	;le châtelain
-the manor house	;le manoir
-the green	;la pelouse, le pré
-the meadow;	la prairie
-the village constable;	le garde-champêtre
-the churchyard;	le cimetière
-a grave	;une tombe
-the vault;	un coffre ("the vault of the Bellagio"), mais aussi le caveau
-a lane;	un chemin creux
-to wind[aï];	serpenter
-winding;	sinueux
-a hedge	;une haie
-a fence;	une clôture, une barrière
-a bend, a twist;	un tournant, un coude
-to rule	;gouverner
-landlord, landlady;	propriétaire
-tenant;	locataire
-estate;	domaine
-post office	;bureau de poste
-postmaster;	receveur
-postmistress;	receveuse
-schoolmaster;	instituteur
-schoolmistress;	institutrice
-inn	;auberge
-innkeeper	;aubergiste
-sign(-board);	enseigne
-village hall;	salle des fêtes
-a cart;	une charrette
-a shaft	;un brancard
-a puncture, a flat;	une crevaison
-inner tube;	chambre à air
-a wheel	;une roue
-the nave, the hub	;le moyeu
-a spoke	;un rayon
-the rim	;la jante
-the axle;	l'essieu
-the saddle;	le sellier
-a saddle;	une selle
-harness	;harnais
-a rein	;une rêne (pour le cheval)
-a bridle	;une bride
-to set spurs;	donner de l'éperon
-to harness;	atteler
-a tramp, a hobo (US);	un chemineau
-a gipsy;	un bohémien
-a vagrant;	un vagabond
-a cart-track	;un chemin charretier
-dusty	;poussiéreux
-muddy	;boueux
-a rut;	une ornière
-a pothole;	un nid de poule
-a puddle ;	une flaque d'eau
-to splash	;éclabousser
-to widen;	élargir
-uneven;	irrégulier
-even	;lisse, régulier
-the roadmender;	le cantonnier
-to maintain the roads;	entretenir les routes
-a ditch;	un fossé
-a bank;	un talus
-a short cut;	un raccourci
-a footpath;	un sentier
-the blacksmith;	le forgeron
-a hammer;	un marteau
-an anvil;	une enclume
-the forge;	la forge (l'appareillage)
-the smithy;	la forge (l'atelier)
-to shoe;	ferrer
+the country;la campagne
+hamlet;hameau
+village;village
+countryside;la campagne(en particulier, le cadre de vie)
+picturesque;pittoresque
+lovely;charmant
+deserted;abandonné
+industrious (paintaking);travailleur
+quiet;paisible
+plot;lopin de terre
+thatch (stubble);chaume
+a thatched cottage;chaumière
+to stretch;s'allonger
+secluded;retiré, à l'écart
+a swarm of bees;un essaim d'abeilles
+to cluster;se regrouper
+to stroll;flâner, déambuler
+scattered;disséminé, éparse
+parson;le pasteur
+squire;le châtelain
+the manor house;le manoir
+the green;la pelouse, le pré
+the meadow;la prairie
+the village constable;le garde-champêtre
+the churchyard;le cimetière
+a grave;une tombe
+the vault;un coffre ("the vault of the Bellagio"), mais aussi le caveau
+a lane;un chemin creux
+to wind[aï];serpenter
+winding;sinueux
+a hedge;une haie
+a fence;une clôture, une barrière
+a bend, a twist;un tournant, un coude
+to rule;gouverner
+landlord, landlady;propriétaire
+tenant;locataire
+estate;domaine
+post office;bureau de poste
+postmaster;receveur
+postmistress;receveuse
+schoolmaster;instituteur
+schoolmistress;institutrice
+inn;auberge
+innkeeper;aubergiste
+sign(-board);enseigne
+village hall;salle des fêtes
+a cart;une charrette
+a shaft;un brancard
+a puncture, a flat;une crevaison
+inner tube;chambre à air
+a wheel;une roue
+the nave, the hub;le moyeu
+a spoke;un rayon
+the rim;la jante
+the axle;l'essieu
+the saddle;le sellier
+a saddle;une selle
+harness;harnais
+a rein;une rêne (pour le cheval)
+a bridle;une bride
+to set spurs;donner de l'éperon
+to harness;atteler
+a tramp, a hobo (US);un chemineau
+a gipsy;un bohémien
+a vagrant;un vagabond
+a cart-track;un chemin charretier
+dusty;poussiéreux
+muddy;boueux
+a rut;une ornière
+a pothole;un nid de poule
+a puddle;une flaque d'eau
+to splash;éclabousser
+to widen;élargir
+uneven;irrégulier
+even;lisse, régulier
+the roadmender;le cantonnier
+to maintain the roads;entretenir les routes
+a ditch;un fossé
+a bank;un talus
+a short cut;un raccourci
+a footpath;un sentier
+the blacksmith;le forgeron
+a hammer;un marteau
+an anvil;une enclume
+the forge;la forge (l'appareillage)
+the smithy;la forge (l'atelier)
+to shoe;ferrer
 a horseshoe;un fer à cheval
-the hoof	;le sabot
+the hoof;le sabot

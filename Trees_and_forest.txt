@@ -1,102 +1,102 @@
-forest;	foret
-to plant a tree; planter un arbre
-to cut down a tree; abattre un arbre
-wood;	bois
-to_spread;	s_etaler
-woody;	boisé
-grove;	bosquet
-clump_of_trees;	bouquet_d_arbres
-outskirts;	lisiere
-clearing;	clairiere
-tree;	arbre
-trunk;	tronc
-bough;	rameau
-limb;	branche_maitresse
-branch;	branche
-twig;	brindille
-a vulture;	un vautour
-leaf_(pluriel:_leaves);	feuille
-to_rise;	s_elever
-lofty;	majestueux
-foliage;	feuillage
-to_rustle;	bruire
-roots;	racines
-sap;	seve
-stem;	tige
-bark;	ecorce
-smooth;	lisse
-rough;	rugueux
-stump;	souche
-woodcutter_(lumberjack);	bucheron
-to_fell_a_tree;	abattre_un_arbre
-axe;	hache
-to_saw;	scier
-to_split;	fendre
-faggot;	fagot
-charcoal;	charbon_de_bois
-chain_saw;	tronconneuse
-lumber_camp;	camp_de_bucherons
-log;	bille_de_bois
-sawmill;	scierie
-wooden;	de_bois
-log_cabin;	cabane
-deforestation;	deforestation
-reforestation;	reforestation
-oak;	chene
-acorn;	gland
-birch;	bouleau
-slender;	mince_elance
-beech;	hetre
-ash;	frene
-elm;	orme
-walnut_tree;	noyer
-chesnut_tree;	chataigner
-horse_chesnut_tree;	marronier
-plane_tree;	platane
-poplar;	peuplier
-deciduous;	a_feuilles_caduques
-to_shed_one's_leaves;	perdre_ses_feuilles
-needle;	aiguille
-pine_tree;	pin
-fir_tree;	sapin
-cypress;	cypres
-yew_tree;	if
-resin;	resine
-evergreen;	a_feuilles_persistantes
-to_be_overrun;	etre_envahi
-rank;	luxuriant
-shrub;	arbuste
-brushwood;	broussailles
-undergrowth;	sous-bois
-stunted;	rabougri
-copse;	taillis
-thicket;	fourré
-bush;	buisson
-mistletoe;	gui
-holly;	houx
-berry;	baie
-prickly;	piquant
-hazelnut;	noisette
-hazeltree;	noisetier
-to_be_overgrown;	etre_recouvert
-moss;	mousse
-fern_bracken;	fougere
-to_decay;	pourrir
-mushroom;	champignon
-edible;	comestible
-harmless;	inoffensif
-poisonous;	veveneux
-toadstool;	champignon_veneneux
-violet;	violette
-hawthorn;	aubepine
-heath;	une_lande
-heather;	bryuère
-broom;	genet
-wolf_(wolves);	un_loup
-wildboar;	sanglier
-squirrel;	écurueil
-woodpecker;	pivert
-turtledove;	tourterelle
-to_coo;	roucouler
-owl;	hibou
-cuckoo;	coucou
+forest;foret
+to plant a tree;planter un arbre
+to cut down a tree;abattre un arbre
+wood;bois
+to_spread;s_etaler
+woody;boisé
+grove;bosquet
+clump_of_trees;bouquet_d_arbres
+outskirts;lisiere
+clearing;clairiere
+tree;arbre
+trunk;tronc
+bough;rameau
+limb;branche_maitresse
+branch;branche
+twig;brindille
+a vulture;un vautour
+leaf_(pluriel:_leaves);feuille
+to_rise;s_elever
+lofty;majestueux
+foliage;feuillage
+to_rustle;bruire
+roots;racines
+sap;seve
+stem;tige
+bark;ecorce
+smooth;lisse
+rough;rugueux
+stump;souche
+woodcutter_(lumberjack);bucheron
+to_fell_a_tree;abattre_un_arbre
+axe;hache
+to_saw;scier
+to_split;fendre
+faggot;fagot
+charcoal;charbon_de_bois
+chain_saw;tronconneuse
+lumber_camp;camp_de_bucherons
+log;bille_de_bois
+sawmill;scierie
+wooden;de_bois
+log_cabin;cabane
+deforestation;deforestation
+reforestation;reforestation
+oak;chene
+acorn;gland
+birch;bouleau
+slender;mince_elance
+beech;hetre
+ash;frene
+elm;orme
+walnut_tree;noyer
+chesnut_tree;chataigner
+horse_chesnut_tree;marronier
+plane_tree;platane
+poplar;peuplier
+deciduous;a_feuilles_caduques
+to_shed_one's_leaves;perdre_ses_feuilles
+needle;aiguille
+pine_tree;pin
+fir_tree;sapin
+cypress;cypres
+yew_tree;if
+resin;resine
+evergreen;a_feuilles_persistantes
+to_be_overrun;etre_envahi
+rank;luxuriant
+shrub;arbuste
+brushwood;broussailles
+undergrowth;sous-bois
+stunted;rabougri
+copse;taillis
+thicket;fourré
+bush;buisson
+mistletoe;gui
+holly;houx
+berry;baie
+prickly;piquant
+hazelnut;noisette
+hazeltree;noisetier
+to_be_overgrown;etre_recouvert
+moss;mousse
+fern_bracken;fougere
+to_decay;pourrir
+mushroom;champignon
+edible;comestible
+harmless;inoffensif
+poisonous;veveneux
+toadstool;champignon_veneneux
+violet;violette
+hawthorn;aubepine
+heath;une_lande
+heather;bryuère
+broom;genet
+wolf_(wolves);un_loup
+wildboar;sanglier
+squirrel;écurueil
+woodpecker;pivert
+turtledove;tourterelle
+to_coo;roucouler
+owl;hibou
+cuckoo;coucou

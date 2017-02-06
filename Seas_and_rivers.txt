@@ -1,174 +1,174 @@
-a current, a stream;	un courant
-down-stream; en aval
-up-stream; en amont
-an octopus; une pieuvre
-in spate; en crue
-a whirlpool; un tourbillon
-jellyfish	; une méduse
-ebb and flow;	le flux et le reflux
-high tide	;marée haute
-low tide;	marée basse
-tidal wave;	raz-de-marée
-the tide goes out	;la marée descend
-the tide comes in	;la marée monte
-the surge, the swell;	la houle
-sandbank;	banc de sable
-foam	;l'écume
-billow;	une lame
-untapped;	non exploité
-the seabed;	le fond de la mer
-pollution	;la pollution
-oil slicks;	des nappes de mazout
-sewage;	les effluents urbains
-waste	;les déchets
-squid;	calamar
-the bathing season;	la saison balnéaire
-a seaside resort;	une station balnéaire
-holiday-makers	;les vacanciers
-to bathe	;se baigner
-a bathe;	un bain
-to get out of one's depth;	perdre pied
-to lose one's footing , to drown, to get drowned;	se noyer
-sailing	;la voile
-yachting;	la navigation de plaisance
-skin-diving	;la plongée sous-marine
-sky-diving;	la chute libre
-flippers;	des palmes
-to bask in the sun	;prendre un bain de Soleil
-sunburnt;	hâlé
-tanned;	bronzé
-sandcastle	;château de sable
-a shell	;un coquillage
-dry-shod;	à pied sec
-seaweed	;des algues
-to paddle	;patauger, barboter
-a net ;	un filet
-crab;	un crabe
-a claw;	une pince
-to pinch so;	pincer qqn
-shellfish, seafood;	des crustacés
-lobster;	homard
-oyster;	huître
-mussel;	moule
-seagull	;mouette
-a shoal of fish	;un banc de poissons
-a fishing  boat	;un bateau de pêche
-meshes;	les mailles
-a trawler	;un châlutier
-a fisherman	;un pêcheur
-sole;	la sole
-herring;	le hareng
-tuna;	le thon
-sardine;	sardine
-cod (Cape Cod, NPC: cot = lit d'enfant);	morue
-to sail the seas;	parcourir les mers
-a warship;	un navire de guerre
-a liner	;un paquebot
-the merchant navy;	la marine marchande
-a steamship, a steamer;	un bateau à vapeur
-a coaster;	un caboteur
-a motor ship;	un bateau à moteur
-a cargoship, a freighter;	un cargo
-an ore tanker	;un minéralier
-the propeller, the screw;	l'hélice
-a paddle steamer;	un bateau à aubes
-the funnel;	la cheminée
-the hull;	la coque
-the keel;	la quille
-the stern	;la poupe
-watertight;	étanche
-to stow sthg;	arrimer qqchose
-to load freight	;charger une cargaison
-to unload, to discharge;	décharger
-a crane;	une grue
-to steer a ship;	gouverner un navire
-the rudder;	le gouvernail
-automatic steering;	le pilotage automatique
-the logbook;	le carnet de bord
-anchor;	une ancre
-to drop anchor;	jeter l'ancre
-to weigh anchor;	lever l'ancre
-starboard	;tribord
-port	;babord
-to fly the flag of;	battre pavillon de
-the crew;	l'équipage
-the compass	;la boussole
-a knot;	un noeud = 1,852 km/h
-a mast;	un mât
-the sails;	les voiles
-under full canvas	;toutes voiles dehors
-to tack about	;tirer des bords
-to drift;	dériver
-a shipyard;	un chantier de construction
-to launch;	lancer
-the home port	;le port d'attache
-to be moored;	être amarré
-the quay, the wharf;	le quai
-the harbour;	le port
-a jetty	;une jetée
-a lighthouse;	un phare
-a tug	;un remorqueur
-to tow;	remorquer
-a buoy;	une bouée
-a lifebuoy;	une bouée de sauvetage
-to be bound for	;faire route vers
-to head for the open sea;	gagner le large
-casualties;	les pertes
-to collide with;	entrer en collision avec
-a life jacket	;un gilet de sauvetage
-a life boat	;un canot de sauvetage
-to be wrecked;	faire naufrage
-a shipwreck	;un naufrage
-a wreck	;une épave
-to sink, sank, sunk;	sombrer, couler
-to run aground;	s'échouer
-to flow	;couler
+a current, a stream;un courant
+down-stream;en aval
+up-stream;en amont
+an octopus;une pieuvre
+in spate;en crue
+a whirlpool;un tourbillon
+jellyfish;une méduse
+ebb and flow;le flux et le reflux
+high tide;marée haute
+low tide;marée basse
+tidal wave;raz-de-marée
+the tide goes out;la marée descend
+the tide comes in;la marée monte
+the surge, the swell;la houle
+sandbank;banc de sable
+foam;l'écume
+billow;une lame
+untapped;non exploité
+the seabed;le fond de la mer
+pollution;la pollution
+oil slicks;des nappes de mazout
+sewage;les effluents urbains
+waste;les déchets
+squid;calamar
+the bathing season;la saison balnéaire
+a seaside resort;une station balnéaire
+holiday-makers;les vacanciers
+to bathe;se baigner
+a bathe;un bain
+to get out of one's depth;perdre pied
+to lose one's footing , to drown, to get drowned;se noyer
+sailing;la voile
+yachting;la navigation de plaisance
+skin-diving;la plongée sous-marine
+sky-diving;la chute libre
+flippers;des palmes
+to bask in the sun;prendre un bain de Soleil
+sunburnt;hâlé
+tanned;bronzé
+sandcastle;château de sable
+a shell;un coquillage
+dry-shod;à pied sec
+seaweed;des algues
+to paddle;patauger, barboter
+a net;un filet
+crab;un crabe
+a claw;une pince
+to pinch so;pincer qqn
+shellfish, seafood;des crustacés
+lobster;homard
+oyster;huître
+mussel;moule
+seagull;mouette
+a shoal of fish;un banc de poissons
+a fishing  boat;un bateau de pêche
+meshes;les mailles
+a trawler;un châlutier
+a fisherman;un pêcheur
+sole;la sole
+herring;le hareng
+tuna;le thon
+sardine;sardine
+cod (Cape Cod, NPC: cot = lit d'enfant);morue
+to sail the seas;parcourir les mers
+a warship;un navire de guerre
+a liner;un paquebot
+the merchant navy;la marine marchande
+a steamship, a steamer;un bateau à vapeur
+a coaster;un caboteur
+a motor ship;un bateau à moteur
+a cargoship, a freighter;un cargo
+an ore tanker;un minéralier
+the propeller, the screw;l'hélice
+a paddle steamer;un bateau à aubes
+the funnel;la cheminée
+the hull;la coque
+the keel;la quille
+the stern;la poupe
+watertight;étanche
+to stow sthg;arrimer qqchose
+to load freight;charger une cargaison
+to unload, to discharge;décharger
+a crane;une grue
+to steer a ship;gouverner un navire
+the rudder;le gouvernail
+automatic steering;le pilotage automatique
+the logbook;le carnet de bord
+anchor;une ancre
+to drop anchor;jeter l'ancre
+to weigh anchor;lever l'ancre
+starboard;tribord
+port;babord
+to fly the flag of;battre pavillon de
+the crew;l'équipage
+the compass;la boussole
+a knot;un noeud = 1,852 km/h
+a mast;un mât
+the sails;les voiles
+under full canvas;toutes voiles dehors
+to tack about;tirer des bords
+to drift;dériver
+a shipyard;un chantier de construction
+to launch;lancer
+the home port;le port d'attache
+to be moored;être amarré
+the quay, the wharf;le quai
+the harbour;le port
+a jetty;une jetée
+a lighthouse;un phare
+a tug;un remorqueur
+to tow;remorquer
+a buoy;une bouée
+a lifebuoy;une bouée de sauvetage
+to be bound for;faire route vers
+to head for the open sea;gagner le large
+casualties;les pertes
+to collide with;entrer en collision avec
+a life jacket;un gilet de sauvetage
+a life boat;un canot de sauvetage
+to be wrecked;faire naufrage
+a shipwreck;un naufrage
+a wreck;une épave
+to sink, sank, sunk;sombrer, couler
+to run aground;s'échouer
+to flow;couler
 a spring	(In spring a spring springs like a spring);une source
-to take one's source;	prendre sa source
-to gush forth;	jaillir
-to ooze	;suinter
-to trickle;	couler goutte à goutte
-a torrent	;un torrent
-a waterfall	;une cascade
-an eddy	;un tourbillon
-to foam	;écumer
-a brook	;un ruisseau
-a tributary	;un affluent
-broad, wide;	large
-narrow;	étroit
-straight;	droit
-winding	;sinueux
-deep;	profond
-shallow	;peu profond
-a ford;	un gué
-to ford	;traverser à gué
-the bank	;la rive
-the edge;	le bord
-the bottom;	le fond
-turbid, muddy	;boueux
-slime [aï];	la vase, le limon
-the river bed	;le lit du fleuve
-an estuary;	un estuaire
-a delta	;un delta
-fresh water;	l'eau douce
-salt water;	l'eau salée
-a lake;	un lac
-a pool;	une mare
-a pond;	un étang
-a swamp, a marsh;	un marais
-to drain;	draîner
-a fish bone	;une arête de poisson
-a fin	;une nageoire
-shrimp;	crevette
-a crayfish;	une écrevisse
-an otter;	une  loutre
-a beaver;	un castor
-a toad	;un crapaud
-a frog;	une grenouille
-a heron	;un héron
-an eel;	une anguille
-reed;	roseau
-kingfisher;	martin pêcheur
-the tow path;	chemin de halage
-a lock;	une écluse
-a sluice;	une vanne
+to take one's source;prendre sa source
+to gush forth;jaillir
+to ooze;suinter
+to trickle;couler goutte à goutte
+a torrent;un torrent
+a waterfall;une cascade
+an eddy;un tourbillon
+to foam;écumer
+a brook;un ruisseau
+a tributary;un affluent
+broad, wide;large
+narrow;étroit
+straight;droit
+winding;sinueux
+deep;profond
+shallow;peu profond
+a ford;un gué
+to ford;traverser à gué
+the bank;la rive
+the edge;le bord
+the bottom;le fond
+turbid, muddy;boueux
+slime [aï];la vase, le limon
+the river bed;le lit du fleuve
+an estuary;un estuaire
+a delta;un delta
+fresh water;l'eau douce
+salt water;l'eau salée
+a lake;un lac
+a pool;une mare
+a pond;un étang
+a swamp, a marsh;un marais
+to drain;draîner
+a fish bone;une arête de poisson
+a fin;une nageoire
+shrimp;crevette
+a crayfish;une écrevisse
+an otter;une  loutre
+a beaver;un castor
+a toad;un crapaud
+a frog;une grenouille
+a heron;un héron
+an eel;une anguille
+reed;roseau
+kingfisher;martin pêcheur
+the tow path;chemin de halage
+a lock;une écluse
+a sluice;une vanne
