@@ -132,5 +132,3 @@ a spy;un espion
 a mole;une taupe
 MI 5 (Military Intelligence 5);le contre-espionnage (anglais)
 a truce;une trève
-to pull the trigger;appuyer sur la gâchette
-
