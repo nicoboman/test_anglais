@@ -15,6 +15,7 @@ to unlock sthg;ouvrir qqch
 a (door) handle;une poignée de porte
 a doorknob;un bouton de porte
 a burglar alarm;une alarme anti-vol
+a folding rule;un mètre pliant
 to bolt;verrouiller
 the hall;le vestibule, l'entrée
 a lift, an elevator;un ascenceur
