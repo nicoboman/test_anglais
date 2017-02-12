@@ -11,6 +11,7 @@ moonlight;clair de lune
 an eclipse;une éclipse
 to twinkle;scintiller
 the Milky Way;la Voie Lactée
+alternate layers;couches alternées
 a shooting star;une étoile filante
 a comet;une comète
 the pole star;l'étoile polaire

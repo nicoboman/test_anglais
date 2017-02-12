@@ -10,6 +10,7 @@ loots, looting;les pillages
 a parcel;un colis
 an inch;un pouce (2,54cm)
 a foot, feet (30,48cm);un pied
+twenty-odd men;environ 20 personnes
 a yard;un yard (91,44cm)
 a mile;un mille (1609m)
 a burglar / a burglary;un cambrioleur / un cambriolage
