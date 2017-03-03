@@ -110,7 +110,6 @@ a fur coat;un manteau de fourrure
 a hood;une capuche
 a handbag;un sac à main
 a purse;une bourse
-a lipstick;un bâton de rouge à lèvres
 lipstick;du rouge à lèvres
 lips;lèvres	
 stick;bâton 
