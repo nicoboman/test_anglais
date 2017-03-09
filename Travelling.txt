@@ -110,7 +110,6 @@ the gear-lever;le levier de vitesse
 the accelerator;l'accélérateur 
 the steering wheel;le volant 
 indicators, winkers;les clignotants 
-a breakdown;une panne 
 a bypass;une déviation 
 a ring road;une rocade 
 a car park;un parking 
