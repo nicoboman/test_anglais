@@ -131,4 +131,3 @@ a ransom;une rançon
 a spy;un espion
 a mole;une taupe
 MI 5 (Military Intelligence 5);le contre-espionnage (anglais)
-a truce;une trève
