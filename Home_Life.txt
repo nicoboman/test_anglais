@@ -38,7 +38,6 @@ a cupboard;un placard
 the dining-room;la salle à manger
 a table;une table
 a drawer;un tiroir
-a chest of drawer;une commode
 a shelf, shelves;une étagère, étagères
 to lay, to set the table;mettre la table
 the kitchen;la cuisine (la pièce)
