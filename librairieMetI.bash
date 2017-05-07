@@ -79,46 +79,24 @@ if [[ "${v_nb_occurences}" == "" ]]
     v_nb_occurences="${v_nb_mots}"
 fi
 
-# Constitution du tableau d'indices alÃ©atoires:
-#----------------------------------------------
-i=0
-compteurNbMotsTraduits=0
-
-while ((i<v_nb_occurences))
-do
-	index_aleatoire=$((RANDOM%$v_nb_mots))
-	((index_aleatoire+=1))
-
-		for element in ${tab_aleatoire[*]}
-		do
-
-			if [[ $index_aleatoire -eq $element ]]
-			then
-				continue 2
-			fi
-		done
-	tab_aleatoire[i]=$index_aleatoire
-	((i+=1))
-done
-
 # Test:
 #------
-i=0
+index=1
+compteurNbMotsTraduits=0
 
-while ((i<v_nb_occurences))
+while ((index<v_nb_occurences))
 do
-	index_aleatoire=${tab_aleatoire[$i]}
 
    	echo -e "\n------------------------------"
 	
 	if [[ $v_type_test == "THEME" ]]
 	then
-		sed -n ''$index_aleatoire'p' "${REPERTOIRE_DONNEES}""${v_sujet}" | cut -d";" -f2 | sed 's/^[	 ]*//'
+		sed -n ''$index'p' "${REPERTOIRE_DONNEES}""${v_sujet}" | cut -d";" -f2 | sed 's/^[	 ]*//'
 	else
-		sed -n ''$index_aleatoire'p' "${REPERTOIRE_DONNEES}""${v_sujet}" | cut -d";" -f1 | sed 's/^[	 ]*//'
+		sed -n ''$index'p' "${REPERTOIRE_DONNEES}""${v_sujet}" | cut -d";" -f1 | sed 's/^[	 ]*//'
 	fi
 	
-  	echo -e "$(expr $i + 1)/$v_nb_occurences - 't' pour traduction - 'q' pour quitter:"
+  	echo -e "$index/$v_nb_occurences - 't' pour traduction - 'q' pour quitter:"
   	read
     	if [[ "${REPLY}" = "q" ]]
     	then
@@ -131,15 +109,15 @@ do
 
 	if [[ $v_type_test == "THEME" ]]
 	then
-		v_mot_traduit=$(sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f1 | sed 's/^[	 ]*//')
+		v_mot_traduit=$(sed -n ''$index'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f1 | sed 's/^[	 ]*//')
 	else
-		v_mot_traduit=$(sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f2 | sed 's/^[	 ]*//')
+		v_mot_traduit=$(sed -n ''$index'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f2 | sed 's/^[	 ]*//')
 	fi
 
 	echo -e "\n\033[1;31;47m${v_mot_traduit}\033[0m"
 
-	v_traduc_anglais=$(sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f2 | sed 's/^[	 ]*//'| sed 's/ /_/g' | sed 's/_$//g')
-	v_traduc_francais=$(sed -n ''$index_aleatoire'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f1 | sed 's/^[	 ]*//'| sed 's/ /_/g' | sed 's/_$//g')
+	v_traduc_anglais=$(sed -n ''$index'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f2 | sed 's/^[	 ]*//'| sed 's/ /_/g' | sed 's/_$//g')
+	v_traduc_francais=$(sed -n ''$index'p' $REPERTOIRE_DONNEES$v_sujet | cut -d";" -f1 | sed 's/^[	 ]*//'| sed 's/ /_/g' | sed 's/_$//g')
 	printf "%-30s-----%30s\n" $v_traduc_anglais $v_traduc_francais>>"${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC}"
 
 	((compteurNbMotsTraduits+=1))
@@ -147,7 +125,7 @@ do
     	echo -e "------------------------------\n"
     	fi	
 
-((i+=1))
+((index+=1))
 
 done
 
