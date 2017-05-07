@@ -1,4 +1,6 @@
 outdoor games;les jeux de plein air
+tread;bande roulement, chape (treadmill)
+footfall;bruit de pas, pas
 a football pitch;un terrain de football
 spare time, free time;du temps libre
 to have a good time;bien s'amuser

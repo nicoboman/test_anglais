@@ -1,4 +1,5 @@
 goods, wares;les marchandises 
+peddler;colporteur, marchant ambulant
 appointment;rendez-vous
 an item;un article
 a range of goods;une gamme de produits
