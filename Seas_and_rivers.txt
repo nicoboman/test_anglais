@@ -32,7 +32,6 @@ to lose one's footing , to drown, to get drowned;se noyer
 sailing;la voile
 yachting;la navigation de plaisance
 skin-diving;la plongée sous-marine
-sky-diving;la chute libre
 flippers;des palmes
 to bask in the sun;prendre un bain de Soleil
 sunburnt;hâlé

@@ -16,7 +16,6 @@ a search engine;un moteur de recherches
 data processing;le traitement des données
 a partner;un associé
 to run a concern;diriger une entreprise
-raw materials;les matières premières
 manufactured goods;les produits manufacturés
 genuine;authentique, garanti
 adulterated;falsifié

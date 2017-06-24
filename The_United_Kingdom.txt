@@ -57,10 +57,6 @@ a parish;une paroisse
 the mayor;le maire 
 to hold a meeting;tenir séance 
 the town-hall;l'hôtel de ville 
-a nurse;une infirmière 
-an ambulance;une ambulance 
-blood transfusion;la transfusion sanguine 
-First-aid;les premiers secours 
 a policeman on the beat;un agent de police qui fait sa ronde 
 a patrol car;une voiture de patrouille 
 a juvenile deliquent;un délinquant juvénile 
