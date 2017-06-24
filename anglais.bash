@@ -7,7 +7,7 @@ set -e
 # Positionnement des constantes #
 #################################
 . ./commun.bash
-readonly C_NB_FICHIERS=46
+readonly C_NB_FICHIERS=47
 readonly C_AFFICH_HISTO_EXEC_START=10
 readonly C_AFFICH_HISTO_EXEC_AFTER_TEST=5
 readonly PS3="Votre choix: "
@@ -58,7 +58,8 @@ Importance_and_degree.txt
 Change.txt
 Literature.txt
 Verbes_irreguliers.txt
-Notes.txt"
+Notes.txt
+Expressions.txt"
 
 ###################################################################
 # Fonction de calcul du nombre de mots dans un fichier de donnees #
@@ -244,7 +245,7 @@ nbLignesHistoTraduc_initial=$(wc -l "${REPERTOIRE_HISTO}""${FICHIER_HISTO_TRADUC
 echo -e '\n\n\t\t\033[4;34;47m **********          MENU - MOT et IDEE          **********\033[0m'
 echo -e '\t\t\033[4;34;47m **********          Faites votre choix          **********\033[0m\n'
 
-select choix in "${tabNomSujet[0]} : ${tabNbreMots[0]}" "${tabNomSujet[1]} : ${tabNbreMots[1]}" "${tabNomSujet[2]} : ${tabNbreMots[2]}" "${tabNomSujet[3]} : ${tabNbreMots[3]}" "${tabNomSujet[4]} : ${tabNbreMots[4]}" "${tabNomSujet[5]} : ${tabNbreMots[5]}" "${tabNomSujet[6]} : ${tabNbreMots[6]}" "${tabNomSujet[7]} : ${tabNbreMots[7]}" "${tabNomSujet[8]} : ${tabNbreMots[8]}" "${tabNomSujet[9]} : ${tabNbreMots[9]}" "${tabNomSujet[10]} : ${tabNbreMots[10]}" "${tabNomSujet[11]} : ${tabNbreMots[11]}" "${tabNomSujet[12]} : ${tabNbreMots[12]}" "${tabNomSujet[13]} : ${tabNbreMots[13]}" "${tabNomSujet[14]} : ${tabNbreMots[14]}" "${tabNomSujet[15]} : ${tabNbreMots[15]}" "${tabNomSujet[16]} : ${tabNbreMots[16]}" "${tabNomSujet[17]} : ${tabNbreMots[17]}" "${tabNomSujet[18]} : ${tabNbreMots[18]}" "${tabNomSujet[19]} : ${tabNbreMots[19]}" "${tabNomSujet[20]} : ${tabNbreMots[20]}" "${tabNomSujet[21]} : ${tabNbreMots[21]}" "-> ${tabNomSujet[22]} : ${tabNbreMots[22]}" "${tabNomSujet[23]} : ${tabNbreMots[23]}" "${tabNomSujet[24]} : ${tabNbreMots[24]}" "${tabNomSujet[25]} : ${tabNbreMots[25]}" "${tabNomSujet[26]} : ${tabNbreMots[26]}" "${tabNomSujet[27]} : ${tabNbreMots[27]}" "${tabNomSujet[28]} : ${tabNbreMots[28]}" "${tabNomSujet[29]} : ${tabNbreMots[29]}" "${tabNomSujet[30]} : ${tabNbreMots[30]}" "${tabNomSujet[31]} : ${tabNbreMots[31]}" "${tabNomSujet[32]} : ${tabNbreMots[32]}" "${tabNomSujet[33]} : ${tabNbreMots[33]}" "${tabNomSujet[34]} : ${tabNbreMots[34]}" "${tabNomSujet[35]} : ${tabNbreMots[35]}" "${tabNomSujet[36]} : ${tabNbreMots[36]}" "${tabNomSujet[37]} : ${tabNbreMots[37]}" "${tabNomSujet[38]} : ${tabNbreMots[38]}" "${tabNomSujet[39]} : ${tabNbreMots[39]}" "${tabNomSujet[40]} : ${tabNbreMots[40]}" "${tabNomSujet[41]} : ${tabNbreMots[41]}" "${tabNomSujet[42]} : ${tabNbreMots[42]}" "${tabNomSujet[43]} : ${tabNbreMots[43]}" "${tabNomSujet[44]} : ${tabNbreMots[44]}" "${tabNomSujet[45]} : ${tabNbreMots[45]}" "q Quitter" 
+select choix in "${tabNomSujet[0]} : ${tabNbreMots[0]}" "${tabNomSujet[1]} : ${tabNbreMots[1]}" "${tabNomSujet[2]} : ${tabNbreMots[2]}" "${tabNomSujet[3]} : ${tabNbreMots[3]}" "${tabNomSujet[4]} : ${tabNbreMots[4]}" "${tabNomSujet[5]} : ${tabNbreMots[5]}" "${tabNomSujet[6]} : ${tabNbreMots[6]}" "${tabNomSujet[7]} : ${tabNbreMots[7]}" "${tabNomSujet[8]} : ${tabNbreMots[8]}" "${tabNomSujet[9]} : ${tabNbreMots[9]}" "${tabNomSujet[10]} : ${tabNbreMots[10]}" "${tabNomSujet[11]} : ${tabNbreMots[11]}" "${tabNomSujet[12]} : ${tabNbreMots[12]}" "${tabNomSujet[13]} : ${tabNbreMots[13]}" "${tabNomSujet[14]} : ${tabNbreMots[14]}" "${tabNomSujet[15]} : ${tabNbreMots[15]}" "${tabNomSujet[16]} : ${tabNbreMots[16]}" "${tabNomSujet[17]} : ${tabNbreMots[17]}" "${tabNomSujet[18]} : ${tabNbreMots[18]}" "${tabNomSujet[19]} : ${tabNbreMots[19]}" "${tabNomSujet[20]} : ${tabNbreMots[20]}" "${tabNomSujet[21]} : ${tabNbreMots[21]}" "-> ${tabNomSujet[22]} : ${tabNbreMots[22]}" "${tabNomSujet[23]} : ${tabNbreMots[23]}" "${tabNomSujet[24]} : ${tabNbreMots[24]}" "${tabNomSujet[25]} : ${tabNbreMots[25]}" "${tabNomSujet[26]} : ${tabNbreMots[26]}" "${tabNomSujet[27]} : ${tabNbreMots[27]}" "${tabNomSujet[28]} : ${tabNbreMots[28]}" "${tabNomSujet[29]} : ${tabNbreMots[29]}" "${tabNomSujet[30]} : ${tabNbreMots[30]}" "${tabNomSujet[31]} : ${tabNbreMots[31]}" "${tabNomSujet[32]} : ${tabNbreMots[32]}" "${tabNomSujet[33]} : ${tabNbreMots[33]}" "${tabNomSujet[34]} : ${tabNbreMots[34]}" "${tabNomSujet[35]} : ${tabNbreMots[35]}" "${tabNomSujet[36]} : ${tabNbreMots[36]}" "${tabNomSujet[37]} : ${tabNbreMots[37]}" "${tabNomSujet[38]} : ${tabNbreMots[38]}" "${tabNomSujet[39]} : ${tabNbreMots[39]}" "${tabNomSujet[40]} : ${tabNbreMots[40]}" "${tabNomSujet[41]} : ${tabNbreMots[41]}" "${tabNomSujet[42]} : ${tabNbreMots[42]}" "${tabNomSujet[43]} : ${tabNbreMots[43]}" "${tabNomSujet[44]} : ${tabNbreMots[44]}" "${tabNomSujet[45]} : ${tabNbreMots[45]}" "${tabNomSujet[46]} : ${tabNbreMots[46]}" "q Quitter" 
 
 do
 
@@ -356,6 +357,8 @@ case "${REPLY}" in
     45) titre="Verbes_irreguliers.txt"
 	lancerTest;;
     46) titre="Notes.txt"
+	lancerTest;;
+	47) titre="Expressions.txt"
 	lancerTest;;
     q) quitterTest;;
     *) echo -e "Choix non valide.";;
