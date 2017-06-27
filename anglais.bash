@@ -177,7 +177,7 @@ fi
 # Fonction Usage #
 ##################
 function usage() {
-  echo -e "\tObjet: ce script permet de reviser du vocabulaire anglais, classe par theme."
+  echo -e "\tObjet: Le script `basename "${0}"` permet de reviser du vocabulaire anglais, classe par theme."
   echo -e "\tLancement du test: lancer le script anglais.bash avec l'option courte -t ou l'option longue --test"
 }
 
