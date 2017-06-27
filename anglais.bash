@@ -7,6 +7,7 @@ set -e
 # Positionnement des constantes #
 #################################
 . ./commun.bash
+readonly VERSION='1.0.1'
 readonly C_NB_FICHIERS=47
 readonly C_AFFICH_HISTO_EXEC_START=10
 readonly C_AFFICH_HISTO_EXEC_AFTER_TEST=5
@@ -177,8 +178,17 @@ fi
 # Fonction Usage #
 ##################
 function usage() {
-  echo -e "\tObjet: Le script `basename "${0}"` permet de reviser du vocabulaire anglais, classe par theme."
-  echo -e "\tLancement du test: lancer le script `basename "${0}"` avec l'option courte -t ou l'option longue --test"
+  echo -e "\tObjet: Le script `basename "${0}"` permet de réviser du vocabulaire anglais, classe par thème."
+  echo -e "\tLancement du test: lancer le script `basename "${0}"` avec les options:"
+  echo -e "\t\t* -t ou --test pour exécuter un test"
+  echo -e "\t\t* -v ou --version pour afficher la version du script"
+}
+
+####################
+# Fonction Version #
+####################
+function version() {
+  echo -e "\t`basename "${0}"` : ${VERSION}."
 }
 
 ######################################
@@ -188,14 +198,14 @@ function usage() {
 while true
 do
     case "${1}" in
-      -t)
+      -t | --test)
       break
       ;;
-      --test)
-      break
+	  -v | --version) version
+      exit 0
       ;;
       *) usage
-      exit 1
+      exit 0
       ;;
     esac
 done
