@@ -1,7 +1,6 @@
 the household;la maisonnée
 to have a miscarriage;faire une fausse-couche
 to dump somebody;larguer quelqu'un
-it was love at first sight;ce fut le coup de foudre
 to cheat on one's wife;tromper sa femme
 birth control;le contrôle des naissances
 a newborn;un nouveau-né
@@ -61,7 +60,6 @@ to spoil;gâter
 severe;sevère
 harsh;dur, cruel
 to punish;punir
-to punish;punir
 obedient;obéissant
 to obey so;obéir à qqn
 quiet;tranquille, doux
@@ -118,6 +116,4 @@ to get divorced;divorcer
 to go into mourning;prendre le deuil
 Like father, like son;Tel père, tel fils.
 Marry in haste, repent at leisure;Qui se marie à la hâte, se repent à loisir.
-Spare the road and spoil the child;Qui aime bien châtie bien.
-A friend in need is a friend indeed;Un ami dans le besoin est un vrai ami.
 The more, the merrier;Plus on est de fous, plus on rit.

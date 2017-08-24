@@ -111,7 +111,6 @@ the knee;le genou
 the kneecap;la rotule
 the calf;le mollet
 the ankle;la cheville
-to sprain an ankle;se fouler la cheville
 the toes;les orteils
 the sole;la plante du pied
 the heels;les talons
