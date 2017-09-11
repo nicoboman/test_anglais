@@ -84,7 +84,7 @@ fi
 index=1
 compteurNbMotsTraduits=0
 
-while ((index<v_nb_occurences))
+while ((index<=v_nb_occurences))
 do
 
    	echo -e "\n------------------------------"
