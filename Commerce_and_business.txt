@@ -6,7 +6,6 @@ a range of goods;une gamme de produits
 to hire;embaucher
 to retire;partir à la retraite
 bookkeeping;la comptabilité
-my area of expertise;mon domaine de compétence
 cost-effective, profitable;rentable
 to sack/to get sacked;licencier/être licencié
 to make so redundant;licencier qqn
@@ -93,7 +92,6 @@ an employee;un employé
 to resign;demissionner 
 resignation;la démission 
 part-time jobs;les emplois à temps partiel 
-to retire;partir à la retraite 
 a clerk;un employé 
 an accountant;un comptable 
 a shorthand typist;une sténodactylo 
