@@ -7,7 +7,7 @@ set -e
 # Positionnement des constantes #
 #################################
 . ./commun.bash
-readonly VERSION='1.0.1'
+readonly VERSION='1.1.0'
 readonly C_NB_FICHIERS=47
 readonly C_AFFICH_HISTO_EXEC_START=10
 readonly C_AFFICH_HISTO_EXEC_AFTER_TEST=5
