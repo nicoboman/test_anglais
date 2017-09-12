@@ -77,6 +77,14 @@ read v_nb_occurences
 if [[ "${v_nb_occurences}" == "" ]]
   then
     v_nb_occurences="${v_nb_mots}"
+	
+# Si l'utilisateur demande plus d'occurences que le fichier ne comporte de lignes, alors:
+# nb occurences = nb lignes du fichier
+elif [[ "${v_nb_occurences}" -gt "${v_nb_mots}" ]]
+then
+    v_nb_occurences="${v_nb_mots}"
+    echo -e "\n\033[1;31;47mLe nombre d'occurences demandé est supérieur au nombre de mots du fichier...\033[0m"
+   
 fi
 
 # Test:
