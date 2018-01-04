@@ -78,8 +78,6 @@ a socket;une prise femelle
 to redecorate;repeindre, retapisser
 furniture;des meubles
 to settle;s'installer
-to move in;emmenager
-to move out;déménager
 a house-warming party;une pendaison de crémaillère
 a hedge;une haie
 a fence;une clôture
