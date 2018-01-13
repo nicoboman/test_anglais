@@ -31,7 +31,7 @@ hard of hearing;dur d'oreille
 deaf	-> en Angleterre: "he can't hear you, he's deaf";sourd
 stone-deaf;sourd comme un pot
 to sound + adj;sembler + adj
-It sounds like, as if;
+It sounds like, as if;sembler (par le son)
 out of hearing;trop loin pour entendre
 within earshot;à portée de voix
 silent;silencieux
