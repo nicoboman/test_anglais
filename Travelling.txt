@@ -1,4 +1,6 @@
 to travel;voyager 
+causeway;chaussée
+to pull up;s'arrêter (voiture)
 the plane is DUE to take off at 6am;l'avion décolle à 6h
 handbrake / footbrake;frein à main / pédale de frein
 to take three days off;prendre 3 jours de congés
